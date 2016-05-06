@@ -1,0 +1,1562 @@
+{
+	"producer": {
+		"name": "Airwave",
+		"url": "./output/wings/logo/Airwave.png",
+		"uuid": "d80cc4b1-2d02-46ac-ac74-39794f10869d"
+	},
+	"wings": [
+		{
+			"name": "Alpine",
+			"uuid": "d5b0f23b-7fe4-4573-84ab-fffa935e1d13",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "Extreme",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Himalaya",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bi-boo",
+			"uuid": "69b66e34-7038-4591-9443-ce92fd4cd598",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Burn",
+			"uuid": "050ca114-cce4-4418-a512-9f5220f821e2",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "55"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Carve",
+			"uuid": "4a60216f-d27a-4b32-83f4-12c548dfbfad",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "13",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cobra",
+			"uuid": "1ff8dea7-853a-4611-a66b-6896095b1a3b",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Combi",
+			"uuid": "46535e14-0f40-4306-861e-5746f3321566",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "200"
+					}
+				}
+			]
+		},
+		{
+			"name": "Explorer",
+			"uuid": "2b8f3256-a9e3-4b15-bd7f-8488f20c292e",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Paramotor",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100",
+						"weight": "5.2"
+					},
+					"area": {
+						"areaFlat": "26.5",
+						"spanFlat": "11.7",
+						"ratioFlat": "5.2",
+						"areaProj": "22.3"
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "No",
+						"risers": "3",
+						"bestSinkRate": "1.1"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.4"
+					},
+					"area": {
+						"areaFlat": "28.3",
+						"spanFlat": "12.1",
+						"ratioFlat": "5.2",
+						"areaProj": "23.8"
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "No",
+						"risers": "3",
+						"bestSinkRate": "1.1"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "5.8"
+					},
+					"area": {
+						"areaFlat": "30.5",
+						"spanFlat": "12.6",
+						"ratioFlat": "5.2",
+						"areaProj": "25.7"
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "No",
+						"risers": "3",
+						"bestSinkRate": "1.1"
+					}
+				}
+			]
+		},
+		{
+			"name": "Flite",
+			"uuid": "56e7c70e-eeea-4669-aa83-f0e50560f25f",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Gecko",
+			"uuid": "bca524bc-0429-4526-959e-77a3160e0c00",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Gecko 2",
+			"uuid": "f7fb0fbb-d847-4809-a486-2b64df0da653",
+			"year": "2012",
+			"url": "http://www.airwave-gliders.com/paragliders/paraglider-en-a--gecko-2-21-0-0.html",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85",
+						"weight": "4.2"
+					},
+					"area": {
+						"cells": "34",
+						"areaFlat": "23.58",
+						"spanFlat": "10.78",
+						"ratioFlat": "4.93",
+						"areaProj": "20.1",
+						"spanProj": "8.58",
+						"ratioProj": "3.61"
+					},
+					"properties": {
+						"acceleration": "Yes, 13 cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "7.5",
+						"maxChord": "2.66",
+						"maxSpeed": "45",
+						"trimSpeed": "35"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105",
+						"weight": "4.8"
+					},
+					"area": {
+						"cells": "34",
+						"areaFlat": "26.12",
+						"spanFlat": "11.35",
+						"ratioFlat": "4.93",
+						"areaProj": "22.27",
+						"spanProj": "9.03",
+						"ratioProj": "3.61"
+					},
+					"properties": {
+						"acceleration": "Yes, 13 cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "7.5",
+						"maxChord": "2.81",
+						"maxSpeed": "45",
+						"trimSpeed": "35"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125",
+						"weight": "5.2"
+					},
+					"area": {
+						"cells": "34",
+						"areaFlat": "28.8",
+						"spanFlat": "11.92",
+						"ratioFlat": "4.93",
+						"areaProj": "24.55",
+						"spanProj": "9.48",
+						"ratioProj": "3.61"
+					},
+					"properties": {
+						"acceleration": "Yes, 13 cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "7.5",
+						"maxChord": "2.81",
+						"maxSpeed": "45",
+						"trimSpeed": "35"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kiss",
+			"uuid": "786d0d9a-bbb2-43ee-ad75-cc3d62a9c54a",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Magic 2",
+			"uuid": "1e9f0b75-9af8-46a8-920f-acacc239f281",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Magic 3",
+			"uuid": "6864299f-2708-4c48-a62f-9c502cd9ee2a",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Magic 4",
+			"uuid": "0a3f351d-491c-42fd-b11e-b4367588ead8",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "55"
+					}
+				}
+			]
+		},
+		{
+			"name": "Magic 5",
+			"uuid": "00dfb712-b689-4d76-bf06-4c6e19de91c0",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Magic Fr",
+			"uuid": "3dbf3ddc-f396-45b5-b19e-2b9ff26a0234",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "123"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "109"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "97"
+					}
+				}
+			]
+		},
+		{
+			"name": "Magic Fr2",
+			"uuid": "8d5d5193-e40b-4ce3-9e69-95cb985d2e83",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "92"
+					}
+				},
+				{
+					"size": "21.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "88",
+						"weightMax": "98"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "96",
+						"weightMax": "106"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "118"
+					}
+				}
+			]
+		},
+		{
+			"name": "Magic Fr3",
+			"uuid": "f15ec81a-7760-4501-aaa1-7aca24bf1dc6",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Magic Fr4",
+			"uuid": "c89a042a-1da9-4dab-b44f-5aa5a9dd4096",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Magic Fr5",
+			"uuid": "32738111-f834-4498-8263-53496f61271d",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "24.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "122"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mustang 2",
+			"uuid": "7ae88a21-3a18-4ee2-acca-5b56ba0595bb",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "83",
+						"weightMax": "103"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xxl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "135",
+						"weightMax": "160"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mustang",
+			"uuid": "82ac7c79-9e23-40d1-aaad-df08cb4e7d5b",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "S380",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "S420",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "S500",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "S550",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Puma",
+			"uuid": "14f0195c-1bbf-4871-afa8-3123bda5f433",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rodeo",
+			"uuid": "6cd13882-92e4-414e-942c-c5fb7316bccb",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Scenic 2",
+			"uuid": "320f7bfe-82e4-40ce-a49a-47080820b2f2",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Skima",
+			"uuid": "3ec5e3c5-60eb-4687-83f7-f0323349f068",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "13",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Slingshot",
+			"uuid": "401a1979-beb9-4e2b-9637-62dae820f66e",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "17.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sport 2",
+			"uuid": "67ef3e0c-15f0-40dc-9e52-ac88fe827172",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sport 3",
+			"uuid": "c7bd2db1-4aa3-4e36-842e-dc604339c18a",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sport 4",
+			"uuid": "ed0bdd86-9d2e-4726-a4bd-ad6cddd3b403",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "65"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sport 5",
+			"uuid": "efed5c4a-d1f7-40c3-b381-ba3cdd09dfee",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sport",
+			"uuid": "9f7e9dba-a7a4-488f-be90-68686ba9084f",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stingray",
+			"uuid": "c0333945-d580-473b-b11f-5edad96dc7a8",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tandem",
+			"uuid": "361c68bb-f328-4472-8167-ab0d4c4cd204",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ten",
+			"uuid": "d6107191-3374-4bbc-a07a-73b2a586f8e3",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Wave 2",
+			"uuid": "0effbb80-2264-4655-9754-80e3ef2acf0d",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "69",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "56",
+						"weightMax": "74"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "60"
+					}
+				}
+			]
+		},
+		{
+			"name": "Wave 3",
+			"uuid": "c52df6a2-edd0-428e-b7cb-70a44af364c2",
+			"year": "2012",
+			"url": "http://www.airwave-gliders.com/paragliders/paraglider-en-b--wave-3-22-0-0.html",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85",
+						"weight": "4.8"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "25.16",
+						"spanFlat": "10.96",
+						"ratioFlat": "4.87",
+						"areaProj": "21.59",
+						"spanProj": "8.73",
+						"ratioProj": "3.57"
+					},
+					"properties": {
+						"acceleration": "Yes, 13 cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "8.5",
+						"maxChord": "2.81",
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105",
+						"weight": "5.2"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "27.3",
+						"spanFlat": "11.42",
+						"ratioFlat": "4.87",
+						"areaProj": "23.43",
+						"spanProj": "9.09",
+						"ratioProj": "3.57"
+					},
+					"properties": {
+						"acceleration": "Yes, 13 cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "8.5",
+						"maxChord": "2.81",
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120",
+						"weight": "5.6"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "29.53",
+						"spanFlat": "11.88",
+						"ratioFlat": "4.87",
+						"areaProj": "25.34",
+						"spanProj": "9.45",
+						"ratioProj": "3.57"
+					},
+					"properties": {
+						"acceleration": "Yes, 13 cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "8.5",
+						"maxChord": "2.81",
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		},
+		{
+			"name": "Wave",
+			"uuid": "98753d6e-99c2-4334-ba88-ffcd7af359fd",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		}
+	]
+}

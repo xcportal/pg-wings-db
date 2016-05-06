@@ -1,0 +1,62 @@
+{
+	"producer": {
+		"name": "Cz Wings",
+		"url": "./output/wings/logo/Cz Wings.png",
+		"uuid": "67547277-7a71-4399-9b9e-c59cc339748b"
+	},
+	"wings": [
+		{
+			"name": "Ascender",
+			"uuid": "441826d5-52c8-45e6-a29e-586e7cc65c3b",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Belay",
+			"uuid": "13015d27-c57d-4ca4-9b38-58e9dec83f50",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Venturi",
+			"uuid": "f2318352-6ee7-4023-9fb4-b62fe739198a",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		}
+	]
+}

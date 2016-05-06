@@ -1,0 +1,537 @@
+{
+	"producer": {
+		"name": "Paratech",
+		"url": "./output/wings/logo/Paratech.png",
+		"uuid": "4dea4e77-fc3e-43bd-ac61-beb678aacd2b"
+	},
+	"wings": [
+		{
+			"name": "P11",
+			"uuid": "6f3dad08-70cb-46b8-b2b1-16296bb989c2",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "P12",
+			"uuid": "54062b8b-5d49-4dfd-800b-8c631f7689da",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "P180",
+			"uuid": "0b126483-323c-4d73-b29b-16802889a814",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "11",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "13",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "P26",
+			"uuid": "01b0956d-c612-4143-9a68-958ad724d9c3",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "P27",
+			"uuid": "eb9bb8e8-47fb-4c40-817e-f013699e2fa6",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "P28",
+			"uuid": "9fc0002b-ff0a-413d-9cd2-0ef371cdd42e",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "P360",
+			"uuid": "14700840-554f-4129-8fcf-5634221596b2",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "P43",
+			"uuid": "46739fb0-eae2-411c-a491-5dd99fccc31d",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "128"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "P44",
+			"uuid": "1bbd1d4a-8557-4a18-9d1f-faf9c42bbfec",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "P45",
+			"uuid": "2e241034-a1a4-43b1-bb86-9cc07228eefc",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "P720",
+			"uuid": "7c070298-8809-4d06-a7b8-342a74a47ce7",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "P80",
+			"uuid": "a0cb1b93-e4f1-45af-a2c9-1c16cd6f28ae",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "P81",
+			"uuid": "024c29fa-d179-4a24-8262-2230aa4af2e8",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pbi4",
+			"uuid": "6827a0fc-de47-4f83-a79a-de5a5c22a5e6",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "225"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pbi5",
+			"uuid": "30e95bb7-2dec-46cd-82e2-06972ff48e1b",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "225"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "190"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pbi6",
+			"uuid": "c2ce0606-c1f4-4d68-bc36-8fd0981eb067",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "225"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "190"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,258 @@
+{
+	"producer": {
+		"name": "Paramania",
+		"url": "./output/wings/logo/Paramania.png",
+		"uuid": "e8dc5b7b-6bb3-4ad6-aa03-7b8d23c132d4"
+	},
+	"wings": [
+		{
+			"name": "Action Gt",
+			"uuid": "906c9836-0cf7-4fb0-b2c7-117862cc731d",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "115"
+					}
+				}
+			]
+		},
+		{
+			"name": "Action Gtr",
+			"uuid": "a5383c9c-08a0-4764-a970-dc719ed6cf3f",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "160"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fusion",
+			"uuid": "eb87de8d-88b4-4a88-bb1e-fb294276cffc",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Gofly",
+			"uuid": "2ce16bd1-c63e-4c73-beab-c78a58b1a032",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Revo 2",
+			"uuid": "3eb8f4cd-52ee-4f4c-ad3d-5bbb39acf3e4",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Revolution",
+			"uuid": "63125ad1-2f1d-419b-bcc1-51cfa8392261",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "36",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "180"
+					}
+				}
+			]
+		},
+		{
+			"name": "Taxi",
+			"uuid": "01a4f3cf-d2c9-4700-96ad-851651fb079e",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "41",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "160",
+						"weightMax": "350"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,203 @@
+{
+	"producer": {
+		"name": "Little Cloud",
+		"url": "./output/wings/logo/Little Cloud.png",
+		"uuid": "46743ab3-ad75-446f-b876-2ba3ddb37e86"
+	},
+	"wings": [
+		{
+			"name": "Atypik",
+			"uuid": "d4696b29-3ec3-4dd8-a1fd-b486423da61e",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "115"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bidule",
+			"uuid": "b4bb2d9e-e28f-4dae-b73d-a13cb73ffc3f",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "200",
+						"weightMax": "200"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ginseng",
+			"uuid": "393c6194-b6f8-42d5-b456-1c32dfeda85a",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "155",
+						"weightMax": "155"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "135",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "115"
+					}
+				}
+			]
+		},
+		{
+			"name": "Goose",
+			"uuid": "6c244f43-436d-4be4-85e3-a7d3de9c251d",
+			"year": "2013",
+			"url": "http://www.littlecloud.fr/en/range/goose/tech-specs/",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "4.2"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "19.5",
+						"spanFlat": "9.7",
+						"ratioFlat": "4.7",
+						"upperSurface": "41g DOKDO 30D",
+						"underSurface": "35g, DOKDO 20D"
+					},
+					"properties": {
+						"risers": "4"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "4.4"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "20.7",
+						"spanFlat": "9.81",
+						"ratioFlat": "4.7",
+						"upperSurface": "41g DOKDO 30D",
+						"underSurface": "35g, DOKDO 20D"
+					},
+					"properties": {
+						"risers": "4"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kagoo",
+			"uuid": "cdf40523-6bc4-43b4-97fa-fc92ff95199a",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mario",
+			"uuid": "a6b41d6d-dac5-403e-bdc9-72c8bc6c8dcf",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Spiruline",
+			"uuid": "8aa50236-21e8-474f-b9c3-d993dd22d47a",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "14",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "115"
+					}
+				}
+			]
+		}
+	]
+}

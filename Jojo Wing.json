@@ -1,0 +1,156 @@
+{
+	"producer": {
+		"name": "Jojo Wing",
+		"url": "./output/wings/logo/Jojo Wing.png",
+		"uuid": "7f0f3c88-abd7-4e08-9b90-d066456412a3"
+	},
+	"wings": [
+		{
+			"name": "Quest",
+			"uuid": "27f6ff18-81ab-4bee-bf5d-50a597f53102",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "230"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "155",
+						"weightMax": "200"
+					}
+				}
+			]
+		},
+		{
+			"name": "Speedy",
+			"uuid": "74103a1a-eb5f-40db-9555-10b988cc9f87",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "123"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "136"
+					}
+				}
+			]
+		},
+		{
+			"name": "Top-r",
+			"uuid": "1dc0de78-3e2a-429e-9595-7d4281bb455c",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Toyo",
+			"uuid": "0d4cc6e6-9ecb-4e9d-b1ae-2b70add098b8",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "14",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Yon",
+			"uuid": "67dd8bba-88c3-4145-9fd2-4ca71b00cd57",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		}
+	]
+}

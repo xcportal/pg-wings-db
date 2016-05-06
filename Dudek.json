@@ -1,0 +1,1511 @@
+{
+	"producer": {
+		"name": "Dudek",
+		"url": "./output/wings/logo/Dudek.png",
+		"uuid": "eb3547f0-0b49-4dc0-99fe-f42a3abb7e17"
+	},
+	"wings": [
+		{
+			"name": "Action",
+			"uuid": "d2095991-a150-4378-aeb4-4323ca6d99a3",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "145"
+					}
+				}
+			]
+		},
+		{
+			"name": "Air Light 2",
+			"uuid": "024b5e1e-4108-465f-adeb-710525c52db4",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "65"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Bi",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "180"
+					}
+				}
+			]
+		},
+		{
+			"name": "Air Light",
+			"uuid": "246bcb27-8af3-494e-aaf5-59ae3b69b339",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "Bi",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "180"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Atak",
+			"uuid": "785d3727-bfdc-42cc-9f8f-7503e7848c74",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "25.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Boheme",
+			"uuid": "5235e6df-9e9b-44bc-8e0f-b7f97c113dc7",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Coden",
+			"uuid": "a42849af-c4a4-40cb-9f7b-585382ed9f2e",
+			"year": "2012",
+			"url": "http://www.dudek.eu/uniwersalne-pg/coden.html",
+			"subwing": [
+				{
+					"size": "25.5",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120",
+						"weight": "6.5"
+					},
+					"area": {
+						"cells": "77",
+						"areaFlat": "25.5",
+						"spanFlat": "13.31",
+						"ratioFlat": "6.95",
+						"areaProj": "21.75",
+						"spanProj": "10.69",
+						"ratioProj": "5.25",
+						"upperSurface": "Dominicotex 38",
+						"underSurface": "Dominicotex 34"
+					},
+					"properties": {
+						"acceleration": "Yes, 13 cm",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Colt",
+			"uuid": "bece102a-34d6-46c1-b9e3-27b29e8852a0",
+			"year": "2012",
+			"url": "http://www.dudek.eu/uniwersalne-pg/colt.html",
+			"subwing": [
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100",
+						"weight": "6"
+					},
+					"area": {
+						"cells": "59",
+						"areaFlat": "26",
+						"spanFlat": "12.39",
+						"ratioFlat": "5.9",
+						"areaProj": "22.49",
+						"spanProj": "9.99",
+						"ratioProj": "4.44",
+						"upperSurface": "Dokdo 38 g/m² ",
+						"underSurface": "Dokdo 34 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "23",
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "28.5",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120",
+						"weight": "6.4"
+					},
+					"area": {
+						"cells": "59",
+						"areaFlat": "28.5",
+						"spanFlat": "12.97",
+						"ratioFlat": "5.9",
+						"areaProj": "24.65",
+						"spanProj": "10.46",
+						"ratioProj": "4.44",
+						"upperSurface": "Dokdo 38 g/m² ",
+						"underSurface": "Dokdo 34 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "23",
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140",
+						"weight": "6.7"
+					},
+					"area": {
+						"cells": "59",
+						"areaFlat": "31",
+						"spanFlat": "13.52",
+						"ratioFlat": "5.9",
+						"areaProj": "26.8",
+						"spanProj": "10.9",
+						"ratioProj": "4.44",
+						"upperSurface": "Dokdo 38 g/m² ",
+						"underSurface": "Dokdo 34 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "23",
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		},
+		{
+			"name": "Condor",
+			"uuid": "917cf6ed-c8b3-4044-8705-9af7277efc4b",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "35",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "180"
+					}
+				},
+				{
+					"size": "50",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "250",
+						"weightMax": "400"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Dolphin",
+			"uuid": "323ec990-90ee-45c6-8b4f-6a5b9a63f5a2",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Dudek Nemo XX",
+			"uuid": "f3be2a86-d0dc-4d65-b3e2-358a560ea496",
+			"url": "http://www.dudek.eu/uniwersalne-pg/nemo-xx.html",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "EN A"
+				},
+				{
+					"size": "23",
+					"certificate": "EN A"
+				},
+				{
+					"size": "25",
+					"certificate": "EN A"
+				},
+				{
+					"size": "28",
+					"certificate": "EN A"
+				},
+				{
+					"size": "31",
+					"certificate": "EN A"
+				}
+			]
+		},
+		{
+			"name": "Guliver",
+			"uuid": "591532c4-25b1-4a23-b097-410b31d434e9",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "350"
+					}
+				}
+			]
+		},
+		{
+			"name": "Hadron",
+			"uuid": "c8947817-c711-4c9a-acfd-abba93e0bac3",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Manta",
+			"uuid": "351029bf-7a5c-4d86-89b4-d23497fe76da",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Marlin",
+			"uuid": "5cdffb4a-f12c-4dfd-bdee-54c3fd37fdd8",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "12",
+					"certificate": "Ground Training",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "36",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "160"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nemo 2",
+			"uuid": "737e104c-1c3d-420e-8342-4a0302de6b06",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "65"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nemo",
+			"uuid": "1e976d8f-65da-421f-9665-d5a8a23137a2",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "65"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nucleon",
+			"uuid": "52a2c39c-0e29-4348-b1c0-6a8d8719c504",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "145"
+					}
+				},
+				{
+					"size": "34",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "175"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "170",
+						"weightMax": "310"
+					}
+				}
+			]
+		},
+		{
+			"name": "Optic",
+			"uuid": "cb38023b-655e-4dff-b940-e17d11ed571f",
+			"year": "2012",
+			"url": "http://www.dudek.eu/uniwersalne-pg/optic.html",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70",
+						"weight": "4.9"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "22",
+						"spanFlat": "10.95",
+						"ratioFlat": "5.45",
+						"areaProj": "19.01",
+						"spanProj": "8.8",
+						"ratioProj": "4.07",
+						"upperSurface": "Dominicotex 38",
+						"underSurface": "Dominicotex 34"
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "23",
+						"maxSpeed": "51",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85",
+						"weight": "5.5"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "24",
+						"spanFlat": "11.44",
+						"ratioFlat": "5.45",
+						"areaProj": "20.74",
+						"spanProj": "9.19",
+						"ratioProj": "4.07",
+						"upperSurface": "Dominicotex 38",
+						"underSurface": "Dominicotex 34"
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "23",
+						"maxSpeed": "51",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "26",
+						"spanFlat": "11.9",
+						"ratioFlat": "5.45",
+						"areaProj": "22.47",
+						"spanProj": "9.57",
+						"ratioProj": "4.07",
+						"upperSurface": "Dominicotex 38",
+						"underSurface": "Dominicotex 34"
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "23",
+						"maxSpeed": "51",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120",
+						"weight": "6"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "28",
+						"spanFlat": "12.35",
+						"ratioFlat": "5.45",
+						"areaProj": "24.2",
+						"spanProj": "9.93",
+						"ratioProj": "4.07",
+						"upperSurface": "Dominicotex 38",
+						"underSurface": "Dominicotex 34"
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "23",
+						"maxSpeed": "51",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140",
+						"weight": "6.7"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "31",
+						"spanFlat": "13",
+						"ratioFlat": "5.45",
+						"areaProj": "26.79",
+						"spanProj": "10.45",
+						"ratioProj": "4.07",
+						"upperSurface": "Dominicotex 38",
+						"underSurface": "Dominicotex 34"
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "23",
+						"maxSpeed": "51",
+						"trimSpeed": "37"
+					}
+				}
+			]
+		},
+		{
+			"name": "Optic 28",
+			"uuid": "914fc752-cef8-4228-8948-7dfe69ec9bad",
+			"year": "2012",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN B"
+				}
+			]
+		},
+		{
+			"name": "Orca",
+			"uuid": "86727a3b-e051-4515-aaab-1dfdb01ff28c",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "180"
+					}
+				},
+				{
+					"size": "41",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210"
+					}
+				},
+				{
+					"size": "45",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "270"
+					}
+				},
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "Orca2",
+			"uuid": "daee6c89-9db1-415a-b04f-a407dfd0b4d8",
+			"year": "2012",
+			"url": "http://www.dudek.eu/uniwersalne-pg/orca-2.html",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "190",
+						"weight": "8.4"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "38",
+						"spanFlat": "14.06",
+						"ratioFlat": "5.2",
+						"areaProj": "32.94",
+						"spanProj": "11.39",
+						"ratioProj": "3.94",
+						"upperSurface": "Porcher Evolution 40 g/m2",
+						"underSurface": "Porcher Evolution 32 g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "46",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "230",
+						"weight": "8.4"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "42",
+						"spanFlat": "14.78",
+						"ratioFlat": "5.2",
+						"areaProj": "36.41",
+						"spanProj": "11.97",
+						"ratioProj": "3.94",
+						"upperSurface": "Porcher Evolution 40 g/m2",
+						"underSurface": "Porcher Evolution 32 g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "46",
+						"trimSpeed": "39"
+					}
+				}
+			]
+		},
+		{
+			"name": "Plasma",
+			"uuid": "a46cf8ce-cac9-4feb-a1c7-e7c1a9ebc78a",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Plus",
+			"uuid": "d6ecaa21-ed51-4ba3-9af0-6206c460cf3a",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "48",
+						"weightMax": "65"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "32",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Re Action",
+			"uuid": "917b173c-6a33-46ff-962e-3c31ee0deaca",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "44",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "300"
+					}
+				}
+			]
+		},
+		{
+			"name": "Shark",
+			"uuid": "713cdb1a-910c-499b-afa9-657426e872a1",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Pro",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Synthesis",
+			"uuid": "54547be6-f6d3-453c-ba66-f27331b5584a",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "34",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "135",
+						"weightMax": "165"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "210"
+					}
+				},
+				{
+					"size": "46",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "180",
+						"weightMax": "260"
+					}
+				}
+			]
+		},
+		{
+			"name": "Dudek Universal",
+			"uuid": "7ff275a2-1e50-480e-afe2-ca59f869e078",
+			"year": "2013",
+			"url": "http://www.dudek.eu/uniwersalne-pg/universal.html",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "23",
+						"ratioFlat": "5.1",
+						"areaProj": "19.83",
+						"spanProj": "8.71",
+						"ratioProj": "3.83"
+					}
+				},
+				{
+					"size": "25.5",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95",
+						"weight": "6.6"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "25.5",
+						"spanFlat": "11.4",
+						"ratioFlat": "5.1",
+						"areaProj": "21.98",
+						"spanProj": "9.17",
+						"ratioProj": "3.83"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115",
+						"weight": "6.9"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "28",
+						"spanFlat": "11.95",
+						"ratioFlat": "5.1",
+						"areaProj": "24.14",
+						"spanProj": "9.61",
+						"ratioProj": "3.83"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140",
+						"weight": "7.5"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "31",
+						"spanFlat": "12.57",
+						"ratioFlat": "5.1",
+						"areaProj": "26.72",
+						"spanProj": "10.11",
+						"ratioProj": "3.83"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vox",
+			"uuid": "5c71514f-e4ef-414b-bcf7-d58e05cb2a65",
+			"year": "2000",
+			"subwing": [
+				{
+					"size": "27",
+					"certificate": "AFNOR Standard"
+				}
+			]
+		},
+		{
+			"name": "Zakospeed",
+			"uuid": "84b3877d-c805-41ee-ac96-996f404a9210",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "14",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "83",
+						"weightMax": "83"
+					}
+				}
+			]
+		},
+		{
+			"name": "Zig-zag",
+			"uuid": "cf74f760-22d2-45cf-9a90-46873e09deec",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Zig-zag 2",
+			"uuid": "8e7378de-c6f2-4446-bde4-3da6c229bcb9",
+			"year": "2012",
+			"url": "http://www.dudek.eu/speedflying-sf/zigzag-2.html",
+			"subwing": [
+				{
+					"size": "9",
+					"certificate": "Nil",
+					"area": {
+						"cells": "19",
+						"areaFlat": "9",
+						"spanFlat": "4.79",
+						"ratioFlat": "2.55",
+						"areaProj": "7.91",
+						"spanProj": "4.08",
+						"ratioProj": "2.1",
+						"upperSurface": "Dominicotex 41 g/m?",
+						"underSurface": "Dominicotex 41 g/m?"
+					},
+					"properties": {
+						"risers": "4"
+					}
+				},
+				{
+					"size": "11",
+					"certificate": "Nil",
+					"area": {
+						"cells": "19",
+						"areaFlat": "11",
+						"spanFlat": "5.29",
+						"ratioFlat": "2.55",
+						"areaProj": "9.45",
+						"spanProj": "4.38",
+						"ratioProj": "2.03",
+						"upperSurface": "Dominicotex 41 g/m?",
+						"underSurface": "Dominicotex 41 g/m?"
+					},
+					"properties": {
+						"risers": "4"
+					}
+				},
+				{
+					"size": "13",
+					"certificate": "Nil",
+					"area": {
+						"cells": "19",
+						"areaFlat": "13",
+						"spanFlat": "5.92",
+						"ratioFlat": "2.55",
+						"areaProj": "11.3",
+						"spanProj": "4.97",
+						"ratioProj": "2.19",
+						"upperSurface": "Dominicotex 41 g/m?",
+						"underSurface": "Dominicotex 41 g/m?"
+					},
+					"properties": {
+						"risers": "4"
+					}
+				}
+			]
+		}
+	]
+}

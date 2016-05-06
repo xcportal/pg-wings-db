@@ -1,0 +1,301 @@
+{
+	"producer": {
+		"name": "Flying Planet",
+		"url": "./output/wings/logo/Flying Planet.png",
+		"uuid": "79ee0642-9c5c-430b-ad70-87dcf3028460"
+	},
+	"wings": [
+		{
+			"name": "4810",
+			"uuid": "2c24cda4-99ce-4f0e-b6bb-4fe1a20819a9",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bee Bip",
+			"uuid": "10c78ed8-2e4d-452a-bde6-1a128d2411a0",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "200"
+					}
+				}
+			]
+		},
+		{
+			"name": "Duo",
+			"uuid": "85af975d-f5da-4302-a1fd-a004b8b17d05",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Funky",
+			"uuid": "fedcd961-fd3e-4e96-a594-f7420e7de044",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mutant",
+			"uuid": "3fdd7e7d-ff43-4120-ae07-85a8d1b2dc65",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "11",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "9",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mystic Fs",
+			"uuid": "957bd316-7677-4bff-8d3d-dac77af2cb55",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mystic R",
+			"uuid": "92b8fff5-9ae4-41db-9bf4-1f065f098249",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mystic R2",
+			"uuid": "f21dc279-3469-4b8a-affd-d177d95079a0",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Outlaw",
+			"uuid": "019e782d-b4bb-437b-85cd-1657ef6a1c9f",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Shoo'ka",
+			"uuid": "4cbb317c-e743-4aeb-973c-982ab7e16261",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "13",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "60"
+					}
+				},
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "65"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Skee",
+			"uuid": "105c0fea-70fc-4166-9eb8-308c03953f67",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Whisper 2",
+			"uuid": "325f64df-24d9-4d61-8b82-4afb4f3c8137",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "72"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,247 @@
+{
+	"producer": {
+		"name": "Bruce Goldsmith Design",
+		"url": "./output/wings/logo/Bruce Goldsmith Design.png",
+		"uuid": "73bac603-6025-4fbc-8f33-ad281ab2dfd0"
+	},
+	"wings": [
+		{
+			"name": "BGD BASE",
+			"uuid": "fd3bc4b7-616a-4ee2-941f-ef93886b065f",
+			"url": "http://www.flybgd.com/en/paragliders/paraglider-base-en-ltf-b-27-0-0.html",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN B"
+				},
+				{
+					"size": "M",
+					"certificate": "EN B"
+				},
+				{
+					"size": "ML",
+					"certificate": "EN B"
+				},
+				{
+					"size": "L",
+					"certificate": "EN B"
+				}
+			]
+		},
+		{
+			"name": "Tala",
+			"uuid": "23f95a78-e2a2-437b-9a06-85181c5f3f14",
+			"year": "2013",
+			"url": "http://www.flybgd.com/en/paragliders/paraglider-en-c--tala-23-0-0.html",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85",
+						"weight": "4.6"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "23.29",
+						"spanFlat": "12.17",
+						"ratioFlat": "6.25",
+						"areaProj": "19.51",
+						"spanProj": "9.64",
+						"ratioProj": "4.68",
+						"upperSurface": "Porcher 9017 E77A Universal 38g/m2",
+						"underSurface": "Dominico N20 DMF 34g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "No",
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10.0",
+						"maxSpeed": "57",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "4.9"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "24.75",
+						"spanFlat": "12.55",
+						"ratioFlat": "6.25",
+						"areaProj": "20.74",
+						"spanProj": "9.94",
+						"ratioProj": "4.68",
+						"upperSurface": "Porcher 9017 E77A Universal 38g/m3",
+						"underSurface": "Dominico N20 DMF 34g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "No",
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10.0",
+						"maxSpeed": "57",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "ML",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "112",
+						"weight": "5.1"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "26",
+						"spanFlat": "12.86",
+						"ratioFlat": "6.25",
+						"areaProj": "21.79",
+						"spanProj": "10.19",
+						"ratioProj": "4.68",
+						"upperSurface": "Porcher 9017 E77A Universal 38g/m4",
+						"underSurface": "Dominico N20 DMF 34g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "No",
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10.0",
+						"maxSpeed": "57",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "1525",
+						"weight": "5.4"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "27.29",
+						"spanFlat": "13.18",
+						"ratioFlat": "6.25",
+						"areaProj": "22.87",
+						"spanProj": "10.44",
+						"ratioProj": "4.68",
+						"upperSurface": "Porcher 9017 E77A Universal 38g/m5",
+						"underSurface": "Dominico N20 DMF 34g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "No",
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10.0",
+						"maxSpeed": "57",
+						"trimSpeed": "39"
+					}
+				}
+			]
+		},
+		{
+			"name": "Wasp",
+			"uuid": "b544e4dd-0583-4f83-9f5c-1c034f238f65",
+			"year": "2013",
+			"url": "http://www.flybgd.com/en/paragliders/paraglider-en-b--wasp-21-0-0.html",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85",
+						"weight": "4.3"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "25.16",
+						"spanFlat": "11.92",
+						"ratioFlat": "4.87",
+						"areaProj": "21.59",
+						"spanProj": "8.73",
+						"ratioProj": "3.57",
+						"upperSurface": "Porcher Evolution 45 9092-E85A 45g/m2",
+						"underSurface": "Dominico N20 DMF 34g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 13cm",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "8.5",
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105",
+						"weight": "4.7"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "27.3",
+						"spanFlat": "12.42",
+						"ratioFlat": "4.87",
+						"areaProj": "23.43",
+						"spanProj": "9.09",
+						"ratioProj": "3.57",
+						"upperSurface": "Porcher Evolution 45 9092-E85A 45g/m3",
+						"underSurface": "Dominico N20 DMF 34g/m3"
+					},
+					"properties": {
+						"acceleration": "Yes, 13cm",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "8.5",
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120",
+						"weight": "5.1"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "29.53",
+						"spanFlat": "12.92",
+						"ratioFlat": "4.87",
+						"areaProj": "25.34",
+						"spanProj": "9.45",
+						"ratioProj": "3.57",
+						"upperSurface": "Porcher Evolution 45 9092-E85A 45g/m4",
+						"underSurface": "Dominico N20 DMF 34g/m4"
+					},
+					"properties": {
+						"acceleration": "Yes, 13cm",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "8.5",
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		}
+	]
+}

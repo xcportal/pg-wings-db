@@ -1,0 +1,63 @@
+{
+	"producer": {
+		"name": "Aska-sports",
+		"url": "./output/wings/logo/Aska-sports.png",
+		"uuid": "386a2a4f-534b-4d99-9ce7-d749372dd4d3"
+	},
+	"wings": [
+		{
+			"name": "A",
+			"uuid": "b253a84c-57af-4619-b18b-4406b6f3b7f3",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "14",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "8",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "One Seven",
+			"uuid": "0169371c-eec7-479d-b672-7c00dd31479e",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "120"
+					}
+				}
+			]
+		}
+	]
+}

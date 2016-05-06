@@ -1,0 +1,256 @@
+{
+	"producer": {
+		"name": "Skif",
+		"uuid": "6e0085fa-48d5-4a95-bc4b-d5e28eda05a5"
+	},
+	"wings": [
+		{
+			"name": "Bi",
+			"uuid": "e214f504-40fe-462d-9f56-acfd569000ad",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "200"
+					}
+				}
+			]
+		},
+		{
+			"name": "Big",
+			"uuid": "1b25f8b4-ac0a-4e6f-a5ff-9287904dc935",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "200"
+					}
+				}
+			]
+		},
+		{
+			"name": "Phaeton",
+			"uuid": "f1c4993f-fa5a-48e9-b386-1e234be3702b",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220"
+					}
+				},
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "350"
+					}
+				},
+				{
+					"size": "38",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "350"
+					}
+				}
+			]
+		},
+		{
+			"name": "Raptor",
+			"uuid": "98c117c5-59a7-4221-b8dc-5790a3ad2e01",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sarmat",
+			"uuid": "07b1147a-9301-47bc-a537-d6f26b30d7f2",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sarmat 3",
+			"uuid": "ba3b2bab-9657-4d1e-97e3-00ad9e67bf26",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Skif 4",
+			"uuid": "acfc4232-ca8e-4231-9211-3c3580327410",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "65"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Skif-a",
+			"uuid": "3f84ba4f-ec11-4f85-8355-23e3ce932ff5",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				}
+			]
+		}
+	]
+}

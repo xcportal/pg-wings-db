@@ -1,0 +1,1204 @@
+{
+	"producer": {
+		"name": "Windtech",
+		"url": "./output/wings/logo/Windtech.png",
+		"uuid": "bf45a5ec-40d9-4b13-954f-020e9a652752"
+	},
+	"wings": [
+		{
+			"name": "Arial",
+			"uuid": "0268da5f-204c-4444-b1dc-481ff34786b3",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bantoo",
+			"uuid": "ccc1a66d-722d-4fb0-8ad8-446f72181d4f",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "135",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cargo",
+			"uuid": "9ed57c1c-873f-4e08-9a69-e64c661ba447",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "36",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "195"
+					}
+				},
+				{
+					"size": "39",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "215"
+					}
+				},
+				{
+					"size": "43",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "240"
+					}
+				}
+			]
+		},
+		{
+			"name": "Combat",
+			"uuid": "1e8012eb-9803-47d6-8150-84c16a023558",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "Fr24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Fr27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "102",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "Fr28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "112",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Sc23",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Sc25",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "113"
+					}
+				}
+			]
+		},
+		{
+			"name": "Evo",
+			"uuid": "898b7cdb-5f57-4421-a77b-58f84bae9e5d",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "145"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "165"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fenix",
+			"uuid": "fca3bf3b-2394-4160-9d5e-1fdb399f76ff",
+			"year": "2013",
+			"url": "http://www.windtech.es/en/products/fenix/data.html",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "75",
+						"weight": "5.9"
+					},
+					"area": {
+						"cells": "67",
+						"areaFlat": "21.76",
+						"spanFlat": "12.03",
+						"ratioFlat": "6.65",
+						"areaProj": "18.67",
+						"spanProj": "9.53",
+						"ratioProj": "4.86",
+						"upperSurface": "Skytex 44 g/m² ",
+						"underSurface": "Skytex 44 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "58",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "6.2"
+					},
+					"area": {
+						"cells": "67",
+						"areaFlat": "24.87",
+						"spanFlat": "12.83",
+						"ratioFlat": "6.65",
+						"areaProj": "21.32",
+						"spanProj": "10.18",
+						"ratioProj": "4.86",
+						"upperSurface": "Skytex 44 g/m² ",
+						"underSurface": "Skytex 44 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "58",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110",
+						"weight": "6.5"
+					},
+					"area": {
+						"cells": "67",
+						"areaFlat": "26.8",
+						"spanFlat": "13.34",
+						"ratioFlat": "6.65",
+						"areaProj": "23.05",
+						"spanProj": "10.59",
+						"ratioProj": "4.86",
+						"upperSurface": "Skytex 44 g/m² ",
+						"underSurface": "Skytex 44 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "58",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130",
+						"weight": "6.8"
+					},
+					"area": {
+						"cells": "67",
+						"areaFlat": "28.84",
+						"spanFlat": "13.83",
+						"ratioFlat": "6.65",
+						"areaProj": "24.76",
+						"spanProj": "10.97",
+						"ratioProj": "4.86",
+						"upperSurface": "Skytex 44 g/m² ",
+						"underSurface": "Skytex 44 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "58",
+						"trimSpeed": "40"
+					}
+				}
+			]
+		},
+		{
+			"name": "Honey",
+			"uuid": "5efdfe0f-3bbb-44f4-a41a-fca0c2bb054c",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Impulse",
+			"uuid": "b4e5bd0f-a828-42db-a1d6-1d3a95114aef",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kali",
+			"uuid": "2249a506-1350-48d9-b0f9-681b8cca6941",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kinetik",
+			"uuid": "ef696512-c009-4169-acd0-b69b7d7cd090",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "145"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "165"
+					}
+				}
+			]
+		},
+		{
+			"name": "Loop",
+			"uuid": "fb50d611-7bf0-4412-8741-ef79a716be9b",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nitro",
+			"uuid": "9bda28cd-9f3e-4f47-9311-f2e6d6f4f4fd",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pulsar",
+			"uuid": "21640029-a74d-466b-8836-ea9ceca9085a",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Quarx 2",
+			"uuid": "6afe141e-4d3b-49b8-a1c9-2951a79194ef",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Serak",
+			"uuid": "a43860bd-79f7-49c0-ad7e-05ac133e168b",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Spiro",
+			"uuid": "b7e0d876-ef5e-4590-8acb-b5e1f752d84a",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Syncro",
+			"uuid": "b586be70-c1b7-4844-bc5d-3e5286ee20cc",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tactic",
+			"uuid": "a6347719-3b28-4844-8022-20764a215546",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "102"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "112"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tecno",
+			"uuid": "cb58186a-0362-441f-9038-15d4bb507895",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tempest",
+			"uuid": "53dd1258-d858-4941-ad8d-d506fb33f27b",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tempus",
+			"uuid": "c43bc785-f93a-4530-898e-a9451bde6271",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tonic",
+			"uuid": "47b28a17-cf80-417c-9009-278a23f920df",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "",
+			"uuid": "1f561893-8ef0-4256-8d80-2f7877e2ce7e",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "??",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "??",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Zenith Evolution",
+			"uuid": "8d850628-08b4-445d-92f4-17bd35c008fd",
+			"year": "2012",
+			"url": "http://www.windtech.es/en/products/zenith_evolution/index.html",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "5.6"
+					},
+					"area": {
+						"cells": "61",
+						"areaFlat": "23.53",
+						"spanFlat": "11.84",
+						"ratioFlat": "6",
+						"areaProj": "20.7",
+						"spanProj": "9.66",
+						"ratioProj": "4.48",
+						"upperSurface": "Skytex 44g/m2",
+						"underSurface": "Skytex 44/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "10",
+						"maxChord": "2.5",
+						"minSpeed": "23",
+						"maxSpeed": "59",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "61",
+						"areaFlat": "25.6",
+						"spanFlat": "12.35",
+						"ratioFlat": "6",
+						"areaProj": "22.54",
+						"spanProj": "10.08",
+						"ratioProj": "4.48",
+						"upperSurface": "Skytex 44g/m2",
+						"underSurface": "Skytex 44/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "10",
+						"maxChord": "2.5",
+						"minSpeed": "23",
+						"maxSpeed": "59",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "61",
+						"areaFlat": "27.2",
+						"spanFlat": "12.85",
+						"ratioFlat": "6",
+						"areaProj": "24.2",
+						"spanProj": "10.4",
+						"ratioProj": "4.48",
+						"upperSurface": "Skytex 44g/m2",
+						"underSurface": "Skytex 44/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "10",
+						"maxChord": "2.5",
+						"minSpeed": "23",
+						"maxSpeed": "59",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "M/L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "6.3"
+					},
+					"area": {
+						"cells": "61",
+						"areaFlat": "28.9",
+						"spanFlat": "13.27",
+						"ratioFlat": "6",
+						"areaProj": "26",
+						"spanProj": "10.82",
+						"ratioProj": "4.48",
+						"upperSurface": "Skytex 44g/m2",
+						"underSurface": "Skytex 44/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "10",
+						"maxChord": "2.5",
+						"minSpeed": "23",
+						"maxSpeed": "59",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "6.8"
+					},
+					"area": {
+						"cells": "61",
+						"areaFlat": "31.4",
+						"spanFlat": "13.8",
+						"ratioFlat": "6",
+						"areaProj": "28.1",
+						"spanProj": "11.21",
+						"ratioProj": "4.48",
+						"upperSurface": "Skytex 44g/m2",
+						"underSurface": "Skytex 44/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "10",
+						"maxChord": "2.5",
+						"minSpeed": "23",
+						"maxSpeed": "59",
+						"trimSpeed": "40"
+					}
+				}
+			]
+		},
+		{
+			"name": "Zenith",
+			"uuid": "a4ce329a-c322-4c44-877f-248781e151bb",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Zephyr 2",
+			"uuid": "1ea16220-7897-48fc-b203-314025de8d50",
+			"year": "2012",
+			"url": "http://www.windtech.es/en/index.html#",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95",
+						"weight": "5.2"
+					},
+					"area": {
+						"areaFlat": "26.3",
+						"spanFlat": "12",
+						"ratioFlat": "5.57",
+						"areaProj": "22.7",
+						"spanProj": "9.53",
+						"ratioProj": "4",
+						"upperSurface": "S9017-E85A 40 g/m²",
+						"underSurface": "S9017-E85A 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"maxSpeed": "53"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105",
+						"weight": "5.6"
+					},
+					"area": {
+						"areaFlat": "28.36",
+						"spanFlat": "12.6",
+						"ratioFlat": "5.57",
+						"areaProj": "24.5",
+						"spanProj": "9.9",
+						"ratioProj": "4",
+						"upperSurface": "S9017-E85A 40 g/m²",
+						"underSurface": "S9017-E85A 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"maxSpeed": "53"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120",
+						"weight": "5.9"
+					},
+					"area": {
+						"areaFlat": "30.3",
+						"spanFlat": "13",
+						"ratioFlat": "5.57",
+						"areaProj": "26.2",
+						"spanProj": "10.24",
+						"ratioProj": "4",
+						"upperSurface": "S9017-E85A 40 g/m²",
+						"underSurface": "S9017-E85A 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"maxSpeed": "53"
+					}
+				}
+			]
+		},
+		{
+			"name": "Zephyr",
+			"uuid": "82875b1a-8cac-4ebc-8f78-4738307039c3",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				}
+			]
+		}
+	]
+}

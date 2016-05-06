@@ -1,0 +1,148 @@
+{
+	"producer": {
+		"name": "Kimfly",
+		"url": "./output/wings/logo/Kimfly.png",
+		"uuid": "91004725-ce32-4e23-a44b-5537a77cb6a2"
+	},
+	"wings": [
+		{
+			"name": "Alpin",
+			"uuid": "cb9d893b-bc78-4e2f-af1d-a41da26d4cc8",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nuptse 2",
+			"uuid": "98679a17-d19c-413e-b8ea-9216b9145c99",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nuptse",
+			"uuid": "a63266fd-2ac3-4da9-8d54-de97442190d8",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nuptse 3",
+			"uuid": "d57c0121-293e-48f5-abb6-fbc4972daaa6",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "River",
+			"uuid": "b86322bf-892b-4cd1-a727-85b5c7c9476f",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,1498 @@
+{
+	"producer": {
+		"name": "Skywalk",
+		"url": "./output/wings/logo/Skywalk.png",
+		"uuid": "6acc1759-b7d8-4cc5-b1b2-3a00116c394c"
+	},
+	"wings": [
+		{
+			"name": "Arriba 3",
+			"uuid": "6f786dfd-88a6-48dd-a24d-c215c80b1559",
+			"year": "2014",
+			"url": "http://skywalk.info/en/products/arriba-3/",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "80",
+						"weight": "3.9"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "100",
+						"weight": "4.2"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "115",
+						"weight": "4.5"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "135",
+						"weight": "4.9"
+					}
+				}
+			]
+		},
+		{
+			"name": "Arriba",
+			"uuid": "bc5f8c02-5cf2-49b6-ac6f-a0ae83a5fe0c",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cayenne 2",
+			"uuid": "85ec6366-8f05-4410-840d-3f31517d54ee",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cayenne 3",
+			"uuid": "e81e29f0-8785-4b7e-8861-3ab9f515d904",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cayenne 4",
+			"uuid": "092d5159-4435-42ed-a5a1-89be33a87543",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "59",
+						"areaFlat": "21.8",
+						"spanFlat": "11.55",
+						"ratioFlat": "6.13",
+						"areaProj": "18.35",
+						"spanProj": "9.04",
+						"ratioProj": "4.46",
+						"upperSurface": "Dokdo N30DMF 45 g/m²",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"minSpeed": "23",
+						"maxSpeed": "54"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "59",
+						"areaFlat": "24.48",
+						"spanFlat": "12.24",
+						"ratioFlat": "6.13",
+						"areaProj": "20.6",
+						"spanProj": "9.58",
+						"ratioProj": "4.46",
+						"upperSurface": "Dokdo N30DMF 45 g/m²",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"minSpeed": "23",
+						"maxSpeed": "54"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "59",
+						"areaFlat": "26.73",
+						"spanFlat": "12.8",
+						"ratioFlat": "6.13",
+						"areaProj": "22.5",
+						"spanProj": "10.02",
+						"ratioProj": "4.46",
+						"upperSurface": "Dokdo N30DMF 45 g/m²",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"minSpeed": "23",
+						"maxSpeed": "54"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120",
+						"weight": "6.3"
+					},
+					"area": {
+						"cells": "59",
+						"areaFlat": "28.3",
+						"spanFlat": "13.16",
+						"ratioFlat": "6.13",
+						"areaProj": "23.8",
+						"spanProj": "10.3",
+						"ratioProj": "4.46",
+						"upperSurface": "Dokdo N30DMF 45 g/m²",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 19cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"minSpeed": "23",
+						"maxSpeed": "54"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130",
+						"weight": "6.6"
+					},
+					"area": {
+						"cells": "59",
+						"areaFlat": "29.48",
+						"spanFlat": "13.44",
+						"ratioFlat": "6.13",
+						"areaProj": "24.81",
+						"spanProj": "10.52",
+						"ratioProj": "4.46",
+						"upperSurface": "Dokdo N30DMF 45 g/m²",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 19cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"minSpeed": "23",
+						"maxSpeed": "54"
+					}
+				}
+			]
+		},
+		{
+			"name": "",
+			"uuid": "83bd01df-6d63-4f0d-b8e8-0cdbbbb9d11c",
+			"year": "2015",
+			"url": "http://skywalk.info/produkte/cayenne-5/",
+			"subwing": [
+				{
+					"size": "Cayenne 5 XXS",
+					"certificate": "Nil"
+				},
+				{
+					"size": "XS",
+					"certificate": "EN C"
+				},
+				{
+					"size": "S",
+					"certificate": "EN C"
+				},
+				{
+					"size": "M",
+					"certificate": "EN C"
+				},
+				{
+					"size": "L",
+					"certificate": "EN C"
+				}
+			]
+		},
+		{
+			"name": "Cayenne",
+			"uuid": "a5d605e4-ee4b-4bd9-a6df-1a700d333cb0",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Chili 2",
+			"uuid": "e5c26f16-e1e2-447c-9edc-47f138dc7aa3",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Chili 3",
+			"uuid": "03514528-bdf2-41ad-bea7-6c4453744bf3",
+			"year": "2013",
+			"url": "http://www.skywalk.info/en/products/chili3/",
+			"subwing": [
+				{
+					"size": "XXS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75",
+						"weight": "4.6"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "21.85",
+						"spanFlat": "10.99",
+						"ratioFlat": "5.52",
+						"areaProj": "18.57",
+						"spanProj": "8.7",
+						"ratioProj": "4.07",
+						"upperSurface": "S9017-E25A 38 g/m² ",
+						"underSurface": "Dokdo 20 DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "4.9"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "24.71",
+						"spanFlat": "11.68",
+						"ratioFlat": "5.52",
+						"areaProj": "20.99",
+						"spanProj": "9.25",
+						"ratioProj": "4.07",
+						"upperSurface": "S9017-E25A 38 g/m² ",
+						"underSurface": "Dokdo 20 DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "4.9"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "26.89",
+						"spanFlat": "12.19",
+						"ratioFlat": "5.52",
+						"areaProj": "22.85",
+						"spanProj": "9.65",
+						"ratioProj": "4.07",
+						"upperSurface": "S9017-E25A 38 g/m² ",
+						"underSurface": "Dokdo 20 DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "5.6"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "28.87",
+						"spanFlat": "12.63",
+						"ratioFlat": "5.52",
+						"areaProj": "24.54",
+						"spanProj": "10",
+						"ratioProj": "4.07",
+						"upperSurface": "S9017-E25A 38 g/m² ",
+						"underSurface": "Dokdo 20 DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130",
+						"weight": "6"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "31.83",
+						"spanFlat": "13.26",
+						"ratioFlat": "5.52",
+						"areaProj": "27.05",
+						"spanProj": "10.49",
+						"ratioProj": "4.07",
+						"upperSurface": "S9017-E25A 38 g/m² ",
+						"underSurface": "Dokdo 20 DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Chili",
+			"uuid": "6fd8358a-1df2-4d39-a86d-7e07d9aef8b1",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Hype",
+			"uuid": "104040af-0a84-40b6-bdaf-e8a4abbbdad2",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "170"
+					}
+				}
+			]
+		},
+		{
+			"name": "Join't 2",
+			"uuid": "a247ff6b-4ddb-484f-922d-b356a57afb7e",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "225"
+					}
+				}
+			]
+		},
+		{
+			"name": "Join't 3",
+			"uuid": "37536694-2df8-458e-bd58-6547fc5aec07",
+			"year": "2013",
+			"url": "",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "195",
+						"weight": "7.9"
+					},
+					"area": {
+						"areaFlat": "37.5",
+						"spanFlat": "14.17",
+						"ratioFlat": "5.37"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "225",
+						"weight": "8.9"
+					},
+					"area": {
+						"areaFlat": "41.5",
+						"spanFlat": "14.93",
+						"ratioFlat": "5.37"
+					}
+				}
+			]
+		},
+		{
+			"name": "Join't",
+			"uuid": "b906043a-b1a7-4b26-80bc-8959f1643a8e",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "Ar",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "190"
+					}
+				},
+				{
+					"size": "Bi",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "230"
+					}
+				}
+			]
+		},
+		{
+			"name": "Masala",
+			"uuid": "39e08753-c1fd-42cb-97f8-2b9312d0c1dc",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "Sm",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mescal 2",
+			"uuid": "520341a1-5eb5-4333-9f8f-cc589781068d",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mescal 3",
+			"uuid": "763a9eff-1d7f-4fbc-819f-597fcce11500",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mescal 4",
+			"uuid": "390516ac-dcc2-4b06-8b5c-54fdce24168e",
+			"year": "2013",
+			"url": "http://www.skywalk.info/en/contact/skywalk-dealers/mescal4/",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75",
+						"weight": "4.9"
+					},
+					"area": {
+						"cells": "34",
+						"areaFlat": "22.73",
+						"spanFlat": "10.45",
+						"ratioFlat": "4.8",
+						"areaProj": "19.21",
+						"spanProj": "8.13",
+						"ratioProj": "3.44",
+						"upperSurface": "Dokdo 30DMF 45 g/m² ",
+						"underSurface": "Dokdo 30DMF 45 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95",
+						"weight": "5.4"
+					},
+					"area": {
+						"cells": "34",
+						"areaFlat": "26.18",
+						"spanFlat": "11.21",
+						"ratioFlat": "4.8",
+						"areaProj": "22.12",
+						"spanProj": "8.72",
+						"ratioProj": "3.44",
+						"upperSurface": "Dokdo 30DMF 45 g/m² ",
+						"underSurface": "Dokdo 30DMF 45 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "34",
+						"areaFlat": "28.7",
+						"spanFlat": "11.74",
+						"ratioFlat": "4.8",
+						"areaProj": "24.26",
+						"spanProj": "9.14",
+						"ratioProj": "3.44",
+						"upperSurface": "Dokdo 30DMF 45 g/m² ",
+						"underSurface": "Dokdo 30DMF 45 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "34",
+						"areaFlat": "31.94",
+						"spanFlat": "12.38",
+						"ratioFlat": "4.8",
+						"areaProj": "27",
+						"spanProj": "9.64",
+						"ratioProj": "3.44",
+						"upperSurface": "Dokdo 30DMF 45 g/m² ",
+						"underSurface": "Dokdo 30DMF 45 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Mescal",
+			"uuid": "352fd124-4df0-4bfa-bbe4-5a94d2e2b813",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mojito Hy",
+			"uuid": "8ffca06b-5034-4200-af73-34685030b74e",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Poison 2",
+			"uuid": "5f7cf336-2ce0-4961-a9af-06990300ba45",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Poison 3",
+			"uuid": "973fa25c-2fad-4c3a-82e8-92de195044ce",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Poison",
+			"uuid": "9e8772cd-578b-42f1-b31b-cb1cc17893c2",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "",
+			"uuid": "88e2ab2f-7cb1-46d0-83bb-a26d0f33bcbe",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "S/m",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Scotch",
+			"uuid": "24a4e041-35ac-44d4-809e-a35330190788",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "160"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Taco",
+			"uuid": "963a03b7-d1e3-4c05-acef-119356083c0b",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "9",
+					"certificate": "Ground Training",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tequila 2",
+			"uuid": "581b092f-c495-475d-b1ca-bc825d1de624",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tequila 3",
+			"uuid": "0e489111-708b-48b3-9511-cb1c52dd57ed",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tequila 4",
+			"uuid": "b741217b-89b2-4deb-bf97-3d8974e2f79f",
+			"year": "2014",
+			"url": "http://skywalk.info/en/products/tequila/",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80",
+						"weight": "4.7"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "22.17",
+						"spanFlat": "10.74",
+						"ratioFlat": "5.2",
+						"areaProj": "18.85",
+						"spanProj": "8.5",
+						"ratioProj": "3.84"
+					},
+					"properties": {
+						"acceleration": "Yes  11 cm",
+						"trims": "No"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "25.54",
+						"spanFlat": "11.52",
+						"ratioFlat": "5.2",
+						"areaProj": "21.72",
+						"spanProj": "9.12",
+						"ratioProj": "3.84"
+					},
+					"properties": {
+						"acceleration": "Yes  11 cm",
+						"trims": "No"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110",
+						"weight": "5.6"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "28.3",
+						"spanFlat": "12.13",
+						"ratioFlat": "5.2",
+						"areaProj": "24.06",
+						"spanProj": "9.61",
+						"ratioProj": "3.84"
+					},
+					"properties": {
+						"acceleration": "Yes  11 cm",
+						"trims": "No"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130",
+						"weight": "5.9"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "30.32",
+						"spanFlat": "12.56",
+						"ratioFlat": "5.2",
+						"areaProj": "25.78",
+						"spanProj": "9.94",
+						"ratioProj": "3.84"
+					},
+					"properties": {
+						"acceleration": "Yes  11 cm",
+						"trims": "No"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tequila",
+			"uuid": "754610f8-94ef-4921-9e49-f42954e38f50",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Venom",
+			"uuid": "4a46ee49-930f-4813-9536-ec68e1b374e0",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "Paramotor",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "130"
+					}
+				}
+			]
+		}
+	]
+}

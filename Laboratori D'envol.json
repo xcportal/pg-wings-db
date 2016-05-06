@@ -1,0 +1,23 @@
+{
+	"producer": {
+		"name": "Laboratori D'envol",
+		"uuid": "547978b2-3629-4ee8-9626-a54cc05b7830"
+	},
+	"wings": [
+		{
+			"name": "Gnulab2",
+			"uuid": "3eac2a36-a0e5-4a3a-a929-3658f8f01859",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				}
+			]
+		}
+	]
+}

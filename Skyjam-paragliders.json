@@ -1,0 +1,233 @@
+{
+	"producer": {
+		"name": "Skyjam-paragliders",
+		"uuid": "2ce051e4-7122-4770-9c1f-2a4e13ee6d1c"
+	},
+	"wings": [
+		{
+			"name": "Creek 2",
+			"uuid": "eb4f18bf-6efa-442e-913c-b7c1bc2a0438",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Creek",
+			"uuid": "da0b4d23-6365-4003-a923-4bb1d1c57f49",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Creek'xe",
+			"uuid": "fc7daa5a-36b2-4ba2-a57e-1ac7c86db460",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Lightning",
+			"uuid": "20f9e601-306e-4804-8d45-213b1e217993",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "180"
+					}
+				}
+			]
+		},
+		{
+			"name": "Madness",
+			"uuid": "84b1b9dc-3fa3-4e6a-8903-fca475ab3ab3",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "60"
+					}
+				},
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "56",
+						"weightMax": "74"
+					}
+				}
+			]
+		},
+		{
+			"name": "Typhoon",
+			"uuid": "f14d8cc3-78dc-4fbb-a19c-89e0119f5911",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "X'stream",
+			"uuid": "10c2ca18-d746-4c0d-852f-fd0ab3816f9f",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "117"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "74",
+						"weightMax": "96"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "78"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				}
+			]
+		}
+	]
+}

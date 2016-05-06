@@ -1,0 +1,47 @@
+{
+	"producer": {
+		"name": "4speed",
+		"uuid": "7eb7d6f2-14da-44d7-9197-5a245d54c82c"
+	},
+	"wings": [
+		{
+			"name": "4speed Pocket Monster",
+			"uuid": "b940b77e-5242-45c4-9594-ed771ef77c57",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "11",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "13",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "15",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "9",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "100"
+					}
+				}
+			]
+		}
+	]
+}

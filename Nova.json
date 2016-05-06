@@ -1,0 +1,1861 @@
+{
+	"producer": {
+		"name": "Nova",
+		"url": "./output/wings/logo/Nova.png",
+		"uuid": "1eb56267-d277-4de8-82ef-98dc902ac2f8"
+	},
+	"wings": [
+		{
+			"name": "Aeron",
+			"uuid": "1e80208b-a219-4ec9-82f7-323a0ec26a42",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Artax",
+			"uuid": "ac9ffccd-07dc-4b6c-9154-efc9503dc26a",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bion",
+			"uuid": "703afef4-fc9b-450c-9fc5-a1d6ca0f4c1b",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "33",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "200"
+					}
+				},
+				{
+					"size": "37",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "230"
+					}
+				}
+			]
+		},
+		{
+			"name": "Carbon",
+			"uuid": "e4af8d1a-aa7c-4e06-a8a3-3375495513c7",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Factor",
+			"uuid": "4b5e6479-c630-4cc9-8e95-68ceaf245666",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Factor 2",
+			"uuid": "d88af316-feb8-4352-a4ba-cca5c9fbb3bd",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ibex",
+			"uuid": "6fe55c56-741f-41df-8c9d-29efe7e97272",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "19",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ibex 2",
+			"uuid": "24beea33-9f8a-4031-9451-7815074509fe",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ion",
+			"uuid": "3eaa019c-1538-4ba5-bbd2-3f5e06528120",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nova Ion 3",
+			"uuid": "f46f9a22-6f00-47cf-b4b1-8994a22cd795",
+			"year": "2014",
+			"url": "http://nova-wings.com/english/products/glider/ion_3.html",
+			"subwing": [
+				{
+					"size": "XXS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80",
+						"weight": "4.9"
+					},
+					"area": {
+						"areaFlat": "22.1",
+						"spanFlat": "10.61",
+						"ratioFlat": "5.09",
+						"areaProj": "18.56",
+						"spanProj": "8.17",
+						"ratioProj": "3.58"
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "5.3"
+					},
+					"area": {
+						"areaFlat": "24.59",
+						"spanFlat": "11.19",
+						"ratioFlat": "5.09",
+						"areaProj": "20.65",
+						"spanProj": "8.62",
+						"ratioProj": "3.58"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "5.7"
+					},
+					"area": {
+						"areaFlat": "26.99",
+						"spanFlat": "11.73",
+						"ratioFlat": "5.09",
+						"areaProj": "22.58",
+						"spanProj": "8.99",
+						"ratioProj": "3.58"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "6.1"
+					},
+					"area": {
+						"areaFlat": "29.44",
+						"spanFlat": "12.25",
+						"ratioFlat": "5.09",
+						"areaProj": "24.63",
+						"spanProj": "9.39",
+						"ratioProj": "3.58"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130",
+						"weight": "6.5"
+					},
+					"area": {
+						"areaFlat": "32.06",
+						"spanFlat": "12.78",
+						"ratioFlat": "5.09",
+						"areaProj": "26.82",
+						"spanProj": "9.8",
+						"ratioProj": "3.58"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ion 2",
+			"uuid": "37429536-0d15-42df-9eb2-65f235f75111",
+			"year": "2012",
+			"url": "http://nova-wings.com/english/products/glider/ion_2.html",
+			"subwing": [
+				{
+					"size": "XXS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "4.9"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "22.67",
+						"spanFlat": "10.77",
+						"ratioFlat": "3.55",
+						"areaProj": "19.05",
+						"spanProj": "8.23",
+						"ratioProj": "3.55",
+						"upperSurface": "Porcher Sport 9092 E85A Fabric 45 g/m2 ",
+						"underSurface": "DOKDO 30 DMF WR Fabric 41 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"maxSpeed": "48"
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "25.05",
+						"spanFlat": "11.33",
+						"ratioFlat": "3.55",
+						"areaProj": "21.06",
+						"spanProj": "8.65",
+						"ratioProj": "3.55",
+						"upperSurface": "Porcher Sport 9092 E85A Fabric 45 g/m2 ",
+						"underSurface": "DOKDO 30 DMF WR Fabric 41 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"maxSpeed": "48"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "27.28",
+						"spanFlat": "11.82",
+						"ratioFlat": "3.55",
+						"areaProj": "22.94",
+						"spanProj": "9.06",
+						"ratioProj": "3.55",
+						"upperSurface": "Porcher Sport 9092 E85A Fabric 45 g/m2 ",
+						"underSurface": "DOKDO 30 DMF WR Fabric 41 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"maxSpeed": "48"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "29.6",
+						"spanFlat": "12.31",
+						"ratioFlat": "3.55",
+						"areaProj": "24.88",
+						"spanProj": "9.4",
+						"ratioProj": "3.55",
+						"upperSurface": "Porcher Sport 9092 E85A Fabric 45 g/m2 ",
+						"underSurface": "DOKDO 30 DMF WR Fabric 41 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"maxSpeed": "48"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130",
+						"weight": "6.5"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "32.02",
+						"spanFlat": "12.8",
+						"ratioFlat": "3.55",
+						"areaProj": "26.92",
+						"spanProj": "9.78",
+						"ratioProj": "3.55",
+						"upperSurface": "Porcher Sport 9092 E85A Fabric 45 g/m2 ",
+						"underSurface": "DOKDO 30 DMF WR Fabric 41 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"maxSpeed": "48"
+					}
+				}
+			]
+		},
+		{
+			"name": "Jamboo",
+			"uuid": "7961e49e-06e5-4874-bca7-2122f499d48e",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "33",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "190"
+					}
+				},
+				{
+					"size": "37",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "235"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mamboo",
+			"uuid": "7b72bd67-2709-4bc6-8394-7a722eb6078b",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mentor 2",
+			"uuid": "6a333df4-f793-4e42-8215-ec9ff7d398bf",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mentor 3",
+			"uuid": "44f2d2fa-4d58-4b86-94c1-fe9a07ba835d",
+			"year": "2013",
+			"url": "http://nova-wings.com/english/products/glider/mentor_3.html",
+			"subwing": [
+				{
+					"size": "XXS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "5.1"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "21.68",
+						"spanFlat": "10.86",
+						"ratioFlat": "5.43",
+						"areaProj": "18.36",
+						"spanProj": "8.46",
+						"ratioProj": "3.94",
+						"upperSurface": "Dokdo 30DMF 41 g/m²",
+						"underSurface": "Dokdo 20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "24",
+						"spanFlat": "11.42",
+						"ratioFlat": "5.43",
+						"areaProj": "20.33",
+						"spanProj": "8.9",
+						"ratioProj": "3.94",
+						"upperSurface": "Dokdo 30DMF 41 g/m²",
+						"underSurface": "Dokdo 20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "26.33",
+						"spanFlat": "11.96",
+						"ratioFlat": "5.43",
+						"areaProj": "22.3",
+						"spanProj": "9.32",
+						"ratioProj": "3.94",
+						"upperSurface": "Dokdo 30DMF 41 g/m²",
+						"underSurface": "Dokdo 20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "5.9"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "28.65",
+						"spanFlat": "12.48",
+						"ratioFlat": "5.43",
+						"areaProj": "24.26",
+						"spanProj": "9.72",
+						"ratioProj": "3.94",
+						"upperSurface": "Dokdo 30DMF 41 g/m²",
+						"underSurface": "Dokdo 20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130",
+						"weight": "6.2"
+					},
+					"area": {
+						"cells": "51",
+						"areaFlat": "30.96",
+						"spanFlat": "12.97",
+						"ratioFlat": "5.43",
+						"areaProj": "26.21",
+						"spanProj": "10.11",
+						"ratioProj": "3.94",
+						"upperSurface": "Dokdo 30DMF 41 g/m²",
+						"underSurface": "Dokdo 20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Mentor 4",
+			"uuid": "d224d938-8487-40f3-8e4b-58640aa3b252",
+			"year": "2014",
+			"url": "https://www.nova-wings.com/en/gliders/mentor-4/",
+			"subwing": [
+				{
+					"size": "XXS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "4.7"
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "5"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "5.3"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "5.6"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130",
+						"weight": "5.9"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mentor",
+			"uuid": "1c6a2f52-9a94-489e-ab6c-e17d15a8ded4",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Oryx",
+			"uuid": "7592ebaa-86f5-40f1-a0e7-818a81192ce3",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pheron",
+			"uuid": "719f7a2d-b47a-42c0-8730-aad1c48646ea",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Phor2",
+			"uuid": "e604e3e5-f448-484b-bda4-c0007fde5cf8",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Phorus",
+			"uuid": "550e4411-80ef-4583-8943-159ead158b0f",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Primax",
+			"uuid": "9749eec1-3fab-41d6-821f-b279f66a75e0",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Prion",
+			"uuid": "008b82d2-9795-49b3-9f8a-eba9cb51d177",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "PRION 2",
+			"uuid": "b00ec706-be96-46a0-842e-520b9b2c6701",
+			"year": "2012",
+			"url": "http://nova-wings.com/english/products/glider/prion_2.html",
+			"subwing": [
+				{
+					"size": "XXS",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "4.8"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "22.6",
+						"spanFlat": "10.27",
+						"ratioFlat": "4.67",
+						"areaProj": "19.4",
+						"spanProj": "8.07",
+						"ratioProj": "3.36",
+						"upperSurface": "DOKDO 30 DMF 41 g/m2",
+						"underSurface": "DOKDO 30 DMF 41 g/m2"
+					},
+					"properties": {
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "5.1"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "24.73",
+						"spanFlat": "10.74",
+						"ratioFlat": "4.67",
+						"areaProj": "21.21",
+						"spanProj": "8.44",
+						"ratioProj": "3.36",
+						"upperSurface": "DOKDO 30 DMF 41 g/m2",
+						"underSurface": "DOKDO 30 DMF 41 g/m2"
+					},
+					"properties": {
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "5.5"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "26.96",
+						"spanFlat": "11.22",
+						"ratioFlat": "4.67",
+						"areaProj": "23.12",
+						"spanProj": "8.82",
+						"ratioProj": "3.36",
+						"upperSurface": "DOKDO 30 DMF 41 g/m2",
+						"underSurface": "DOKDO 30 DMF 41 g/m2"
+					},
+					"properties": {
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "29.27",
+						"spanFlat": "11.69",
+						"ratioFlat": "4.67",
+						"areaProj": "25.11",
+						"spanProj": "9.17",
+						"ratioProj": "3.36",
+						"upperSurface": "DOKDO 30 DMF 41 g/m2",
+						"underSurface": "DOKDO 30 DMF 41 g/m2"
+					},
+					"properties": {
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130",
+						"weight": "6.2"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "31.69",
+						"spanFlat": "12.16",
+						"ratioFlat": "4.67",
+						"areaProj": "27.18",
+						"spanProj": "9.56",
+						"ratioProj": "3.36",
+						"upperSurface": "DOKDO 30 DMF 41 g/m2",
+						"underSurface": "DOKDO 30 DMF 41 g/m2"
+					},
+					"properties": {
+						"risers": "3",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Ra",
+			"uuid": "a4f8476b-0a0f-4aea-9b58-19c7dfabbb40",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "112"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Radon",
+			"uuid": "90fa8a29-f369-4b51-8ec8-fdf639b3b177",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rookie",
+			"uuid": "c4afc13b-2328-4f5c-800c-8fe50851b330",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rotor",
+			"uuid": "fef082ce-ba77-4d81-93b1-380776404001",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "165"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Shockwave",
+			"uuid": "70860875-5d34-4fe3-872b-c54b1a4a7726",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Speedmax",
+			"uuid": "e5d19eed-f170-4c22-840d-559bb929ccf7",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "160"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "170"
+					}
+				}
+			]
+		},
+		{
+			"name": "SuSi",
+			"uuid": "67dd01dd-4472-4815-9c6a-06a89744914e",
+			"year": "2012",
+			"url": "http://nova-wings.com/english/products/glider/susi.html",
+			"subwing": [
+				{
+					"size": "XXS",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "90",
+						"weight": "4.7"
+					},
+					"area": {
+						"cells": "29",
+						"areaFlat": "23.65",
+						"spanFlat": "9.67",
+						"ratioFlat": "3.95",
+						"areaProj": "20.22",
+						"spanProj": "7.61",
+						"ratioProj": "2.86"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "100",
+						"weight": "5"
+					},
+					"area": {
+						"cells": "29",
+						"areaFlat": "26.06",
+						"spanFlat": "10.15",
+						"ratioFlat": "3.95",
+						"areaProj": "22.28",
+						"spanProj": "7.99",
+						"ratioProj": "2.86"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "29",
+						"areaFlat": "28.36",
+						"spanFlat": "10.59",
+						"ratioFlat": "3.95",
+						"areaProj": "24.25",
+						"spanProj": "8.33",
+						"ratioProj": "2.86"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "5.6"
+					},
+					"area": {
+						"cells": "29",
+						"areaFlat": "30.7",
+						"spanFlat": "11.02",
+						"ratioFlat": "3.95",
+						"areaProj": "26.25",
+						"spanProj": "8.67",
+						"ratioProj": "2.86"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130",
+						"weight": "5.9"
+					},
+					"area": {
+						"cells": "29",
+						"areaFlat": "33.07",
+						"spanFlat": "11.43",
+						"ratioFlat": "3.95",
+						"areaProj": "28.27",
+						"spanProj": "9",
+						"ratioProj": "2.86"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"risers": "3",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "SuSi Q",
+			"uuid": "8eba80ce-29ee-4860-8b31-8490d47f209c",
+			"year": "2012",
+			"url": "http://nova-wings.com/english/products/glider/susi_q.html",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100",
+						"weight": "2"
+					},
+					"area": {
+						"areaFlat": "11.7",
+						"spanFlat": "6.84",
+						"ratioFlat": "3.95",
+						"areaProj": "10",
+						"spanProj": "5.25",
+						"ratioProj": "2.86",
+						"upperSurface": "Dokdo 20 DMF 35 g/m2",
+						"underSurface": "Dokdo 10 DMF 26 g/m2"
+					},
+					"properties": {
+						"risers": "4"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100",
+						"weight": "2.3"
+					},
+					"area": {
+						"areaFlat": "14.58",
+						"spanFlat": "7.59",
+						"ratioFlat": "3.95",
+						"areaProj": "12.28",
+						"spanProj": "5.86",
+						"ratioProj": "2.86",
+						"upperSurface": "Dokdo 20 DMF 35 g/m2",
+						"underSurface": "Dokdo 10 DMF 26 g/m2"
+					},
+					"properties": {
+						"risers": "4"
+					}
+				},
+				{
+					"size": "14",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100",
+						"weight": "2.6"
+					},
+					"area": {
+						"areaFlat": "16.67",
+						"spanFlat": "8.12",
+						"ratioFlat": "3.95",
+						"areaProj": "14.26",
+						"spanProj": "6.39",
+						"ratioProj": "2.86",
+						"upperSurface": "Dokdo 20 DMF 35 g/m2",
+						"underSurface": "Dokdo 10 DMF 26 g/m2"
+					},
+					"properties": {
+						"risers": "4"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100",
+						"weight": "2.8"
+					},
+					"area": {
+						"areaFlat": "19",
+						"spanFlat": "8.66",
+						"ratioFlat": "3.95",
+						"areaProj": "16.24",
+						"spanProj": "6.82",
+						"ratioProj": "2.86",
+						"upperSurface": "Dokdo 20 DMF 35 g/m2",
+						"underSurface": "Dokdo 10 DMF 26 g/m2"
+					},
+					"properties": {
+						"risers": "4"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100",
+						"weight": "3.1"
+					},
+					"area": {
+						"areaFlat": "21.3",
+						"spanFlat": "9.18",
+						"ratioFlat": "3.95",
+						"areaProj": "18.2",
+						"spanProj": "7.23",
+						"ratioProj": "2.86",
+						"upperSurface": "Dokdo 20 DMF 35 g/m2",
+						"underSurface": "Dokdo 10 DMF 26 g/m2"
+					},
+					"properties": {
+						"risers": "4"
+					}
+				}
+			]
+		},
+		{
+			"name": "Syntax",
+			"uuid": "21f5c8ce-5f6c-4bdb-bc16-9219625943ae",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tattoo",
+			"uuid": "dc859872-1b0e-4d6c-9da5-f2187dd40253",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Triton",
+			"uuid": "0310e155-d455-4c9e-ab40-deb337ce17ea",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "18",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tycoon",
+			"uuid": "172773fd-83fa-4adc-82f4-bcfae2296689",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		}
+	]
+}

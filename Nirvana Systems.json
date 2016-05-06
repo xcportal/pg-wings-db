@@ -1,0 +1,116 @@
+{
+	"producer": {
+		"name": "Nirvana Systems",
+		"uuid": "2b6341b4-c862-4697-9527-b168e5bfd517"
+	},
+	"wings": [
+		{
+			"name": "Desire",
+			"uuid": "892fb0d7-2576-4a1a-a06f-47d2f14a7639",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Katana",
+			"uuid": "d551ecae-acc9-4fed-b6ee-f916c8af6a9f",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Komaka",
+			"uuid": "5bbb3fcb-3b50-484b-bdbf-d45137d61369",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Master",
+			"uuid": "5f999b77-b807-49b7-bfd0-3a1ab5870072",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "155"
+					}
+				}
+			]
+		}
+	]
+}

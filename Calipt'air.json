@@ -1,0 +1,55 @@
+{
+	"producer": {
+		"name": "Calipt'air",
+		"uuid": "b7164bbd-61c3-4d63-a260-3272fa32e9c4"
+	},
+	"wings": [
+		{
+			"name": "Garuda",
+			"uuid": "8d0b1cf8-dd20-4206-a79e-7697b19ba986",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "145"
+					}
+				}
+			]
+		}
+	]
+}

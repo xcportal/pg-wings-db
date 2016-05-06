@@ -1,0 +1,39 @@
+{
+	"producer": {
+		"name": "Airea Synairgy",
+		"uuid": "9e6a7d46-210b-45ba-93bf-046df5730fa3"
+	},
+	"wings": [
+		{
+			"name": "Renegade",
+			"uuid": "3b4483d1-06ec-4d5d-9d40-3080b4ffc1ba",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		}
+	]
+}

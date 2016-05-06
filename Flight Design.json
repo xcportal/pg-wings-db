@@ -1,0 +1,64 @@
+{
+	"producer": {
+		"name": "Flight Design",
+		"url": "./output/wings/logo/Flight Design.png",
+		"uuid": "850d87be-9612-4207-bfdb-661d6b3937a0"
+	},
+	"wings": [
+		{
+			"name": "Stream",
+			"uuid": "2f85de05-adbc-4c3c-888d-704aa9910b5b",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		}
+	]
+}

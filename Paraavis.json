@@ -1,0 +1,370 @@
+{
+	"producer": {
+		"name": "Paraavis",
+		"uuid": "e5c66099-2304-40bc-b7dd-2243f739f1bb"
+	},
+	"wings": [
+		{
+			"name": "Acrobat",
+			"uuid": "3555d2e1-f211-43f9-b9ff-4a6cc2bcad63",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "97",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "139"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "150"
+					}
+				}
+			]
+		},
+		{
+			"name": "Argo",
+			"uuid": "7fe02185-d141-4bce-8f1e-1332848065f6",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "104"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "86",
+						"weightMax": "111"
+					}
+				}
+			]
+		},
+		{
+			"name": "Dart",
+			"uuid": "29cfdbbc-5cb6-4a9b-a44d-67522765d19d",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "66",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "98"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "84",
+						"weightMax": "109"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ivengo",
+			"uuid": "861f873d-6f75-4dfc-b9f2-4d57615dd155",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "40",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "230"
+					}
+				}
+			]
+		},
+		{
+			"name": "Jazz",
+			"uuid": "2b491bbb-771b-4426-8ba0-3c7923e79364",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "62",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "104"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "32",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "Bi",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rio",
+			"uuid": "6da213a6-7737-407f-83cf-929a76cdde8c",
+			"year": "2013",
+			"url": "http://www.paraavis.com/paraplany/svobodnye/item/60-paraplan-rio.html",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "220",
+						"weight": "7.9"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tango",
+			"uuid": "7a0693fe-84e7-4083-aac0-d2ab6c6058e9",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "34",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Zorro",
+			"uuid": "abba01bb-2b9f-46d5-9a13-bb7e102d79fb",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "68",
+						"weightMax": "97"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "74",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "114"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "86",
+						"weightMax": "121"
+					}
+				},
+				{
+					"size": "38",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "250"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "300"
+					}
+				}
+			]
+		}
+	]
+}

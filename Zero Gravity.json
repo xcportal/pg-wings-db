@@ -1,0 +1,86 @@
+{
+	"producer": {
+		"name": "Zero Gravity",
+		"uuid": "f16ee7de-3f48-4435-a97e-1f77893b17ed"
+	},
+	"wings": [
+		{
+			"name": "Flow",
+			"uuid": "a26ff4fc-77f2-45ca-8c30-a0acf19d8f49",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Windstar",
+			"uuid": "183e94aa-7b24-4cdb-90f9-defb7984a6eb",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		}
+	]
+}

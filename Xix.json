@@ -1,0 +1,218 @@
+{
+	"producer": {
+		"name": "Xix",
+		"uuid": "2c0ffae5-f067-4948-9406-f079c00c78c3"
+	},
+	"wings": [
+		{
+			"name": "Form 3",
+			"uuid": "1572037f-2019-4496-8dc6-8b3e06d4fb37",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Inter 2",
+			"uuid": "1aff1a2a-6a97-4d6c-b491-3e7f1018351c",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sens-c2",
+			"uuid": "473af618-5bb3-40db-af15-702be36fe2d2",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sens-c3",
+			"uuid": "b2e413c0-6ec1-4d0b-bdb4-8d19d9953f8b",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sens-c4",
+			"uuid": "ae6fe8ee-99a3-413e-b482-811106c86b9c",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Smile",
+			"uuid": "80557b06-b386-4e3a-ad25-397fbcb10a7d",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		}
+	]
+}

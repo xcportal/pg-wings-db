@@ -1,0 +1,241 @@
+{
+	"producer": {
+		"name": "Team 5",
+		"uuid": "7c7640d4-bd2d-4b43-8dc8-cf5417ae29ef"
+	},
+	"wings": [
+		{
+			"name": "Black",
+			"uuid": "3b400a4e-4185-420e-b82e-535b50908139",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Blue",
+			"uuid": "934c99bf-fe73-4543-98a6-b013d14c9b3c",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Blue Two",
+			"uuid": "e7cbde74-32f1-4141-b2b7-4b2537d1cfae",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "39",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "180"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "230"
+					}
+				}
+			]
+		},
+		{
+			"name": "Green B",
+			"uuid": "e612c1de-5fc7-4b14-871d-d3bd7943b50b",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Green",
+			"uuid": "27bc611e-9642-4053-9d84-f271bdbe626d",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Red",
+			"uuid": "fd2a0749-3a2a-4009-a8d7-b878e4b1da6c",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Silver",
+			"uuid": "c1bc848a-625c-4f92-9807-2b6c5997ba8c",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				}
+			]
+		}
+	]
+}

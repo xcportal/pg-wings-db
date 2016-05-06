@@ -1,0 +1,1856 @@
+{
+	"producer": {
+		"name": "Niviuk Gliders",
+		"url": "./output/wings/logo/Niviuk Gliders.png",
+		"uuid": "918608c0-923a-40ae-a165-31cccd214aa6"
+	},
+	"wings": [
+		{
+			"name": "Artik",
+			"uuid": "5c94f1d9-1a49-4eab-9a5a-fc95787c6ca2",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Artik 2",
+			"uuid": "c8a88018-81c9-44e0-a345-99e5f8f6bbe1",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Artik 3",
+			"uuid": "d0ef3017-518e-4fa3-83ff-45622ff18106",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "F-gravity",
+			"uuid": "ca3d21e7-974a-42eb-b13a-e8d9eff12b75",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Hook",
+			"uuid": "cfed2222-0ac7-4bf6-9c26-94666604b723",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "65"
+					}
+				}
+			]
+		},
+		{
+			"name": "Hook 2",
+			"uuid": "ab559876-04c8-4df5-8e8a-624f53bcb391",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "65"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Hook 3",
+			"uuid": "26e46b96-8c34-4fb2-b0cf-c3d62c46b0e1",
+			"year": "2013",
+			"url": "http://www.niviuk.com/product.asp?prod=JNLSCOR0",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70",
+						"weight": "4.4"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "21",
+						"spanFlat": "10.65",
+						"ratioFlat": "5.4",
+						"areaProj": "17.85",
+						"spanProj": "8.45",
+						"ratioProj": "4",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85",
+						"weight": "4.7"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "23",
+						"spanFlat": "11.15",
+						"ratioFlat": "5.4",
+						"areaProj": "19.55",
+						"spanProj": "8.84",
+						"ratioProj": "4",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "4.9"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "25",
+						"spanFlat": "11.62",
+						"ratioFlat": "5.4",
+						"areaProj": "21.25",
+						"spanProj": "9.22",
+						"ratioProj": "4",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "27",
+						"spanFlat": "12.08",
+						"ratioFlat": "5.4",
+						"areaProj": "22.95",
+						"spanProj": "9.58",
+						"ratioProj": "4",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130",
+						"weight": "5.6"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "29",
+						"spanFlat": "12.51",
+						"ratioFlat": "5.4",
+						"areaProj": "24.65",
+						"spanProj": "9.93",
+						"ratioProj": "4",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Icepeak",
+			"uuid": "b5df7aa2-8a16-4e4c-9b38-a67c9ad42e7b",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "78",
+						"weightMax": "93"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "103",
+						"weightMax": "118"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icepeak 3",
+			"uuid": "7c8bfe6e-99d5-41cc-8c21-73a9bdfd60a5",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "77",
+						"weightMax": "87"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "97"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "97",
+						"weightMax": "107"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "102",
+						"weightMax": "112"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "107",
+						"weightMax": "117"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icepeak 4",
+			"uuid": "d7364c53-b0c2-4927-8c95-28f2c83e0f08",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icepeak 5",
+			"uuid": "6f69168e-d593-46e4-b716-da68749dee7b",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "74",
+						"weightMax": "94"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "84",
+						"weightMax": "104"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "94",
+						"weightMax": "114"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "104",
+						"weightMax": "124"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "114",
+						"weightMax": "134"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icepeak Xp",
+			"uuid": "a15637bb-713b-4405-93ac-0abcc448b6e5",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "93"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "102"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "98",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "104",
+						"weightMax": "117"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "112",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kougar",
+			"uuid": "38e7aeb6-0416-4281-9f84-5e4924997060",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Koyot",
+			"uuid": "0cd318b6-e58a-4625-b83c-fcc8a8a4df50",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "65"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "N-gravity",
+			"uuid": "297bc0c1-b4e4-40f5-b54e-1d5a64b30da7",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nk1",
+			"uuid": "1603985b-030b-4408-b55a-940a2be697a3",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "69",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "56",
+						"weightMax": "74"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nooky",
+			"uuid": "2e665735-4974-486b-bd08-be98d74b9771",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "11",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "13",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Peak",
+			"uuid": "c6931bc0-0d94-4701-a9b9-32d97412c6ad",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Peak 2",
+			"uuid": "758e3bae-60c1-4287-aef2-d81c3e73cc91",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Peak 3",
+			"uuid": "120efb9f-a0f7-4b82-8b5d-cb52a4335b61",
+			"year": "2013",
+			"url": "http://niviuk.com/product.asp?prod=JNLRFPN4",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					},
+					"area": {
+						"cells": "69",
+						"areaFlat": "21",
+						"spanFlat": "11.68",
+						"ratioFlat": "6.5",
+						"areaProj": "17.75",
+						"spanProj": "9.28",
+						"ratioProj": "4.86"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "97",
+						"weight": "5.5"
+					},
+					"area": {
+						"cells": "69",
+						"areaFlat": "23",
+						"spanFlat": "12.22",
+						"ratioFlat": "6.5",
+						"areaProj": "19.43",
+						"spanProj": "9.71",
+						"ratioProj": "4.86"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "23 x-alp",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "97",
+						"weight": "4.4"
+					},
+					"area": {
+						"cells": "69",
+						"areaFlat": "23",
+						"spanFlat": "12.22",
+						"ratioFlat": "6.5",
+						"areaProj": "19.43",
+						"spanProj": "9.71",
+						"ratioProj": "4.86"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "69",
+						"areaFlat": "25",
+						"spanFlat": "12.75",
+						"ratioFlat": "6.5",
+						"areaProj": "21.12",
+						"spanProj": "10.14",
+						"ratioProj": "4.86"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "25 x-alp",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "4.6"
+					},
+					"area": {
+						"cells": "69",
+						"areaFlat": "25",
+						"spanFlat": "12.75",
+						"ratioFlat": "6.5",
+						"areaProj": "21.12",
+						"spanProj": "10.14",
+						"ratioProj": "4.86"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					},
+					"area": {
+						"cells": "69",
+						"areaFlat": "27",
+						"spanFlat": "13.25",
+						"ratioFlat": "6.5",
+						"areaProj": "22.81",
+						"spanProj": "10.53",
+						"ratioProj": "4.86"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Roller",
+			"uuid": "7c6d5cef-bc28-4fb2-9c75-ee297f6c62f3",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "8",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Takoo",
+			"uuid": "7c3187d3-5009-4d53-8704-ddac97b89c09",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "39",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "190"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Takoo 2",
+			"uuid": "b677eb32-6b9c-4e45-8a91-b6a86516658d",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "39",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "190"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Zion",
+			"uuid": "9cd283cb-a019-4cba-bfb6-4e65626d2c87",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "69",
+						"weightMax": "91"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "61",
+						"weightMax": "103"
+					}
+				},
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "115"
+					}
+				}
+			]
+		},
+		{
+			"name": "Artik 4",
+			"uuid": "84541e1c-9b63-4e4a-861f-25114b15ca0a",
+			"year": "2014",
+			"url": "http://www.niviuk.com/product.asp?prod=JNMNORC0",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "73",
+						"weight": "4.3"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "4.9"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.2"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "5.6"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "126",
+						"weight": "6"
+					}
+				}
+			]
+		},
+		{
+			"name": "Hook 4",
+			"uuid": "99b9c99b-a754-476a-a682-6c04dbdfa5df",
+			"year": "2015",
+			"url": "http://www.niviuk.com/product.asp?prod=JNMPFPJ0",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icepeak 6",
+			"uuid": "4abea463-9e0f-4721-a314-43481cf04ddd",
+			"year": "2012",
+			"url": "http://www.niviuk.com/product.asp?prod=JNLPIQM0",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "5.1"
+					}
+				},
+				{
+					"size": "19",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "5.1"
+					},
+					"area": {
+						"cells": "75",
+						"areaFlat": "19",
+						"spanFlat": "11.45",
+						"ratioFlat": "6.9",
+						"areaProj": "16.19",
+						"spanProj": "9.21",
+						"ratioProj": "5.22",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 11.5cm",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true,
+						"maxChord": "2.04"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "5.4"
+					},
+					"area": {
+						"cells": "75",
+						"areaFlat": "21",
+						"spanFlat": "12.4",
+						"ratioFlat": "6.9",
+						"areaProj": "17.95",
+						"spanProj": "9.68",
+						"ratioProj": "5.22",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 11.5cm",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true,
+						"maxChord": "2.14"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.9"
+					},
+					"area": {
+						"cells": "75",
+						"areaFlat": "23",
+						"spanFlat": "12.6",
+						"ratioFlat": "6.9",
+						"areaProj": "19.66",
+						"spanProj": "10.13",
+						"ratioProj": "5.22",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true,
+						"maxChord": "2.24"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "6.3"
+					},
+					"area": {
+						"cells": "75",
+						"areaFlat": "24.5",
+						"spanFlat": "13",
+						"ratioFlat": "6.9",
+						"areaProj": "20.94",
+						"spanProj": "10.45",
+						"ratioProj": "5.22",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true,
+						"maxChord": "2.31"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125",
+						"weight": "6.7"
+					},
+					"area": {
+						"cells": "75",
+						"areaFlat": "26",
+						"spanFlat": "13.39",
+						"ratioFlat": "6.9",
+						"areaProj": "22.22",
+						"spanProj": "10.77",
+						"ratioProj": "5.22",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true,
+						"maxChord": "2.38"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icepeak 7",
+			"uuid": "857f9d30-28db-4baf-80d9-843dd9b752fb",
+			"year": "2014",
+			"url": "http://www.niviuk.com/product.asp?prod=JNMMOPP0",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "5.2"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.4"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "5.9"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125",
+						"weight": "6.3"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icepeak 7 Pro",
+			"uuid": "9584c283-332f-4913-ae4f-446727633bcd",
+			"year": "2014",
+			"url": "http://www.niviuk.com/product.asp?prod=JNMMRRG4",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.5"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "5.6"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icepeak 8",
+			"uuid": "26a5eced-df65-4e14-a0d7-d883eee8b0b9",
+			"year": "2014",
+			"url": "http://www.niviuk.com/product.asp?prod=JNMOCMG4",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "CCC",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "6"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "CCC",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "6.15"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "CCC",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125",
+						"weight": "6.3"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ikuma",
+			"uuid": "e29cff6b-8ab7-4bfa-bb81-faa15bed70a2",
+			"year": "2015",
+			"url": "http://www.niviuk.com/product.asp?prod=JNMPCNP4",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Link",
+			"uuid": "bdbe38d8-b4c1-491c-9203-99ffd4760cff",
+			"year": "2012",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Skate",
+			"uuid": "0fab9a25-4751-4373-ac2e-05360587cce0",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "14",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "8",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Koyot 2",
+			"uuid": "ee451294-d256-4ad0-94d1-cbe2e6d118db",
+			"year": "2012",
+			"url": "http://www.niviuk.com/product.asp?prod=JNLQIQN0",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "67",
+						"weight": "4.9"
+					},
+					"area": {
+						"cells": "37",
+						"areaFlat": "21.39",
+						"spanFlat": "10.21",
+						"ratioFlat": "4.87",
+						"areaProj": "18.18",
+						"spanProj": "8.06",
+						"ratioProj": "3.71",
+						"upperSurface": "SKYTEX 40 9017 E77",
+						"underSurface": "N-20-DMF 36"
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"maxSpeed": "46"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "62",
+						"weightMax": "82",
+						"weight": "5.2"
+					},
+					"area": {
+						"cells": "37",
+						"areaFlat": "23.88",
+						"spanFlat": "10.79",
+						"ratioFlat": "4.87",
+						"areaProj": "20.54",
+						"spanProj": "8.73",
+						"ratioProj": "3.71",
+						"upperSurface": "SKYTEX 40 9017 E77",
+						"underSurface": "N-20-DMF 36"
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"maxSpeed": "46"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "77",
+						"weightMax": "97",
+						"weight": "5.4"
+					},
+					"area": {
+						"cells": "37",
+						"areaFlat": "25.87",
+						"spanFlat": "11.21",
+						"ratioFlat": "4.87",
+						"areaProj": "22.25",
+						"spanProj": "9.08",
+						"ratioProj": "3.71",
+						"upperSurface": "SKYTEX 40 9017 E77",
+						"underSurface": "N-20-DMF 36"
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"maxSpeed": "46"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "92",
+						"weightMax": "117",
+						"weight": "5.6"
+					},
+					"area": {
+						"cells": "37",
+						"areaFlat": "27.86",
+						"spanFlat": "11.65",
+						"ratioFlat": "4.87",
+						"areaProj": "23.96",
+						"spanProj": "9.44",
+						"ratioProj": "3.71",
+						"upperSurface": "SKYTEX 40 9017 E77",
+						"underSurface": "N-20-DMF 36"
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"maxSpeed": "46"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "112",
+						"weightMax": "135",
+						"weight": "6"
+					},
+					"area": {
+						"cells": "37",
+						"areaFlat": "30.85",
+						"spanFlat": "12.26",
+						"ratioFlat": "4.87",
+						"areaProj": "26.53",
+						"spanProj": "9.93",
+						"ratioProj": "3.71",
+						"upperSurface": "SKYTEX 40 9017 E77",
+						"underSurface": "N-20-DMF 36"
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"maxSpeed": "46"
+					}
+				}
+			]
+		},
+		{
+			"name": "Takoo 3",
+			"uuid": "4da89965-49f9-4496-a158-50bfa11087fa",
+			"year": "2014",
+			"url": "http://www.niviuk.com/product.asp?prod=JNMMLOH8",
+			"subwing": [
+				{
+					"size": "39",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "190",
+						"weight": "7.3"
+					},
+					"area": {
+						"areaFlat": "39",
+						"spanFlat": "14.51",
+						"ratioFlat": "5.4",
+						"areaProj": "33.03",
+						"spanProj": "11.5",
+						"ratioProj": "4"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220",
+						"weight": "7.7"
+					},
+					"area": {
+						"areaFlat": "41.5",
+						"spanFlat": "14.97",
+						"ratioFlat": "5.4",
+						"areaProj": "35.15",
+						"spanProj": "11.86",
+						"ratioProj": "4"
+					}
+				}
+			]
+		}
+	]
+}

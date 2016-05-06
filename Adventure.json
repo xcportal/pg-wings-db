@@ -1,0 +1,287 @@
+{
+	"producer": {
+		"name": "Adventure",
+		"uuid": "ea2077fe-5d75-4bdb-a969-450f7d1ea8b8"
+	},
+	"wings": [
+		{
+			"name": "Adventure Elle Plus",
+			"uuid": "3c594fb3-791b-4c65-b9c2-92d6c798191b",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Adventure Flexway",
+			"uuid": "66082ecc-fc3a-4bc8-941a-b30a756ed375",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "34",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "190",
+						"weightMax": "190"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "145",
+						"weightMax": "170"
+					}
+				}
+			]
+		},
+		{
+			"name": "Adventure Platinium",
+			"uuid": "827c0e8f-4738-440b-a40b-979229c2c65d",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Adventure Premium",
+			"uuid": "cfdd9656-ce45-4c06-b641-b7443365bca6",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "92",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "98"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Adventure Reflexion",
+			"uuid": "ade1e12c-1d64-4b7a-9aa2-b47f4d04a099",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "27",
+					"certificate": "Paramotor",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Paramotor",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Adventure Shuttle",
+			"uuid": "cba4280a-e6a4-4e0e-918e-ae772aad01b0",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "40",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Adventure Speedoo",
+			"uuid": "2baa8ec8-8701-4e4f-8fc7-69fbfc410854",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "27",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "34",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Adventure Xpert",
+			"uuid": "6b3f0855-311a-4eca-8bed-d71f344b7f42",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Adventure Xpresso",
+			"uuid": "72c9f2d3-a67d-4f7d-89b5-455d7af02eb0",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "77",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "38",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "180"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "220"
+					}
+				}
+			]
+		}
+	]
+}

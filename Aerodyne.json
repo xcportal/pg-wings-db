@@ -1,0 +1,673 @@
+{
+	"producer": {
+		"name": "Aerodyne",
+		"url": "./output/wings/logo/Aerodyne.png",
+		"uuid": "d3fea951-f2ce-4e3d-9ef0-7ba254532280"
+	},
+	"wings": [
+		{
+			"name": "Blaster",
+			"uuid": "0ee7a471-3d13-486a-ae83-c259340cce12",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Compétition",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cherokee",
+			"uuid": "f89f5da1-f177-4c48-bf42-dad19b082bd8",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cool",
+			"uuid": "467336f2-fffd-40c1-9b1a-508fe0851cc3",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Dune",
+			"uuid": "a15e0b63-f4d6-4bca-9c27-5971676807d7",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "97",
+						"weightMax": "116"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "98"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "67",
+						"weightMax": "84"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "57",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Feel",
+			"uuid": "7ab7a97d-d22d-47a1-87e4-ba37cfcb7d05",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Feex",
+			"uuid": "466197af-5203-432a-aa0c-f0766eefff23",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "113",
+						"weightMax": "113"
+					}
+				}
+			]
+		},
+		{
+			"name": "Free",
+			"uuid": "02d7692f-80dc-42c5-b9e8-ef2668c19aaa",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Guru",
+			"uuid": "6b0320e6-fd79-4e63-b249-f2b6e1699a3b",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Joy",
+			"uuid": "316192e5-552a-413a-87e0-f44e47933e2a",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "4.7"
+					},
+					"area": {
+						"areaFlat": "22.7",
+						"spanFlat": "11.12",
+						"ratioFlat": "5.45",
+						"areaProj": "19.27",
+						"spanProj": "8.68",
+						"ratioProj": "3.91",
+						"upperSurface": "Gelv LCN 66  48 g/m2",
+						"underSurface": "S9017-E68A 36 g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 20cm",
+						"trims": "No",
+						"risers": "4",
+						"minSpeed": "24",
+						"maxSpeed": "56"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "4.9"
+					},
+					"area": {
+						"areaFlat": "25",
+						"spanFlat": "11.67",
+						"ratioFlat": "5.45",
+						"areaProj": "21.18",
+						"spanProj": "9.1",
+						"ratioProj": "3.91",
+						"upperSurface": "Gelv LCN 66  48 g/m2",
+						"underSurface": "S9017-E68A 36 g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 20cm",
+						"trims": "No",
+						"risers": "4",
+						"minSpeed": "24",
+						"maxSpeed": "56"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.3"
+					},
+					"area": {
+						"areaFlat": "27.3",
+						"spanFlat": "12.2",
+						"ratioFlat": "5.45",
+						"areaProj": "23.12",
+						"spanProj": "9.5",
+						"ratioProj": "3.91",
+						"upperSurface": "Gelv LCN 66  48 g/m2",
+						"underSurface": "S9017-E68A 36 g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 20cm",
+						"trims": "No",
+						"risers": "4",
+						"minSpeed": "24",
+						"maxSpeed": "56"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "5.7"
+					},
+					"area": {
+						"areaFlat": "29.6",
+						"spanFlat": "12.7",
+						"ratioFlat": "5.45",
+						"areaProj": "25.07",
+						"spanProj": "9.9",
+						"ratioProj": "3.91",
+						"upperSurface": "Gelv LCN 66  48 g/m2",
+						"underSurface": "S9017-E68A 36 g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 20cm",
+						"trims": "No",
+						"risers": "4",
+						"minSpeed": "24",
+						"maxSpeed": "56"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "135",
+						"weight": "5.9"
+					},
+					"area": {
+						"areaFlat": "31.98",
+						"spanFlat": "13.2",
+						"ratioFlat": "5.45",
+						"areaProj": "27.09",
+						"spanProj": "10.29",
+						"ratioProj": "3.91",
+						"upperSurface": "Gelv LCN 66  48 g/m2",
+						"underSurface": "S9017-E68A 36 g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 20cm",
+						"trims": "No",
+						"risers": "4",
+						"minSpeed": "24",
+						"maxSpeed": "56"
+					}
+				}
+			]
+		},
+		{
+			"name": "Jumbe",
+			"uuid": "d5f816fb-79ff-4d80-9e06-dcc591516bd2",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "92",
+						"weightMax": "116"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "98"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "84"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "57",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Massai",
+			"uuid": "c92d28a4-339d-4b92-9ebc-a27a91d4774a",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "92",
+						"weightMax": "113"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "67",
+						"weightMax": "89"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "63",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sagaie",
+			"uuid": "a768175e-7a2d-4d73-8033-6fd8f8b9ef2e",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Shaman",
+			"uuid": "19010b7a-4995-4e96-8872-0ce37452d51f",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "97",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "82"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "63",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Shaolin",
+			"uuid": "a14ede57-4e51-47ca-a97e-6ae008f42dc9",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "68"
+					}
+				}
+			]
+		},
+		{
+			"name": "Shoot",
+			"uuid": "e094b4ae-f2f8-4378-9068-e05e6a47a087",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sweet",
+			"uuid": "66bb204f-0ada-4837-9d37-c3c4829abc0b",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "Totem",
+			"uuid": "5c75b577-f34d-44db-a416-5f3cf1cf85da",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "230"
+					}
+				}
+			]
+		},
+		{
+			"name": "Yogi",
+			"uuid": "d734602a-d1b7-492f-b5f7-3cad3f5f148c",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		}
+	]
+}

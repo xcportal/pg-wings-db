@@ -1,0 +1,519 @@
+{
+	"producer": {
+		"name": "Firebird",
+		"url": "./output/wings/logo/Firebird.png",
+		"uuid": "df6c1769-2bb0-43d9-a5b1-d01a0310498e"
+	},
+	"wings": [
+		{
+			"name": "Albatros",
+			"uuid": "0da7aedb-513d-4ae2-afea-0f0fc29017a3",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "Ml",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "92"
+					}
+				}
+			]
+		},
+		{
+			"name": "Debute",
+			"uuid": "68638c5c-52b3-4a47-ab8b-f87be4a4c59d",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Eagle 2",
+			"uuid": "239c5b6a-c3cc-4cb5-9c98-c20a0f6d6fb8",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Eagle",
+			"uuid": "cfbbb734-ccc4-4b9e-a46f-b19cb63486b0",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "F 18",
+			"uuid": "9c56247d-b53f-4c10-af8e-24a7600abe28",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "F1rst",
+			"uuid": "53041a9b-1456-4b0b-98dd-7429d17ac366",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Grid",
+			"uuid": "22dfdcf5-6e9d-408e-813f-15854ab02453",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Hornet Sp",
+			"uuid": "118bf4f8-7763-4c4e-8e23-21f910d9de34",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Hornet",
+			"uuid": "81fa9b0e-3361-412e-ab47-33aee9c2b050",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "Xl",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Matrix 2",
+			"uuid": "6d669dce-27de-4dbb-81f5-e70364ad0398",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Platoon",
+			"uuid": "304a82db-6421-4255-9e35-b87c8cc4b52a",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Raven",
+			"uuid": "dba8de61-e9de-470c-b21a-c6ef4d4b42a2",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Spider",
+			"uuid": "b1763809-fed0-4e48-bb41-dc11dc64b539",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sub-one",
+			"uuid": "8431e68b-dfb6-405b-82b8-382cb1711b81",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Trainer",
+			"uuid": "49bc1891-6746-46a3-9932-c45da3d1a76d",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Ground Training",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "-",
+					"certificate": "Ground Training",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "-",
+					"certificate": "Ground Training",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tribute",
+			"uuid": "52cddde8-aa10-4998-8ad3-5dcb765dbe53",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Twix",
+			"uuid": "3639eca5-8eb9-4ea5-8354-8cdc1d365a99",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Z-one",
+			"uuid": "b67230a5-18a8-4865-9b80-7eb94da7dccb",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "75"
+					}
+				}
+			]
+		}
+	]
+}

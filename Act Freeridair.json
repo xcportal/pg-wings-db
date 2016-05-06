@@ -1,0 +1,76 @@
+{
+	"producer": {
+		"name": "Act Freeridair",
+		"uuid": "433fc25a-4679-461e-99ed-ab3001a3ec1d"
+	},
+	"wings": [
+		{
+			"name": "Actitude",
+			"uuid": "2b0df905-ce92-4e7b-be09-ce3003bfa1d9",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Actraction",
+			"uuid": "482340fe-ed1c-4947-b5d9-55450598437d",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Atact",
+			"uuid": "155207a7-5127-44c0-a254-442d8c20be67",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Freestyle",
+			"uuid": "a7333071-2c28-413e-88f9-4e4bdefb6d3c",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,733 @@
+{
+	"producer": {
+		"name": "Wings Of Change",
+		"uuid": "e1165155-4c4c-4968-93b7-fb64bfb3a889"
+	},
+	"wings": [
+		{
+			"name": "Acrominator",
+			"uuid": "33885099-6217-4f1b-a59f-c32f828214a8",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "100",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "88",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "92",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "96",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Acrominator Pro",
+			"uuid": "fdb990c8-c517-4b66-85c8-584ce97ecc3f",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "100",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "105",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "97",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Atzi",
+			"uuid": "d1e038c4-87ca-44b3-9432-f7f7dd69a3e7",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Braveheart",
+			"uuid": "d56f7ff4-9ccf-4882-b1bb-d9b815fdfb96",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "25.5r",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "92"
+					}
+				},
+				{
+					"size": "27.5r",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Crossblade",
+			"uuid": "1f3dee07-d468-42de-a731-a1a44e7c6a1d",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Deathblade",
+			"uuid": "6899183c-26e8-4e41-93bd-e1aebe55c616",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Druid",
+			"uuid": "5eba8d09-e46f-4bc3-aeff-381aa1575721",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "Edonis",
+			"uuid": "edeb011a-0a8e-4881-9ecd-cc4827c5deee",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Hurricane",
+			"uuid": "3118c424-7ad0-4e93-bd5f-23514994dc35",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "",
+			"uuid": "5fa7de65-2fd4-452f-afc9-dbd7c6700a80",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "M/l",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S/m",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Isis",
+			"uuid": "394e5a26-26dc-4d52-81df-8b3e549a6ab7",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nemesis",
+			"uuid": "4b24a436-6c7e-4312-a39a-185ac13289e2",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nemeton",
+			"uuid": "97904a6d-12c8-4e4b-a708-6b293db80fc1",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Predator",
+			"uuid": "ab49aafe-e511-4110-9dd8-a72bac0e2166",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Psycho 2",
+			"uuid": "20c1e78c-13e7-4b92-a729-8fe79a7bba51",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Psycho 3",
+			"uuid": "bfdc8d68-158e-4f0b-9f45-bc8e8d4ba7fc",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Psycho 4",
+			"uuid": "0d79d414-77c0-4ff9-bbb9-8a8ec7703cf8",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "100",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "102",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "96",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "98",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Psychohammer 10",
+			"uuid": "23c3e2dd-3af4-427f-a04f-9a034d0d49fb",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Psychohammer 9",
+			"uuid": "d834d8ad-8b45-4ee5-a6c4-d46145a4fff4",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "115"
+					}
+				}
+			]
+		},
+		{
+			"name": "Reinhold",
+			"uuid": "cf65ab4d-b9d3-482a-b5c0-01a4a4be3c2b",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Speedriding",
+			"uuid": "175854d1-d25b-4f70-b561-dae666765ea0",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tsunami",
+			"uuid": "aa14047b-4450-455e-89e4-9fb133ac9228",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Twister Xi",
+			"uuid": "7d56952c-6040-4720-969c-f6cb32e526a0",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Velocity",
+			"uuid": "17c78a5c-b08d-48f6-bbfb-6cb514f39f56",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "6",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "25",
+						"weightMax": "35"
+					}
+				},
+				{
+					"size": "8",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "35",
+						"weightMax": "45"
+					}
+				}
+			]
+		},
+		{
+			"name": "X-fighter",
+			"uuid": "10a9c100-81ca-4291-8e38-938309f4765f",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "LTF 2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "LTF 2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Xplor-Air",
+			"uuid": "1813b4c0-18a9-4666-81a1-0e7a03088bc9",
+			"year": "2012",
+			"url": "http://www.wings-of-change.at/xplor-air.html",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "230"
+					},
+					"area": {
+						"areaFlat": "41",
+						"spanFlat": "14.6",
+						"ratioFlat": "5.2",
+						"areaProj": "34.95",
+						"spanProj": "11.43",
+						"ratioProj": "3.73",
+						"upperSurface": "Dokdo 30D 40 g/m²",
+						"underSurface": "Dokdo 30D 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "No",
+						"risers": "5"
+					}
+				}
+			]
+		}
+	]
+}

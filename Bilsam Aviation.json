@@ -1,0 +1,24 @@
+{
+	"producer": {
+		"name": "Bilsam Aviation",
+		"url": "./output/wings/logo/Bilsam Aviation.png",
+		"uuid": "65d3e896-a9c0-4056-934e-604f5a5b38de"
+	},
+	"wings": [
+		{
+			"name": "Maximus",
+			"uuid": "752bfadb-6027-4c2d-8ced-008e98e62877",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "300"
+					}
+				}
+			]
+		}
+	]
+}

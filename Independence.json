@@ -1,0 +1,806 @@
+{
+	"producer": {
+		"name": "Independence",
+		"url": "./output/wings/logo/Independence.png",
+		"uuid": "c3096d31-4f7d-4753-b232-39953b300d69"
+	},
+	"wings": [
+		{
+			"name": "Akron",
+			"uuid": "952bd34d-782e-429f-8efa-d105f14ea19d",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Avalon",
+			"uuid": "dabe1a2a-36da-4421-95cb-8832394bdd12",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "64",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xxl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "135",
+						"weightMax": "165"
+					}
+				}
+			]
+		},
+		{
+			"name": "Carver",
+			"uuid": "b536d836-d2c9-4fd0-bd88-b01e13d43f4a",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "11",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "15",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cruiser",
+			"uuid": "8029af1b-203b-4784-b932-5f632aa929d7",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Demon",
+			"uuid": "4121f453-9498-4aee-9700-2780c3ee3f94",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Draco",
+			"uuid": "6aafdc2f-c2a0-4c19-9925-3f5c7aefce3f",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "14",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Dragon 2",
+			"uuid": "689c0048-9b25-4565-9e87-8996b6c4d70a",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Dragon 3",
+			"uuid": "05462aca-8787-42d2-9ece-a37d49ee77a8",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Duett",
+			"uuid": "ef26571f-a906-46a6-b5ef-325b5c73e86b",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "Biplace"
+				}
+			]
+		},
+		{
+			"name": "Duke",
+			"uuid": "427f7418-1b1e-4379-affe-125a12a087be",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Excalibur",
+			"uuid": "ccb9a5d2-68ce-4b76-904d-2b11c5ef3328",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Galaxy",
+			"uuid": "b5ef2bed-0f11-4d18-a6a1-38eb8ed142e9",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "230"
+					}
+				}
+			]
+		},
+		{
+			"name": "Geronimo",
+			"uuid": "4a525e51-ba3a-4bdf-8257-add096ff5b43",
+			"year": "2012",
+			"url": "http://www.independence-world.com/internet/nav/6fa/6fa3db9f-47ca-a313-3e2d-c8ada3b7d8f3&_ic_uCon=cb63db9f-47ca-a313-3e2d-c8ada3b7d8f3.htm",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					},
+					"area": {
+						"cells": "55",
+						"areaFlat": "25",
+						"spanFlat": "11.61",
+						"ratioFlat": "5.4",
+						"areaProj": "21.31",
+						"spanProj": "9.09",
+						"ratioProj": "3.88",
+						"upperSurface": "Dominico 20D 40 g/m²",
+						"underSurface": "Dominico 20D 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "55",
+						"areaFlat": "27",
+						"spanFlat": "12.07",
+						"ratioFlat": "5.4",
+						"areaProj": "23.01",
+						"spanProj": "9.45",
+						"ratioProj": "3.88",
+						"upperSurface": "Dominico 20D 40 g/m²",
+						"underSurface": "Dominico 20D 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115",
+						"weight": "6"
+					},
+					"area": {
+						"cells": "55",
+						"areaFlat": "29",
+						"spanFlat": "12.51",
+						"ratioFlat": "5.4",
+						"areaProj": "24.71",
+						"spanProj": "9.79",
+						"ratioProj": "3.88",
+						"upperSurface": "Dominico 20D 40 g/m²",
+						"underSurface": "Dominico 20D 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "145",
+						"weight": "6"
+					},
+					"area": {
+						"cells": "55",
+						"areaFlat": "31",
+						"spanFlat": "12.93",
+						"ratioFlat": "5.4",
+						"areaProj": "26.42",
+						"spanProj": "10.12",
+						"ratioProj": "3.88",
+						"upperSurface": "Dominico 20D 40 g/m²",
+						"underSurface": "Dominico 20D 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		},
+		{
+			"name": "Merlin",
+			"uuid": "665fbe5f-a129-4d4f-9129-e9898185df0a",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pioneer",
+			"uuid": "8a1fdbdc-bcab-4dd7-8ef2-ca000fd8b947",
+			"year": "2012",
+			"url": "http://www.independence-world.com/internet/nav/001/00160312-9a91-b921-33e2-dc8ada3b7d8f&_ic_uCon=16460312-9a91-b921-33e2-dc8ada3b7d8f.htm",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "46",
+						"areaFlat": "23",
+						"spanFlat": "10.84",
+						"ratioFlat": "5.1",
+						"areaProj": "19.27",
+						"spanProj": "8.25",
+						"ratioProj": "3.53",
+						"upperSurface": "Dokdo 30D 40 g/m² ",
+						"underSurface": "Dokdo 30D 40 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85",
+						"weight": "6"
+					},
+					"area": {
+						"cells": "46",
+						"areaFlat": "25",
+						"spanFlat": "11.29",
+						"ratioFlat": "5.1",
+						"areaProj": "20.95",
+						"spanProj": "8.6",
+						"ratioProj": "3.53",
+						"upperSurface": "Dokdo 30D 40 g/m² ",
+						"underSurface": "Dokdo 30D 40 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105",
+						"weight": "6.5"
+					},
+					"area": {
+						"cells": "46",
+						"areaFlat": "27",
+						"spanFlat": "11.74",
+						"ratioFlat": "5.1",
+						"areaProj": "22.62",
+						"spanProj": "8.94",
+						"ratioProj": "3.53",
+						"upperSurface": "Dokdo 30D 40 g/m² ",
+						"underSurface": "Dokdo 30D 40 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115",
+						"weight": "6.7"
+					},
+					"area": {
+						"cells": "46",
+						"areaFlat": "29",
+						"spanFlat": "12.16",
+						"ratioFlat": "5.1",
+						"areaProj": "24.3",
+						"spanProj": "9.26",
+						"ratioProj": "3.53",
+						"upperSurface": "Dokdo 30D 40 g/m² ",
+						"underSurface": "Dokdo 30D 40 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "135",
+						"weight": "7.1"
+					},
+					"area": {
+						"cells": "46",
+						"areaFlat": "31",
+						"spanFlat": "12.57",
+						"ratioFlat": "5.1",
+						"areaProj": "25.97",
+						"spanProj": "9.57",
+						"ratioProj": "3.53",
+						"upperSurface": "Dokdo 30D 40 g/m² ",
+						"underSurface": "Dokdo 30D 40 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		},
+		{
+			"name": "Speed",
+			"uuid": "07ac3dd9-0f39-4d6e-a908-3b8887ce32d4",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "185"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sportster",
+			"uuid": "f42935f1-1a49-49f2-a036-aa4fe30aa5ed",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stairway",
+			"uuid": "d0a2f3fd-71f4-440c-9f58-4f908e97de38",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Striker",
+			"uuid": "23a2aba5-2ecc-45d4-a561-09fc225fc439",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "92"
+					}
+				}
+			]
+		}
+	]
+}

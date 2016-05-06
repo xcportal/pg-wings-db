@@ -1,0 +1,453 @@
+{
+	"producer": {
+		"name": "A.s.a.",
+		"url": "./output/wings/logo/A.s.a..png",
+		"uuid": "18545e99-d786-4471-a776-b9c485da31ab"
+	},
+	"wings": [
+		{
+			"name": "Blues",
+			"uuid": "4120dd71-8a28-4ce0-8e6e-34a9bcfc9f26",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "34",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Dzhambo",
+			"uuid": "c912ef77-8949-4b20-bea5-679c3cc5b133",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "240"
+					}
+				}
+			]
+		},
+		{
+			"name": "Grif",
+			"uuid": "9807a36f-762b-4bed-acf6-686da7e1d147",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Jamboo 2",
+			"uuid": "3ca5ba05-9fec-424e-a81d-c7d6ac65229e",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "39",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "210"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "240"
+					}
+				}
+			]
+		},
+		{
+			"name": "Respect",
+			"uuid": "88cce8e1-6374-4e92-8f38-5a4168760461",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Spirit",
+			"uuid": "1aaaa766-97a8-4a27-be5c-ab10aab9cef0",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				}
+			]
+		},
+		{
+			"name": "Spirit 2",
+			"uuid": "b56563a8-656b-480d-9043-cb3497b0abb6",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "48",
+						"weightMax": "60"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stimul",
+			"uuid": "a85655c2-b55f-46f9-8d87-31f2d2008278",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tairan",
+			"uuid": "ec51e16a-1cc7-4f31-911f-ee3fb29946e4",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tairan 2",
+			"uuid": "56118e1c-0b53-4a42-8107-0d1b841e48c9",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tairan 3",
+			"uuid": "62a12da4-751b-4ab2-84b8-23e754cac1af",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "98",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "88"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tairan 4",
+			"uuid": "9618a4da-0b28-4e9d-9e28-7b1136b0b6b1",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		}
+	]
+}

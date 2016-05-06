@@ -1,0 +1,1686 @@
+{
+	"producer": {
+		"name": "Gradient",
+		"url": "./output/wings/logo/Gradient.png",
+		"uuid": "56e10032-2ca0-4b13-bd67-267b35d0328a"
+	},
+	"wings": [
+		{
+			"name": "Aspen 2",
+			"uuid": "35bf187b-1504-40be-a6b5-e2905d489787",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Aspen",
+			"uuid": "73484101-1128-4fd6-8774-4eccf62d6475",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Aspen 3",
+			"uuid": "316315bc-6a68-491f-9946-c6018031d53b",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Aspen 4",
+			"uuid": "42aba103-58eb-450e-9d5d-29808362061f",
+			"year": "2012",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "67",
+						"weightMax": "80",
+						"weight": "4.7"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "22.06",
+						"spanFlat": "11.5",
+						"ratioFlat": "5.99",
+						"areaProj": "19.02",
+						"spanProj": "9.22",
+						"ratioProj": "4.47",
+						"upperSurface": "NCV New SKYTEX, E38A, 40 g/m2  ",
+						"underSurface": "NCV New SKYTEX, E38A, 40 g/m2   "
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10",
+						"maxChord": "2.41",
+						"minSpeed": "24",
+						"maxSpeed": "58"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90",
+						"weight": "5"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "24.1",
+						"spanFlat": "12.02",
+						"ratioFlat": "5.99",
+						"areaProj": "20.77",
+						"spanProj": "9.63",
+						"ratioProj": "4.47",
+						"upperSurface": "NCV New SKYTEX, E38A, 40 g/m2  ",
+						"underSurface": "NCV New SKYTEX, E38A, 40 g/m2   "
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10",
+						"maxChord": "2.41",
+						"minSpeed": "24",
+						"maxSpeed": "58"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.4"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "25.94",
+						"spanFlat": "12.46",
+						"ratioFlat": "5.99",
+						"areaProj": "22.36",
+						"spanProj": "10",
+						"ratioProj": "4.47",
+						"upperSurface": "NCV New SKYTEX, E38A, 40 g/m2  ",
+						"underSurface": "NCV New SKYTEX, E38A, 40 g/m2   "
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10",
+						"maxChord": "2.41",
+						"minSpeed": "24",
+						"maxSpeed": "58"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "27.86",
+						"spanFlat": "12.92",
+						"ratioFlat": "5.99",
+						"areaProj": "24.01",
+						"spanProj": "10.36",
+						"ratioProj": "4.47",
+						"upperSurface": "NCV New SKYTEX, E38A, 40 g/m2  ",
+						"underSurface": "NCV New SKYTEX, E38A, 40 g/m2   "
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10",
+						"maxChord": "2.41",
+						"minSpeed": "24",
+						"maxSpeed": "58"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "6.2"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "30.42",
+						"spanFlat": "13.5",
+						"ratioFlat": "5.99",
+						"areaProj": "26.22",
+						"spanProj": "10.83",
+						"ratioProj": "4.47",
+						"upperSurface": "NCV New SKYTEX, E38A, 40 g/m2  ",
+						"underSurface": "NCV New SKYTEX, E38A, 40 g/m2   "
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10",
+						"maxChord": "2.41",
+						"minSpeed": "24",
+						"maxSpeed": "58"
+					}
+				}
+			]
+		},
+		{
+			"name": "Aspen 5",
+			"uuid": "31f198ab-7dd8-480b-b9f1-da475c644f8d",
+			"year": "2014",
+			"url": "http://www.gradient.cx/enAspen5",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "80",
+						"weight": "4.5"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "77",
+						"weightMax": "90",
+						"weight": "4.8"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "103",
+						"weight": "5.1"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "98",
+						"weightMax": "118",
+						"weight": "5.4"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "5.7"
+					}
+				}
+			]
+		},
+		{
+			"name": "Avax Rs",
+			"uuid": "10758682-2768-4e99-9ace-fd0b843df3ab",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "AFNOR Compétition",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Avax Rse",
+			"uuid": "3d04e0b0-2ec1-4918-aa2e-714b5d2ed4d6",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Avax Rsf",
+			"uuid": "2d3e1e4b-070c-43ce-bbdd-c532bb684757",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "98",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Avax Sr7",
+			"uuid": "3eaf4795-7f89-4b5d-94a6-ff7cb36d210b",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Avax Sr8",
+			"uuid": "f856f984-8f1d-4012-9f7e-06203486e47a",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Avax Xc 2",
+			"uuid": "4c4c59a4-9b72-46a8-916e-1e4f26afe801",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "LTF 2-3",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "LTF 2-3",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "LTF 2-3",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Avax Xc",
+			"uuid": "0486509f-cead-40f1-af00-29cb83f58730",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Avax Xc 3",
+			"uuid": "68d6a934-02f8-43c7-b75d-633fd9fcba17",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Avax Xc 5",
+			"uuid": "2d68202d-4edd-4c0e-9689-0143eda6c564",
+			"year": "2015",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "97"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "118"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bigolden 2",
+			"uuid": "5fe04ae9-e31e-4ee9-b6cb-0b2c5c85c0c3",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "180"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bigolden 3",
+			"uuid": "35bde525-00fa-4ed5-8ab2-9b9100dca019",
+			"year": "2014",
+			"subwing": [
+				{
+					"size": "42",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "220"
+					}
+				},
+				{
+					"size": "39",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "190"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bigolden",
+			"uuid": "f137bd12-8cb1-442a-acf9-65768d076a79",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "180"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bigolden Xc",
+			"uuid": "922f0419-3bcd-43b7-840d-836b2094e666",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "200"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bright",
+			"uuid": "6cd4eaca-0537-4f2f-beae-aebb02b3a3d2",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bright 3",
+			"uuid": "347b1c43-547e-49f2-8db8-ec50fed90ec7",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bright 4",
+			"uuid": "8ac18a31-204c-4ed9-8b94-7785cc6d027f",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "54",
+						"weightMax": "66"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "63",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Delite 2",
+			"uuid": "5bb12bbd-f2bb-4576-b29b-14a5bdb31ac2",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Delite",
+			"uuid": "7a999782-d289-47dc-a974-aac3c81233ca",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Freestyle 2",
+			"uuid": "beb1e93b-25ab-4e44-b195-966b0eeac392",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Golden 2",
+			"uuid": "bcd36d89-7a35-4ccf-aed2-7deb2a5f62e6",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Golden",
+			"uuid": "6a210e13-7778-42d0-ae4f-f7361d0c8489",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Golden 3",
+			"uuid": "feba4275-97c1-47d6-a541-90c9ba23126e",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "62",
+						"weightMax": "77"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Golden 4",
+			"uuid": "fefa9c23-8747-4b23-b39e-e62319f811af",
+			"year": "2013",
+			"url": "http://www.gradient.cx/en/Golden4",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "62",
+						"weightMax": "77",
+						"weight": "4.3"
+					},
+					"area": {
+						"areaFlat": "22.42",
+						"spanFlat": "10.96",
+						"ratioFlat": "5.3",
+						"areaProj": "19.31",
+						"spanProj": "8.96",
+						"ratioProj": "4.16",
+						"upperSurface": "Skytex 40 g/m?",
+						"underSurface": "Skytex 38 g/m?"
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"risers": "4"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90",
+						"weight": "4.9"
+					},
+					"area": {
+						"areaFlat": "24.4",
+						"spanFlat": "11.44",
+						"ratioFlat": "5.3",
+						"areaProj": "21.02",
+						"spanProj": "9.35",
+						"ratioProj": "4.16",
+						"upperSurface": "Skytex 40 g/m?",
+						"underSurface": "Skytex 38 g/m?"
+					},
+					"properties": {
+						"acceleration": "Yes, 13cm",
+						"risers": "4"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100",
+						"weight": "5.2"
+					},
+					"area": {
+						"areaFlat": "26.7",
+						"spanFlat": "11.88",
+						"ratioFlat": "5.3",
+						"areaProj": "22.89",
+						"spanProj": "9.75",
+						"ratioProj": "4.16",
+						"upperSurface": "Skytex 40 g/m?",
+						"underSurface": "Skytex 38 g/m?"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"risers": "4"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "5.6"
+					},
+					"area": {
+						"areaFlat": "28.95",
+						"spanFlat": "12.46",
+						"ratioFlat": "5.3",
+						"areaProj": "24.94",
+						"spanProj": "10.18",
+						"ratioProj": "4.16",
+						"upperSurface": "Skytex 40 g/m?",
+						"underSurface": "Skytex 38 g/m?"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"risers": "4"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130",
+						"weight": "5.9"
+					},
+					"area": {
+						"areaFlat": "31.3",
+						"spanFlat": "12.96",
+						"ratioFlat": "5.3",
+						"areaProj": "26.98",
+						"spanProj": "10.59",
+						"ratioProj": "4.16",
+						"upperSurface": "Skytex 40 g/m?",
+						"underSurface": "Skytex 38 g/m?"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"risers": "4"
+					}
+				}
+			]
+		},
+		{
+			"name": "Gradient Bride 5",
+			"uuid": "00e6a5cb-1fd2-48d6-82f9-ecd308cf834b",
+			"url": "http://www.gradient.cx/en/Bright5",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN A"
+				},
+				{
+					"size": "24",
+					"certificate": "EN A"
+				},
+				{
+					"size": "26",
+					"certificate": "EN A"
+				},
+				{
+					"size": "28",
+					"certificate": "EN A"
+				},
+				{
+					"size": "30",
+					"certificate": "EN A"
+				}
+			]
+		},
+		{
+			"name": "Montana",
+			"uuid": "ed9ebab3-b50a-4ee8-a5ff-016f085ab8fb",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "58",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nevada 2012",
+			"uuid": "bbe09da9-83bb-46f2-a020-1c0e0a4dfce1",
+			"year": "2012",
+			"url": "http://www.gradient.cx/en/Nevada",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "62",
+						"weightMax": "77",
+						"weight": "4.4"
+					},
+					"area": {
+						"cells": "56",
+						"areaFlat": "21.76",
+						"spanFlat": "11.1",
+						"ratioFlat": "5.66",
+						"areaProj": "18.83",
+						"spanProj": "8.99",
+						"ratioProj": "4.29",
+						"upperSurface": "NCV New SKYTEX, E85A, 45 g/m2   ",
+						"underSurface": "NCV New SKYTEX, E38A, 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 10cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "9.5",
+						"maxChord": "2.48",
+						"maxSpeed": "55"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90",
+						"weight": "4.8"
+					},
+					"area": {
+						"cells": "56",
+						"areaFlat": "23.68",
+						"spanFlat": "11.58",
+						"ratioFlat": "5.66",
+						"areaProj": "20.49",
+						"spanProj": "9.38",
+						"ratioProj": "4.29",
+						"upperSurface": "NCV New SKYTEX, E85A, 45 g/m2   ",
+						"underSurface": "NCV New SKYTEX, E38A, 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 10cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "9.5",
+						"maxChord": "2.48",
+						"maxSpeed": "55"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "56",
+						"areaFlat": "25.79",
+						"spanFlat": "12.08",
+						"ratioFlat": "5.66",
+						"areaProj": "22.31",
+						"spanProj": "9.79",
+						"ratioProj": "4.29",
+						"upperSurface": "NCV New SKYTEX, E85A, 45 g/m2   ",
+						"underSurface": "NCV New SKYTEX, E38A, 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 10cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "9.5",
+						"maxChord": "2.48",
+						"maxSpeed": "55"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "56",
+						"areaFlat": "28.1",
+						"spanFlat": "12.61",
+						"ratioFlat": "5.66",
+						"areaProj": "24.31",
+						"spanProj": "10.22",
+						"ratioProj": "4.29",
+						"upperSurface": "NCV New SKYTEX, E85A, 45 g/m2   ",
+						"underSurface": "NCV New SKYTEX, E38A, 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 10cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "9.5",
+						"maxChord": "2.48",
+						"maxSpeed": "55"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "56",
+						"areaFlat": "30.57",
+						"spanFlat": "13.15",
+						"ratioFlat": "5.66",
+						"areaProj": "26.44",
+						"spanProj": "10.66",
+						"ratioProj": "4.29",
+						"upperSurface": "NCV New SKYTEX, E85A, 45 g/m2   ",
+						"underSurface": "NCV New SKYTEX, E38A, 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 10cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "9.5",
+						"maxChord": "2.48",
+						"maxSpeed": "55"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nevada",
+			"uuid": "aadf1a88-6b6a-4a40-a92b-123b332a5bd7",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Seven",
+			"uuid": "4c505925-e17e-49c2-b70d-bc10042a8b76",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Seven 2",
+			"uuid": "1a332516-24b7-4d02-bd7d-6cfa3bf3630b",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Taurus",
+			"uuid": "89fe84b8-92ea-4ae8-b7a1-323c0f8980f9",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				}
+			]
+		}
+	]
+}

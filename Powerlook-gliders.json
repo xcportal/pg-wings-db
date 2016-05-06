@@ -1,0 +1,102 @@
+{
+	"producer": {
+		"name": "Powerlook-gliders",
+		"url": "./output/wings/logo/Powerlook-gliders.png",
+		"uuid": "3c7adf61-2e0b-4d6a-a2ae-c8185a21eb54"
+	},
+	"wings": [
+		{
+			"name": "Leo",
+			"uuid": "38ff4e3a-6b92-4cbe-ac9d-bb5d832e3dfe",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stinger",
+			"uuid": "2f520027-afcc-4249-888e-424088194532",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tourer",
+			"uuid": "1bd416cc-2ec2-4ca9-a0da-c64cc2b5404a",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "210"
+					}
+				},
+				{
+					"size": "40",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "145",
+						"weightMax": "220"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "160",
+						"weightMax": "240"
+					}
+				}
+			]
+		}
+	]
+}

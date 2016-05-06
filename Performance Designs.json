@@ -1,0 +1,23 @@
+{
+	"producer": {
+		"name": "Performance Designs",
+		"uuid": "c22f19de-21d3-45be-88ec-e5ee20bf72a7"
+	},
+	"wings": [
+		{
+			"name": "Sunriser",
+			"uuid": "057ee371-61ec-42ee-9c56-44e2427fa49b",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "550",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "500",
+						"weightMax": "500"
+					}
+				}
+			]
+		}
+	]
+}

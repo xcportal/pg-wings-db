@@ -1,0 +1,1710 @@
+{
+	"producer": {
+		"name": "U-turn",
+		"url": "./output/wings/logo/U-turn.png",
+		"uuid": "155caf62-babc-47fb-85a2-4a9e89a178d9"
+	},
+	"wings": [
+		{
+			"name": "Air Force 2",
+			"uuid": "d5250e8d-1500-4171-86a2-fa5ecd919d13",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Air Force",
+			"uuid": "4dae435d-9a5c-4c15-8ef3-db3f9507bd74",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "23.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "26.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Airwolf",
+			"uuid": "2ac7e028-1635-40e9-940f-b21325ff9837",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "LTF 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "LTF 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "LTF 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "145"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Alpine Peak",
+			"uuid": "d4178277-61fa-435f-9b32-ffa144e76f6d",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Apex",
+			"uuid": "a0d9a347-73c4-4fe8-893e-0648baadc941",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Apex Xp",
+			"uuid": "2dc709b8-63c4-4e0d-ba5f-ff91e9fa6f8a",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Blacklight",
+			"uuid": "867c0098-dbfd-4b4d-8e0d-7481ddaef2f8",
+			"year": "2012",
+			"url": "http://www.u-turn.de/site/index.php?id=198&L=1",
+			"subwing": [
+				{
+					"size": "XXS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "80",
+						"weight": "4"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "19.5",
+						"spanFlat": "10.63",
+						"ratioFlat": "5.8",
+						"areaProj": "16.47",
+						"spanProj": "8.25",
+						"ratioProj": "4.13",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 36 36 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxChord": "2.265",
+						"maxSpeed": "52",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "80",
+						"weight": "4.2"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "21.5",
+						"spanFlat": "11.16",
+						"ratioFlat": "5.8",
+						"areaProj": "18.16",
+						"spanProj": "8.66",
+						"ratioProj": "4.13",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 36 36 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "52",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "90",
+						"weight": "4.4"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "23.5",
+						"spanFlat": "11.67",
+						"ratioFlat": "5.8",
+						"areaProj": "19.85",
+						"spanProj": "9.06",
+						"ratioProj": "4.13",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 36 36 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "52",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "S/M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100",
+						"weight": "4.8"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "25.5",
+						"spanFlat": "12.16",
+						"ratioFlat": "5.8",
+						"areaProj": "21.54",
+						"spanProj": "9.43",
+						"ratioProj": "4.13",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 36 36 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "52",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110",
+						"weight": "5.2"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "27.5",
+						"spanFlat": "12.63",
+						"ratioFlat": "5.8",
+						"areaProj": "23.23",
+						"spanProj": "9.8",
+						"ratioProj": "4.13",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 36 36 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "52",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130",
+						"weight": "5.6"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "29.5",
+						"spanFlat": "13.08",
+						"ratioFlat": "5.8",
+						"areaProj": "24.92",
+						"spanProj": "10.15",
+						"ratioProj": "4.13",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 36 36 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "52",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "145",
+						"weight": "6.2"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "32",
+						"spanFlat": "13.62",
+						"ratioFlat": "5.8",
+						"areaProj": "27.03",
+						"spanProj": "10.57",
+						"ratioProj": "4.13",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 36 36 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "52",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "XXL",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "13",
+						"weightMax": "160",
+						"weight": "6.7"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "35",
+						"spanFlat": "14.24",
+						"ratioFlat": "5.8",
+						"areaProj": "29.56",
+						"spanProj": "11.05",
+						"ratioProj": "4.13",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 36 36 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "52",
+						"trimSpeed": "40"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bodyguard 2",
+			"uuid": "fff106d8-a201-4734-9a04-070432064b98",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bodyguard",
+			"uuid": "ab191df6-b0e5-45ac-adeb-ebf9c200499b",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Emotion 2",
+			"uuid": "f764cc75-177a-4fbb-b774-bc376956737e",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Emotion 3",
+			"uuid": "16d2c420-6ebf-4c7a-987c-9d7f10d9e6d2",
+			"url": "http://www.u-turn.de/web/english/products/paragliders/emotion-3",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70",
+						"weight": "4.7"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85",
+						"weight": "5.2"
+					}
+				},
+				{
+					"size": "SM",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95",
+						"weight": "5.8"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.9"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120",
+						"weight": "6.1"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "140",
+						"weight": "6.8"
+					}
+				}
+			]
+		},
+		{
+			"name": "Emotion",
+			"uuid": "51959514-c3d5-4656-9fb7-7802a4eec46d",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Free Force",
+			"uuid": "91de2184-2201-4d42-99a2-7a2007aae62c",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Free Force 2",
+			"uuid": "128b5e34-bba8-4181-b6bf-c49b6d37f661",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "LTF 2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "LTF 2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "LTF 2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Free Force 3",
+			"uuid": "d562c9f1-3d5d-4194-959d-3cededbfa8b5",
+			"year": "2012",
+			"url": "http://www.u-turn.de/site/index.php?id=196&L=1",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "95",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "24",
+						"spanFlat": "11.28",
+						"ratioFlat": "5.3",
+						"areaProj": "22.5",
+						"spanProj": "9.8",
+						"ratioProj": "4.2",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo 30DFM 41 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "1.3",
+						"minSpeed": "24",
+						"maxSpeed": "55",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "105",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "26.5",
+						"spanFlat": "11.86",
+						"ratioFlat": "5.3",
+						"areaProj": "24.5",
+						"spanProj": "10.2",
+						"ratioProj": "4.2",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo 30DFM 41 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "1.3",
+						"minSpeed": "24",
+						"maxSpeed": "55",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "125",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "29",
+						"spanFlat": "12.4",
+						"ratioFlat": "5.3",
+						"areaProj": "26.5",
+						"spanProj": "10.6",
+						"ratioProj": "4.2",
+						"upperSurface": "S9017-E77A 40 g/m² ",
+						"underSurface": "Dokdo 30DFM 41 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "1.3",
+						"minSpeed": "24",
+						"maxSpeed": "55",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		},
+		{
+			"name": "G-force 007",
+			"uuid": "a5665d5f-2a9a-4ed9-b760-63223a446e42",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "G-force",
+			"uuid": "a9dbf2ba-94c4-4e18-9369-401395e0e781",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "G-force 360",
+			"uuid": "fdde33a1-592d-40f5-8043-38055a1e18b9",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Infinity 2",
+			"uuid": "3a05efaa-dc74-4020-8cc0-beab9c870ee7",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "160"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Infinity 3",
+			"uuid": "485da35b-b944-4770-8335-de93b0fbf594",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "160"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ladyguard",
+			"uuid": "53fd20ff-602e-4e64-abb9-5ada9f539587",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Morpheus",
+			"uuid": "8ad48e8a-20ae-4af9-b4ff-9151ae448b10",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "17.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Obsession 2",
+			"uuid": "bbdf83f1-ea7c-4298-8b64-312c010f7192",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Obsession",
+			"uuid": "2b91053b-6e32-47f4-b70c-f944bad62728",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "160"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Passion",
+			"uuid": "658af26a-1c29-4e00-9747-38bd2ded5c19",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Speedmaster 09",
+			"uuid": "167a9bf2-4df4-459a-9ac1-f4b3b963b9e9",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "14",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "8",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Speedmaster",
+			"uuid": "79b54f0c-03ed-46ba-b29c-7267c238ca0f",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Thriller",
+			"uuid": "2f2dc9d2-dfe3-475a-ad2c-d8fdeaf828db",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Thriller 2k11",
+			"uuid": "50723548-9d2d-4ff0-9f94-994e30240bc6",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "150"
+					}
+				}
+			]
+		},
+		{
+			"name": "Thriller 2k12",
+			"uuid": "6148e509-dc18-4e81-aff5-3f4b14e3d6b5",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "21.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "24.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "U 2",
+			"uuid": "e585f092-0bbb-4243-b6ca-dfb5ea2c53fe",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "190"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "U-turn Xtc",
+			"uuid": "f97a0331-9d18-4497-a22e-de8be67d4078",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Xtc",
+			"uuid": "3e0f0370-de45-429d-95da-7688957b79b9",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		}
+	]
+}

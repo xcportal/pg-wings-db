@@ -1,0 +1,644 @@
+{
+	"producer": {
+		"name": "Aeros",
+		"url": "./output/wings/logo/Aeros.png",
+		"uuid": "bd409298-6aee-497c-bacf-efd07de83787"
+	},
+	"wings": [
+		{
+			"name": "Airider",
+			"uuid": "b27be143-a845-448b-a656-94b93b35f97a",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "6",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Amigo",
+			"uuid": "9724bb8f-df7c-42e4-ac8c-150a0c949773",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ballistic",
+			"uuid": "cd3f8398-5e91-4446-94fc-da3e9b0c3004",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "11",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "14",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bercut",
+			"uuid": "552a6353-fce7-4333-a50e-05ea6010a21c",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Concept",
+			"uuid": "2bb8f362-62c0-43e8-a21e-3e322927a9b5",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fuego",
+			"uuid": "0cca24dd-9617-434b-afd0-9c5f3a1bb00a",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "27",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mirage 2013",
+			"uuid": "b039a3f4-b733-4d6a-8cb7-f0d2ca906526",
+			"year": "2013",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					},
+					"area": {
+						"areaFlat": "24.5",
+						"spanFlat": "12.15",
+						"ratioFlat": "6",
+						"areaProj": "21.63",
+						"spanProj": "10.08",
+						"ratioProj": "4.7",
+						"upperSurface": "Skytex",
+						"underSurface": "Skytex"
+					},
+					"properties": {
+						"acceleration": "Yes, 19cm",
+						"trims": "No",
+						"risers": "3"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100",
+						"weight": "5.6"
+					},
+					"area": {
+						"areaFlat": "25.93",
+						"spanFlat": "12.5",
+						"ratioFlat": "6",
+						"areaProj": "22.9",
+						"spanProj": "10.37",
+						"ratioProj": "4.7",
+						"upperSurface": "Skytex",
+						"underSurface": "Skytex"
+					},
+					"properties": {
+						"acceleration": "Yes, 19cm",
+						"trims": "No",
+						"risers": "3"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					},
+					"area": {
+						"areaFlat": "27.5",
+						"spanFlat": "12.85",
+						"ratioFlat": "6",
+						"areaProj": "24.28",
+						"spanProj": "10.68",
+						"ratioProj": "4.7",
+						"upperSurface": "Skytex",
+						"underSurface": "Skytex"
+					},
+					"properties": {
+						"acceleration": "Yes, 19cm",
+						"trims": "No",
+						"risers": "3"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					},
+					"area": {
+						"areaFlat": "29.5",
+						"spanFlat": "13.3",
+						"ratioFlat": "6",
+						"areaProj": "26.1",
+						"spanProj": "11.1",
+						"ratioProj": "4.7",
+						"upperSurface": "Skytex",
+						"underSurface": "Skytex"
+					},
+					"properties": {
+						"acceleration": "Yes, 19cm",
+						"trims": "No",
+						"risers": "3"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mirage",
+			"uuid": "20b973ff-d69d-417d-a8f3-6175a780ad40",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Select",
+			"uuid": "c93e0654-4042-49ae-9bfb-dbf7ae55617d",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "32",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Style 2",
+			"uuid": "ba03df88-da9e-4793-b06e-4fd307765942",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xxl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Style",
+			"uuid": "37edb054-5fcb-4812-b20f-5b15f9d3ce05",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "32",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Style 3",
+			"uuid": "d3560b31-3e0b-46d5-9792-016e7cdee12f",
+			"year": "2013",
+			"url": "http://aerospara.com/index.php?option=com_content&view=article&id=83&Itemid=107&lang=en",
+			"subwing": [
+				{
+					"size": "XXS",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70",
+						"weight": "5.4"
+					},
+					"area": {
+						"areaFlat": "20",
+						"spanFlat": "10.24",
+						"ratioFlat": "5.24",
+						"areaProj": "17.36",
+						"spanProj": "8.29",
+						"ratioProj": "3.96",
+						"upperSurface": "Skytex",
+						"underSurface": "Skytex"
+					},
+					"properties": {
+						"acceleration": "Yes, 20cm",
+						"trims": "No"
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85",
+						"weight": "5.6"
+					},
+					"area": {
+						"areaFlat": "23",
+						"spanFlat": "10.98",
+						"ratioFlat": "5.24",
+						"areaProj": "19.97",
+						"spanProj": "8.88",
+						"ratioProj": "3.96",
+						"upperSurface": "Skytex",
+						"underSurface": "Skytex"
+					},
+					"properties": {
+						"acceleration": "Yes, 20cm",
+						"trims": "No"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "6"
+					},
+					"area": {
+						"areaFlat": "25.3",
+						"spanFlat": "11.51",
+						"ratioFlat": "5.24",
+						"areaProj": "21.96",
+						"spanProj": "9.32",
+						"ratioProj": "3.96",
+						"upperSurface": "Skytex",
+						"underSurface": "Skytex"
+					},
+					"properties": {
+						"acceleration": "Yes, 20cm",
+						"trims": "No"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105",
+						"weight": "6.5"
+					},
+					"area": {
+						"areaFlat": "27",
+						"spanFlat": "11.89",
+						"ratioFlat": "5.24",
+						"areaProj": "23.41",
+						"spanProj": "9.62",
+						"ratioProj": "3.96",
+						"upperSurface": "Skytex",
+						"underSurface": "Skytex"
+					},
+					"properties": {
+						"acceleration": "Yes, 21cm",
+						"trims": "No"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115",
+						"weight": "6.8"
+					},
+					"area": {
+						"areaFlat": "29",
+						"spanFlat": "12.33",
+						"ratioFlat": "5.24",
+						"areaProj": "25.17",
+						"spanProj": "9.98",
+						"ratioProj": "3.96",
+						"upperSurface": "Skytex",
+						"underSurface": "Skytex"
+					},
+					"properties": {
+						"acceleration": "Yes, 21cm",
+						"trims": "No"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "7.5"
+					},
+					"area": {
+						"areaFlat": "31.6",
+						"spanFlat": "12.87",
+						"ratioFlat": "5.24",
+						"areaProj": "27.43",
+						"spanProj": "10.41",
+						"ratioProj": "3.96",
+						"upperSurface": "Skytex",
+						"underSurface": "Skytex"
+					},
+					"properties": {
+						"acceleration": "Yes, 21cm",
+						"trims": "No"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vitamin",
+			"uuid": "99052cd8-636d-48d3-afcb-e509893c2134",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "32",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "38",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "180"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,133 @@
+{
+	"producer": {
+		"name": "Paradelta Parma",
+		"uuid": "8e24cf4e-5d49-498c-a9ea-fa1a568513af"
+	},
+	"wings": [
+		{
+			"name": "Bamboo",
+			"uuid": "ea0d4b5d-1900-4926-87eb-040cc929b09a",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bora 2",
+			"uuid": "378c2c13-20e4-496c-afa4-4bc73f34eee5",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "96",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "83",
+						"weightMax": "107"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "98"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "84"
+					}
+				}
+			]
+		},
+		{
+			"name": "Break",
+			"uuid": "4429cbc4-3136-4ab8-9601-d6d99ac7ec43",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "62",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "107"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				}
+			]
+		}
+	]
+}

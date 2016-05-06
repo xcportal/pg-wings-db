@@ -1,0 +1,44 @@
+{
+	"producer": {
+		"name": "-Lotnie",
+		"uuid": "8bf5eb5f-470c-4448-bb0d-e6ef2fdc3246"
+	},
+	"wings": [
+		{
+			"name": "lotnia miękka bezmasztowa",
+			"uuid": "66146bb2-a198-43e2-90cc-c0197ef3a677",
+			"subwing": [
+				{
+					"certificate": "lotnia miękka bezmasztowa"
+				}
+			]
+		},
+		{
+			"name": "lotnia miękka masztowa",
+			"uuid": "2537892d-70d7-4fa2-8945-d16c52d5ff53",
+			"subwing": [
+				{
+					"certificate": "lotnia miękka masztowa"
+				}
+			]
+		},
+		{
+			"name": "lotnia szkolna",
+			"uuid": "e99dd1a3-cb4c-4b81-bbb8-394cfd0034aa",
+			"subwing": [
+				{
+					"certificate": "lotnia szkolna"
+				}
+			]
+		},
+		{
+			"name": "lotnia sztywna",
+			"uuid": "75c67da6-efc7-47f3-92cb-6f8ce82a4e8a",
+			"subwing": [
+				{
+					"certificate": "lotnia sztywna"
+				}
+			]
+		}
+	]
+}

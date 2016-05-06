@@ -1,0 +1,326 @@
+{
+	"producer": {
+		"name": "Adrenaline",
+		"url": "./output/wings/logo/Adrenaline.png",
+		"uuid": "b8dbc990-7f43-4d93-894d-11e899c6ed5e"
+	},
+	"wings": [
+		{
+			"name": "Bat 35",
+			"uuid": "f013362a-44c8-4d14-9ee7-5d509cdc45ee",
+			"year": "2012",
+			"url": "http://www.adrenaline.com.es/Adrenaline_Paragliders/bat_35.html",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					},
+					"area": {
+						"cells": "35",
+						"areaFlat": "22.5",
+						"spanFlat": "10.29",
+						"ratioFlat": "4.71",
+						"areaProj": "19.7",
+						"spanProj": "8.43",
+						"ratioProj": "3.61",
+						"upperSurface": " Skytex 36 Classic",
+						"underSurface": "Skytex 27 Classic"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1,1",
+						"bestGlideRatio": "7,8"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					},
+					"area": {
+						"cells": "35",
+						"areaFlat": "25",
+						"spanFlat": "10.84",
+						"ratioFlat": "4.71",
+						"areaProj": "21.9",
+						"spanProj": "8.88",
+						"ratioProj": "3.61",
+						"upperSurface": "Skytex 36 Classic",
+						"underSurface": "Skytex 27 Classic"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1,1",
+						"bestGlideRatio": "8"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					},
+					"area": {
+						"cells": "35",
+						"areaFlat": "27.5",
+						"spanFlat": "11.38",
+						"ratioFlat": "4.71",
+						"areaProj": "24.1",
+						"spanProj": "9.32",
+						"ratioProj": "3.61",
+						"upperSurface": "Skytex 36 Classic",
+						"underSurface": "Skytex 27 Classic"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1,1",
+						"bestGlideRatio": "8"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bat 37",
+			"uuid": "505888d0-b29c-4280-a395-e8d8d7d3c0e5",
+			"year": "2012",
+			"url": "http://www.adrenaline.com.es/Adrenaline_Paragliders/BAT_37.html",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.6"
+					},
+					"area": {
+						"cells": "37",
+						"areaFlat": "26.8",
+						"spanFlat": "11.4",
+						"ratioFlat": "4.9",
+						"areaProj": "21.7",
+						"spanProj": "8.89",
+						"ratioProj": "3.6",
+						"upperSurface": "Skytex 40 Classic",
+						"underSurface": "Skytex 40 Classic"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "20",
+						"maxSpeed": "49"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110",
+						"weight": "6"
+					},
+					"area": {
+						"cells": "37",
+						"areaFlat": "28.8",
+						"spanFlat": "11.8",
+						"ratioFlat": "4.9",
+						"areaProj": "22.7",
+						"spanProj": "9.04",
+						"ratioProj": "3.6",
+						"upperSurface": "Skytex 40 Classic",
+						"underSurface": "Skytex 40 Classic"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "20",
+						"maxSpeed": "49"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bat 50",
+			"uuid": "dd4377c8-9046-44bb-b093-cc1c248b0f98",
+			"year": "2012",
+			"url": "http://www.adrenaline.com.es/Adrenaline_Paragliders/BAT_50.html",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "67",
+						"weightMax": "75",
+						"weight": "5.5"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "24.51",
+						"spanFlat": "11.31",
+						"ratioFlat": "5.2",
+						"areaProj": "20.31",
+						"spanProj": "8.81",
+						"ratioProj": "3.8",
+						"upperSurface": "Skytex 40 Classic",
+						"underSurface": "Skytex 40 Classic"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "8.5",
+						"minSpeed": "22",
+						"maxSpeed": "49"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "26.5",
+						"spanFlat": "11.8",
+						"ratioFlat": "5.2",
+						"areaProj": "21.9",
+						"spanProj": "9.1",
+						"ratioProj": "3.8",
+						"upperSurface": "Skytex 40 Classic",
+						"underSurface": "Skytex 40 Classic"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "8.5",
+						"minSpeed": "22",
+						"maxSpeed": "49"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "5.9"
+					},
+					"area": {
+						"cells": "50",
+						"areaFlat": "28.5",
+						"spanFlat": "12.3",
+						"ratioFlat": "5.2",
+						"areaProj": "23.7",
+						"spanProj": "9.5",
+						"ratioProj": "3.8",
+						"upperSurface": "Skytex 40 Classic",
+						"underSurface": "Skytex 40 Classic"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "8.5",
+						"minSpeed": "22",
+						"maxSpeed": "49"
+					}
+				}
+			]
+		},
+		{
+			"name": "Batlite 1.8",
+			"uuid": "f44edd41-8ff1-4109-9a15-f376cd3b54f8",
+			"year": "2012",
+			"url": "http://www.adrenaline.com.es/Adrenaline_Paragliders/HOME_BATLITE.html",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75",
+						"weight": "1.8"
+					},
+					"area": {
+						"cells": "29",
+						"areaFlat": "19.5",
+						"spanFlat": "9.57",
+						"ratioFlat": "4.7",
+						"areaProj": "17.05",
+						"spanProj": "7.81",
+						"ratioProj": "3.58"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestGlideRatio": "6.8",
+						"minSpeed": "20",
+						"maxSpeed": "35",
+						"trimSpeed": "30"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90",
+						"weight": "2.1"
+					},
+					"area": {
+						"cells": "29",
+						"areaFlat": "22.5",
+						"spanFlat": "10.28",
+						"ratioFlat": "4.7",
+						"areaProj": "19.68",
+						"spanProj": "8.39",
+						"ratioProj": "3.58"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestGlideRatio": "6.8",
+						"minSpeed": "20",
+						"maxSpeed": "35",
+						"trimSpeed": "30"
+					}
+				}
+			]
+		}
+	]
+}

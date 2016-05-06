@@ -1,0 +1,140 @@
+{
+	"producer": {
+		"name": "Air Systems",
+		"uuid": "963ec768-a805-4748-ae85-eb7d72b67372"
+	},
+	"wings": [
+		{
+			"name": "Phoenix",
+			"uuid": "c2d24818-fd85-45ad-8112-aae13bda0287",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Roc",
+			"uuid": "5ab2e3c7-ab82-459c-8c6d-efef6c34e8e1",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "250"
+					}
+				}
+			]
+		},
+		{
+			"name": "Skyamsen",
+			"uuid": "81f3043a-5aa2-45f6-a1b0-d1d195cbab6f",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Wisper",
+			"uuid": "e89dabf0-d843-4086-a01e-284d21693d06",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		}
+	]
+}

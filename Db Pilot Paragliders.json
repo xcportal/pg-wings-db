@@ -1,0 +1,93 @@
+{
+	"producer": {
+		"name": "Db Pilot Paragliders",
+		"uuid": "bc578ca7-2eda-4ccd-ae52-0d28a66470e2"
+	},
+	"wings": [
+		{
+			"name": "Classic",
+			"uuid": "9af5e7ca-1f1a-4974-b245-8b89dbb77f13",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "32",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cruise",
+			"uuid": "31673fa7-ceb9-44e6-b573-8f6b45521134",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "155",
+						"weightMax": "250"
+					}
+				}
+			]
+		},
+		{
+			"name": "Golf 2",
+			"uuid": "ad56f6e7-db20-4d03-ba6b-c7d477da80b2",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "100"
+					}
+				}
+			]
+		}
+	]
+}

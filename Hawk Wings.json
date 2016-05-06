@@ -1,0 +1,78 @@
+{
+	"producer": {
+		"name": "Hawk Wings",
+		"uuid": "27456015-cc39-47be-bb3d-3424936d15af"
+	},
+	"wings": [
+		{
+			"name": "Buzzard",
+			"uuid": "27d34468-dd40-4ad5-989f-85297f692a83",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "370",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "240",
+						"weightMax": "500"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kestrel",
+			"uuid": "90b97fab-70b9-4a3a-bcf1-12c5a36a3f9b",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				}
+			]
+		}
+	]
+}

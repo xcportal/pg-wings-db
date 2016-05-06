@@ -1,0 +1,1288 @@
+{
+	"producer": {
+		"name": "Sky Country Paragliding",
+		"url": "./output/wings/logo/Sky Country Paragliding.png",
+		"uuid": "ceb75a42-e12e-40ca-a4b8-c53566b0852a"
+	},
+	"wings": [
+		{
+			"name": "D3bi",
+			"uuid": "4227f563-305f-4205-b780-76c001bc8164",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "180"
+					}
+				},
+				{
+					"size": "41",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "210"
+					}
+				},
+				{
+					"size": "44",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "190",
+						"weightMax": "250"
+					}
+				}
+			]
+		},
+		{
+			"name": "Descent",
+			"uuid": "9a378a94-3046-457e-94e9-36172b29be64",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Discovery 2",
+			"uuid": "821839a3-ae36-4b58-8cc6-e1c236f2ef6c",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "33",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "145"
+					}
+				}
+			]
+		},
+		{
+			"name": "Discovery 3",
+			"uuid": "2d8eb52d-7732-4b5b-bb03-574c7e2306e7",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "33",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "145"
+					}
+				},
+				{
+					"size": "38",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "180"
+					}
+				},
+				{
+					"size": "41",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "210"
+					}
+				},
+				{
+					"size": "44",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "190",
+						"weightMax": "250"
+					}
+				}
+			]
+		},
+		{
+			"name": "Discovery 4",
+			"uuid": "5fa25efe-1837-40dd-842e-4aee9cc19fba",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Discovery 5",
+			"uuid": "580b0053-1615-40b9-94c8-587c1bce8cb4",
+			"year": "2015",
+			"url": "http://sky-country.com/en/product/discovery-5",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "5.3"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "5.5"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "5.8"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110",
+						"weight": "6"
+					}
+				}
+			]
+		},
+		{
+			"name": "Escort 2",
+			"uuid": "197ce03b-1aef-4175-9643-6d378ed7b87c",
+			"year": "2015",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "180"
+					}
+				},
+				{
+					"size": "41",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Escort",
+			"uuid": "e2c983df-eae6-4d62-b76b-ae161e5f0199",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Evolution",
+			"uuid": "f32ff8f3-4c91-4eca-a2be-a12bd19b7f5c",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "23.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "24.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "25.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "26.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Evolution X",
+			"uuid": "24b84521-d49c-4dce-80e9-5d2d2d0b698a",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "77",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "104",
+						"weightMax": "116"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "114",
+						"weightMax": "126"
+					}
+				}
+			]
+		},
+		{
+			"name": "Moscito",
+			"uuid": "43b6a491-591d-475c-b2b5-cb7bfcd35a78",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				}
+			]
+		},
+		{
+			"name": "Muscat 2",
+			"uuid": "b09b2e74-b92f-49a5-9937-5103e81ce115",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "60"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "33",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "145"
+					}
+				}
+			]
+		},
+		{
+			"name": "Muscat",
+			"uuid": "685a7eda-251f-49b5-bd5f-a5b0103b25a3",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mystic 2",
+			"uuid": "0a5937dd-38bd-4d36-b642-5b419fcd8b85",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mystic",
+			"uuid": "83cb5193-f7c6-470a-a819-fd998fe7bab3",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "26.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mystic 3",
+			"uuid": "b953d250-9f3a-4206-bb92-0369aa89e705",
+			"year": "2013",
+			"url": "http://sky-country.com/en/products/paragliders/mystic3/",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					},
+					"area": {
+						"areaFlat": "24.5",
+						"spanFlat": "12.62",
+						"ratioFlat": "6.5",
+						"areaProj": "20.67",
+						"spanProj": "9.82",
+						"ratioProj": "4.66",
+						"upperSurface": "S9017-E25 38 g/m²",
+						"underSurface": "S9017-E25 38 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 19cm",
+						"trims": "No",
+						"risers": "3",
+						"minSpeed": "25",
+						"maxSpeed": "55"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "5.9"
+					},
+					"area": {
+						"areaFlat": "25.5",
+						"spanFlat": "12.87",
+						"ratioFlat": "6.5",
+						"areaProj": "21.51",
+						"spanProj": "10.02",
+						"ratioProj": "4.66",
+						"upperSurface": "S9017-E25 38 g/m²",
+						"underSurface": "S9017-E25 38 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 19cm",
+						"trims": "No",
+						"risers": "3",
+						"minSpeed": "25",
+						"maxSpeed": "55"
+					}
+				},
+				{
+					"size": "ML",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					},
+					"area": {
+						"areaFlat": "27",
+						"spanFlat": "13.27",
+						"ratioFlat": "6.5",
+						"areaProj": "22.86",
+						"spanProj": "10.33",
+						"ratioProj": "4.66",
+						"upperSurface": "S9017-E25 38 g/m²",
+						"underSurface": "S9017-E25 38 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 19cm",
+						"trims": "No",
+						"risers": "3",
+						"minSpeed": "25",
+						"maxSpeed": "55"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					},
+					"area": {
+						"areaFlat": "28.5",
+						"spanFlat": "13.61",
+						"ratioFlat": "6.5",
+						"areaProj": "24.04",
+						"spanProj": "10.59",
+						"ratioProj": "4.66",
+						"upperSurface": "S9017-E25 38 g/m²",
+						"underSurface": "S9017-E25 38 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 19cm",
+						"trims": "No",
+						"risers": "3",
+						"minSpeed": "25",
+						"maxSpeed": "55"
+					}
+				}
+			]
+		},
+		{
+			"name": "Oscar",
+			"uuid": "d47510ca-7053-4df6-bfa5-171a98a6bf8f",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Scaner",
+			"uuid": "cc2ed0d7-e5bf-4558-b8f3-f0ec07e95ad1",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "33",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Scirocco",
+			"uuid": "9cb478c8-f17d-4625-96e4-9eb39f451fea",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Scooter",
+			"uuid": "d9e1a47b-9924-4dda-9e2b-989c7fac3aca",
+			"year": "2014",
+			"url": "http://sky-country.com/en/product/scooter",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Scorpion 2",
+			"uuid": "b6d9851e-1989-4b79-a8bc-b69da96106db",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Scorpion 3",
+			"uuid": "65163833-2742-46af-9528-42a95e9ec9ae",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "55"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "65"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "27.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "30.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "32",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "145"
+					}
+				}
+			]
+		},
+		{
+			"name": "Scorpion 4",
+			"uuid": "2faca126-bb28-4038-947a-65d2645f2627",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					},
+					"area": {
+						"cells": "57",
+						"areaFlat": "23",
+						"spanFlat": "11.55",
+						"ratioFlat": "5.8",
+						"areaProj": "19.7",
+						"spanProj": "8.12",
+						"ratioProj": "4.22",
+						"upperSurface": "Skytex 9092 E85A",
+						"underSurface": "Skytex 9017 E38A"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					},
+					"area": {
+						"cells": "57",
+						"areaFlat": "25",
+						"spanFlat": "12.05",
+						"ratioFlat": "5.8",
+						"areaProj": "21.43",
+						"spanProj": "9.52",
+						"ratioProj": "4.22",
+						"upperSurface": "Skytex 9092 E85A",
+						"underSurface": "Skytex 9017 E38A"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "5.9"
+					},
+					"area": {
+						"cells": "57",
+						"areaFlat": "26.8",
+						"spanFlat": "12.47",
+						"ratioFlat": "5.8",
+						"areaProj": "22.97",
+						"spanProj": "9.85",
+						"ratioProj": "4.22",
+						"upperSurface": "Skytex 9092 E85A",
+						"underSurface": "Skytex 9017 E38A"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					},
+					"area": {
+						"cells": "57",
+						"areaFlat": "29",
+						"spanFlat": "12.97",
+						"ratioFlat": "5.8",
+						"areaProj": "24.84",
+						"spanProj": "10.24",
+						"ratioProj": "4.22",
+						"upperSurface": "Skytex 9092 E85A",
+						"underSurface": "Skytex 9017 E38A"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					},
+					"area": {
+						"cells": "57",
+						"areaFlat": "30.8",
+						"spanFlat": "13.37",
+						"ratioFlat": "5.8",
+						"areaProj": "26.4",
+						"spanProj": "10.56",
+						"ratioProj": "4.22",
+						"upperSurface": "Skytex 9092 E85A",
+						"underSurface": "Skytex 9017 E38A"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "33",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "150"
+					},
+					"area": {
+						"cells": "57",
+						"areaFlat": "33",
+						"spanFlat": "13.84",
+						"ratioFlat": "5.8",
+						"areaProj": "28.3",
+						"spanProj": "10.93",
+						"ratioProj": "4.22",
+						"upperSurface": "Skytex 9092 E85A",
+						"underSurface": "Skytex 9017 E38A"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "39"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sky-Country Space",
+			"uuid": "911cf3bf-ff12-4491-a3e9-79b4bbdd15ff",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "Nil"
+				}
+			]
+		}
+	]
+}

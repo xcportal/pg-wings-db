@@ -1,0 +1,76 @@
+{
+	"producer": {
+		"name": "Zzz",
+		"uuid": "5267d238-aac1-4f65-a134-78f257b60944"
+	},
+	"wings": [
+		{
+			"name": "Bav Bav",
+			"uuid": "3d2f9e06-3c95-479c-af62-85530e961e65",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Manga",
+			"uuid": "9a109d3d-1de8-4314-b101-155f61668a0a",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Prem's",
+			"uuid": "8c02f663-cfd2-4e96-a361-6fa9b1a84c06",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tokade",
+			"uuid": "e3758147-eba2-4293-969a-217d89c881dd",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		}
+	]
+}

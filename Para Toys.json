@@ -1,0 +1,149 @@
+{
+	"producer": {
+		"name": "Para Toys",
+		"uuid": "0816f282-d680-41e1-b0fb-d5e4e8a8d213"
+	},
+	"wings": [
+		{
+			"name": "Momentum",
+			"uuid": "1e58feac-51fa-442c-8e20-0020a8bb23e2",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "98",
+						"weightMax": "128"
+					}
+				},
+				{
+					"size": "33",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "155"
+					}
+				}
+			]
+		},
+		{
+			"name": "Para Toys",
+			"uuid": "1b199465-8529-4214-b60f-73b0092d60a9",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "33",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "145"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "145",
+						"weightMax": "225"
+					}
+				}
+			]
+		},
+		{
+			"name": "Para Toys 2",
+			"uuid": "26baae8c-704f-4b5e-896e-227230772465",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "89",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "131"
+					}
+				},
+				{
+					"size": "33",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "145"
+					}
+				},
+				{
+					"size": "36",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "215"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "145",
+						"weightMax": "225"
+					}
+				}
+			]
+		}
+	]
+}

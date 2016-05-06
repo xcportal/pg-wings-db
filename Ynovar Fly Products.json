@@ -1,0 +1,54 @@
+{
+	"producer": {
+		"name": "Ynovar Fly Products",
+		"uuid": "04ae83e5-9ed7-4203-adee-320eececae06"
+	},
+	"wings": [
+		{
+			"name": "Two",
+			"uuid": "a67e7ced-094f-42e4-a66a-811a68246ea5",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ynit",
+			"uuid": "3383cab6-502e-46eb-a122-4ac13eecf0d9",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		}
+	]
+}

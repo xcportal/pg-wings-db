@@ -1,0 +1,538 @@
+{
+	"producer": {
+		"name": "Trekking",
+		"uuid": "7b1581af-e46e-4767-a286-4803c8fc98e9"
+	},
+	"wings": [
+		{
+			"name": "Boxster 2",
+			"uuid": "2e97b9cc-992d-4a07-bceb-0ada7643d11a",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Boxster",
+			"uuid": "1ecba015-0479-419b-85ed-004dadcd1a3d",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cooper",
+			"uuid": "8f4cbb74-1f32-4164-a467-67a2556cc001",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Modena",
+			"uuid": "fc16a77e-1138-45a5-9aee-7d9b7fb6e961",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Paratrike",
+			"uuid": "0301d4e2-db2b-41a8-8e38-0810407829a3",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "250"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "190",
+						"weightMax": "300"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "160"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "180"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rando 2",
+			"uuid": "1c07a4ef-5a84-4832-9a2b-87f181318865",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "32",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rando",
+			"uuid": "d34aa3c0-34d5-42a8-93d4-3d66bae068fc",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sebring",
+			"uuid": "23e8ec09-2cf7-43f3-9c30-e0016d41a820",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "89",
+						"weightMax": "117"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Senso",
+			"uuid": "77d617e8-221b-4e1f-a253-928760043f3a",
+			"year": "2013",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85",
+						"weight": "5.2"
+					},
+					"area": {
+						"areaFlat": "23.84",
+						"spanFlat": "11.3",
+						"ratioFlat": "5.3",
+						"areaProj": "20.51",
+						"spanProj": "9.02",
+						"ratioProj": "3.97",
+						"upperSurface": "Skytex 38 g/m²",
+						"underSurface": "Skytex 38 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1.0",
+						"maxSpeed": "51"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105",
+						"weight": "5.9"
+					},
+					"area": {
+						"areaFlat": "26.49",
+						"spanFlat": "11.91",
+						"ratioFlat": "5.3",
+						"areaProj": "22.79",
+						"spanProj": "9.51",
+						"ratioProj": "3.97",
+						"upperSurface": "Skytex 38 g/m²",
+						"underSurface": "Skytex 38 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1.0",
+						"maxSpeed": "51"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125",
+						"weight": "6.2"
+					},
+					"area": {
+						"areaFlat": "39.19",
+						"spanFlat": "12.5",
+						"ratioFlat": "5.3",
+						"areaProj": "25.07",
+						"spanProj": "9.98",
+						"ratioProj": "3.97",
+						"upperSurface": "Skytex 38 g/m²",
+						"underSurface": "Skytex 38 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1.0",
+						"maxSpeed": "51"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vanquish",
+			"uuid": "3d01926f-d30d-4427-be26-7df82ba6adfa",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Xenos",
+			"uuid": "9f3afddd-5c30-46c8-9e66-2e5c81378255",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Xenos Plus",
+			"uuid": "252b1752-e77d-4728-adae-0d09fdec27b2",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "135"
+					}
+				}
+			]
+		}
+	]
+}

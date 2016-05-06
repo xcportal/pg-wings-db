@@ -1,0 +1,63 @@
+{
+	"producer": {
+		"name": "Aeroeastar",
+		"uuid": "f7cf9d8d-de21-49d5-85be-53af52af7353"
+	},
+	"wings": [
+		{
+			"name": "Synnex",
+			"uuid": "024ab846-c5c9-457a-bdf9-af0d2a3e7753",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "77",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "62",
+						"weightMax": "82"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Xxl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xxxl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "145"
+					}
+				}
+			]
+		}
+	]
+}

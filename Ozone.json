@@ -1,0 +1,2862 @@
+{
+	"producer": {
+		"name": "Ozone",
+		"url": "./output/wings/logo/Ozone.png",
+		"uuid": "4c099e81-9335-4b85-ab5c-46b577f46424"
+	},
+	"wings": [
+		{
+			"name": "Addict 2",
+			"uuid": "84a8a657-b055-4159-b9f1-12bc2df44bcf",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Addict",
+			"uuid": "4333a615-d466-4930-be91-f0e2ed7d172e",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Alpina",
+			"uuid": "ea442f52-d2e1-4b06-99bd-8d9b00cb86b4",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bombe",
+			"uuid": "e2516588-cefe-4254-adc3-9980e2b46fb5",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "8",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "55"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bullet 008",
+			"uuid": "88c52d9c-1481-40b8-a542-c2354f081172",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "72",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "14",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "84",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bullet 009",
+			"uuid": "6ca3114e-79a2-4eff-9079-e99ee724b06b",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "72",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "14",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "84",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bullet",
+			"uuid": "97aa778e-c535-4220-877a-e5200a45701a",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "100",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "122",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "72",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "144",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "84",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bullet Gt",
+			"uuid": "df5b65cd-60e6-4d65-8120-e21beef86cde",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "7.7",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "9.8",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Buzz",
+			"uuid": "c4697e01-417c-44cb-acd6-387a2af1109a",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Buzz Z",
+			"uuid": "934b505e-3532-435d-a7eb-f65f78c7065c",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Buzz Z3",
+			"uuid": "25394970-03a9-4c37-a798-ee3c460dde6c",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Ms",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Buzz z4",
+			"uuid": "7a70ecc5-6955-48a6-9c7b-3e8587ac52ac",
+			"year": "2013",
+			"url": "http://www.flyozone.com/paragliders/en/products/gliders/buzz-z4/info/",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70",
+						"weight": "5.55"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "22.2",
+						"spanFlat": "10.69",
+						"ratioFlat": "5.15",
+						"areaProj": "19.12",
+						"spanProj": "8.47",
+						"ratioProj": "3.75",
+						"upperSurface": "Dominico 30D MF",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85",
+						"weight": "5.55"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "24.1",
+						"spanFlat": "11.14",
+						"ratioFlat": "5.15",
+						"areaProj": "20.75",
+						"spanProj": "8.82",
+						"ratioProj": "3.75",
+						"upperSurface": "Dominico 30D MF",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "MS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.55"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "25.8",
+						"spanFlat": "11.52",
+						"ratioFlat": "5.15",
+						"areaProj": "22.22",
+						"spanProj": "9.13",
+						"ratioProj": "3.75",
+						"upperSurface": "Dominico 30D MF",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "ML",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.55"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "27.3",
+						"spanFlat": "11.85",
+						"ratioFlat": "5.15",
+						"areaProj": "23.5",
+						"spanProj": "9.39",
+						"ratioProj": "3.75",
+						"upperSurface": "Dominico 30D MF",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "5.55"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "29.3",
+						"spanFlat": "12.28",
+						"ratioFlat": "5.15",
+						"areaProj": "25.23",
+						"spanProj": "9.73",
+						"ratioProj": "3.75",
+						"upperSurface": "Dominico 30D MF",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130",
+						"weight": "5.55"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "31.8",
+						"spanFlat": "12.79",
+						"ratioFlat": "5.15",
+						"areaProj": "27.4",
+						"spanProj": "10.13",
+						"ratioProj": "3.75",
+						"upperSurface": "Dominico 30D MF",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Delta 2",
+			"uuid": "f531b478-9138-4142-a03e-e8e6c3647659",
+			"year": "2013",
+			"url": "http://www.flyozone.com/paragliders/en/products/gliders/delta-2/info/",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70",
+						"weight": "4.4"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "21.1",
+						"spanFlat": "11.3",
+						"ratioFlat": "6",
+						"areaProj": "17.8",
+						"spanProj": "8.9",
+						"ratioProj": "4.4",
+						"upperSurface": "Dominico 30D MF",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85",
+						"weight": "4.7"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "23.1",
+						"spanFlat": "11.8",
+						"ratioFlat": "6",
+						"areaProj": "19.4",
+						"spanProj": "9.3",
+						"ratioProj": "4.4",
+						"upperSurface": "Dominico 30D MF",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "MS",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "24.4",
+						"spanFlat": "12.1",
+						"ratioFlat": "6",
+						"areaProj": "20.5",
+						"spanProj": "9.5",
+						"ratioProj": "4.4",
+						"upperSurface": "Dominico 30D MF",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "ML",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "25.7",
+						"spanFlat": "12.5",
+						"ratioFlat": "6",
+						"areaProj": "21.7",
+						"spanProj": "9.8",
+						"ratioProj": "4.4",
+						"upperSurface": "Dominico 30D MF",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "27.3",
+						"spanFlat": "12.8",
+						"ratioFlat": "6",
+						"areaProj": "23",
+						"spanProj": "10.1",
+						"ratioProj": "4.4",
+						"upperSurface": "Dominico 30D MF",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130",
+						"weight": "6"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "30",
+						"spanFlat": "13.5",
+						"ratioFlat": "6",
+						"areaProj": "25.3",
+						"spanProj": "10.6",
+						"ratioProj": "4.4",
+						"upperSurface": "Dominico 30D MF",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Delta",
+			"uuid": "db1ed28f-6126-449b-a9c0-4fccae26d94d",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Electron",
+			"uuid": "14140586-c254-45bf-9876-503fbf45db8f",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "DHV 1-2"
+				}
+			]
+		},
+		{
+			"name": "Element 2",
+			"uuid": "e6bdb7b4-0587-4617-ac38-a232a948f087",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Element",
+			"uuid": "dbb426bc-7df0-48db-b302-2af9dd2f4295",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Enzo 2",
+			"uuid": "2a7b9f66-0f97-4ee1-b2dd-b18e5d939037",
+			"year": "2014",
+			"url": "http://www.flyozone.com/paragliders/en/products/gliders/enzo-2/info/",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					},
+					"area": {
+						"cells": "101",
+						"areaFlat": "22",
+						"spanFlat": "12.9",
+						"ratioFlat": "7.55",
+						"areaProj": "18.6",
+						"spanProj": "10.1",
+						"ratioProj": "5.5"
+					},
+					"properties": {
+						"acceleration": "Yes  12 cm",
+						"trims": "No"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "101",
+						"areaFlat": "23.7",
+						"spanFlat": "13.4",
+						"ratioFlat": "7.55",
+						"areaProj": "20.1",
+						"spanProj": "10.5",
+						"ratioProj": "5.5"
+					},
+					"properties": {
+						"acceleration": "Yes  12 cm",
+						"trims": "No"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					},
+					"area": {
+						"cells": "101",
+						"areaFlat": "25.7",
+						"spanFlat": "13.9",
+						"ratioFlat": "7.55",
+						"areaProj": "21.7",
+						"spanProj": "10.9",
+						"ratioProj": "5.5"
+					},
+					"properties": {
+						"acceleration": "Yes  12 cm",
+						"trims": "No"
+					}
+				}
+			]
+		},
+		{
+			"name": "Enzo",
+			"uuid": "e9930b24-c5ff-472e-94ff-5a126cb96998",
+			"year": "2012",
+			"url": "http://www.flyozone.com/paragliders/en/products/gliders/enzo/info/",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "125",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "82",
+						"areaFlat": "25.7",
+						"spanFlat": "13.9",
+						"ratioFlat": "7.55",
+						"areaProj": "21.7",
+						"spanProj": "10.9",
+						"ratioProj": "5.5",
+						"upperSurface": "Skytex 40 Deperlant",
+						"underSurface": "Skytex 36 Classic"
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115",
+						"weight": "5.9"
+					},
+					"area": {
+						"cells": "82",
+						"areaFlat": "23.7",
+						"spanFlat": "13.4",
+						"ratioFlat": "7.55",
+						"areaProj": "20.1",
+						"spanProj": "10.5",
+						"ratioProj": "5.5",
+						"upperSurface": "Skytex 40 Deperlant",
+						"underSurface": "Skytex 36 Classic"
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "82",
+						"areaFlat": "22",
+						"spanFlat": "12.9",
+						"ratioFlat": "7.55",
+						"areaProj": "18.6",
+						"spanProj": "10.1",
+						"ratioProj": "5.5",
+						"upperSurface": "Skytex 40 Deperlant",
+						"underSurface": "Skytex 36 Classic"
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Firefly",
+			"uuid": "38d92fcf-6096-4819-b1c5-c22cf4e4fb3c",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Flx",
+			"uuid": "c1b8441f-55ad-4df7-93d6-0c497346e142",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Geo 2",
+			"uuid": "bfd9d551-01c2-48a0-ad6c-9dc7fe7b4752",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Ms",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Geo 3",
+			"uuid": "8eb27187-a467-46f2-a783-3fd9986296c4",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Ms",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Geo",
+			"uuid": "e9dd1a92-c264-4d94-8682-deec20893db0",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ground Hog",
+			"uuid": "24ed644a-edbf-496f-b536-36d923e5f75d",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "14",
+					"certificate": "Ground Training",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Indy",
+			"uuid": "fad38029-a7a1-414f-aabb-5e1562f442da",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Lm 4",
+			"uuid": "df7adf89-72b8-4b59-a148-75c7b93f00e7",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Ms",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Magnum 2",
+			"uuid": "79814910-bc33-4649-b999-d2300727ae76",
+			"year": "2012",
+			"url": "http://www.flyozone.com/paragliders/en/products/gliders/the-magnum-ii/info/",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "185",
+						"weight": "8"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "38",
+						"spanFlat": "14.12",
+						"ratioFlat": "5.25",
+						"areaProj": "32.3",
+						"spanProj": "11.12",
+						"ratioProj": "3.82",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "No",
+						"trims": "Yes, 9cm",
+						"risers": "4",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "41",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220",
+						"weight": "8.4"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "41",
+						"spanFlat": "14.67",
+						"ratioFlat": "5.25",
+						"areaProj": "34.9",
+						"spanProj": "11.55",
+						"ratioProj": "3.82",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Dominico 30D MF"
+					},
+					"properties": {
+						"acceleration": "No",
+						"trims": "Yes, 9cm",
+						"risers": "4",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Magnum",
+			"uuid": "a9e0dc80-6fff-40ee-9f33-224fd4530763",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "185"
+					}
+				},
+				{
+					"size": "41",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mantra 2",
+			"uuid": "774f6431-4746-4069-bbf3-07512f71b49f",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "97",
+						"weightMax": "122"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "102"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "67",
+						"weightMax": "87"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mantra 3",
+			"uuid": "c9435f22-9070-4f79-9082-d310cda67bb5",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "97",
+						"weightMax": "117"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "102"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "67",
+						"weightMax": "87"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mantra 4",
+			"uuid": "19d5a903-f26b-4f17-a468-c735621380bf",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Ms",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mantra 6",
+			"uuid": "0092a17b-9d45-4e75-8d6d-cbc284d3d050",
+			"year": "2013",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85",
+						"weight": "5.1"
+					}
+				},
+				{
+					"size": "MS",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95",
+						"weight": "5.4"
+					}
+				},
+				{
+					"size": "ML",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105",
+						"weight": "5.6"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120",
+						"weight": "5.9"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mantra",
+			"uuid": "bbd380e7-58bc-40ce-8cf6-38786e837805",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "97",
+						"weightMax": "117"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "102"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "87"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "112",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mantra R07",
+			"uuid": "69f3e663-2dba-4ca8-b89f-20836997b86c",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mantra R09",
+			"uuid": "449074e9-5773-42b1-9407-bb9fbc94ee44",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mantra R10.2",
+			"uuid": "f1b9a328-764f-4e1b-b8f8-5778169c3c92",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mantra R10.3",
+			"uuid": "109d379f-8efb-47e3-ad77-f6530c17a62f",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mantra R11",
+			"uuid": "3602352b-f5fc-4a84-85bc-afd520aa5e2a",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mantra R12",
+			"uuid": "b9cf8e71-5249-476a-a3bb-30b1f9c0a5d2",
+			"year": "2012",
+			"url": "http://www.flyozone.com/paragliders/en/products/gliders/mantra-r12/info/",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					},
+					"area": {
+						"cells": "82",
+						"areaFlat": "20.7",
+						"spanFlat": "12.5",
+						"ratioFlat": "7.55",
+						"areaProj": "17.5",
+						"spanProj": "9.8",
+						"ratioProj": "5.5",
+						"upperSurface": "Dominico 30D 40 g/m²",
+						"underSurface": "S7000-E29 27 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "2",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					},
+					"area": {
+						"cells": "82",
+						"areaFlat": "22",
+						"spanFlat": "12.9",
+						"ratioFlat": "7.55",
+						"areaProj": "18.6",
+						"spanProj": "10.1",
+						"ratioProj": "5.5",
+						"upperSurface": "Dominico 30D 40 g/m²",
+						"underSurface": "S7000-E29 27 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "2",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					},
+					"area": {
+						"cells": "82",
+						"areaFlat": "23.7",
+						"spanFlat": "13.4",
+						"ratioFlat": "7.55",
+						"areaProj": "20.1",
+						"spanProj": "10.5",
+						"ratioProj": "5.5",
+						"upperSurface": "Dominico 30D 40 g/m²",
+						"underSurface": "S7000-E29 27 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "2",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "125"
+					},
+					"area": {
+						"cells": "82",
+						"areaFlat": "25.7",
+						"spanFlat": "13.9",
+						"ratioFlat": "7.55",
+						"areaProj": "21.7",
+						"spanProj": "10.9",
+						"ratioProj": "5.5",
+						"upperSurface": "Dominico 30D 40 g/m²",
+						"underSurface": "S7000-E29 27 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "2",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Mc Daddy",
+			"uuid": "886fda89-9531-4c73-955e-a3952f54da0d",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "41",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "200"
+					}
+				},
+				{
+					"size": "44",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "230"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mojo 2",
+			"uuid": "7bfe5320-281f-46e1-b220-15b37b29fe82",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mojo 3",
+			"uuid": "dbf2ecfd-90d9-4b5f-a3fc-a69a311b1333",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mojo 4",
+			"uuid": "b5da4228-a9eb-4aa2-b51d-bd9a372d016c",
+			"year": "2012",
+			"url": "http://www.flyozone.com/paragliders/en/products/gliders/mojo4/info/",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70",
+						"weight": "4.5"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "22.2",
+						"spanFlat": "10.54",
+						"ratioFlat": "5",
+						"areaProj": "19.2",
+						"spanProj": "8.39",
+						"ratioProj": "3.67",
+						"upperSurface": "Dominico  30D MF",
+						"underSurface": "Dominico  30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxChord": "2.69"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85",
+						"weight": "5"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "24.3",
+						"spanFlat": "11.03",
+						"ratioFlat": "5",
+						"areaProj": "21",
+						"spanProj": "8.77",
+						"ratioProj": "3.67",
+						"upperSurface": "Dominico  30D MF",
+						"underSurface": "Dominico  30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxChord": "2.81"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "5.45"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "26.5",
+						"spanFlat": "11.52",
+						"ratioFlat": "5",
+						"areaProj": "22.9",
+						"spanProj": "11.52",
+						"ratioProj": "3.67",
+						"upperSurface": "Dominico  30D MF",
+						"underSurface": "Dominico  30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxChord": "2.93"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "28.7",
+						"spanFlat": "11.98",
+						"ratioFlat": "5",
+						"areaProj": "24.8",
+						"spanProj": "9.53",
+						"ratioProj": "3.67",
+						"upperSurface": "Dominico  30D MF",
+						"underSurface": "Dominico  30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxChord": "3.05"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "31",
+						"spanFlat": "12.45",
+						"ratioFlat": "5",
+						"areaProj": "26.8",
+						"spanProj": "9.9",
+						"ratioProj": "3.67",
+						"upperSurface": "Dominico  30D MF",
+						"underSurface": "Dominico  30D MF"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxChord": "3.17"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mojo",
+			"uuid": "d519eafe-d514-45a6-b2e9-2b3ac82aecfd",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Octane Flx",
+			"uuid": "d296b17c-e18e-47d9-8d40-d26de9444589",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Roadster",
+			"uuid": "57bbc36f-3c95-4ce5-b56c-92d67e27bf0a",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rush 2",
+			"uuid": "38264826-86b1-442d-97b9-8a2cd871e8c8",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rush 3",
+			"uuid": "e500d6fd-6ebc-4c4a-aebd-0f5b653dfe4f",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rush 4",
+			"uuid": "444badf8-1e5a-46a1-8580-3b52963bc1d9",
+			"year": "2014",
+			"url": "http://www.flyozone.com/paragliders/en/products/gliders/rush-4/info/",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70",
+						"weight": "5"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85",
+						"weight": "5.2"
+					}
+				},
+				{
+					"size": "MS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.5"
+					}
+				},
+				{
+					"size": "ML",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.7"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "6"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130",
+						"weight": "6.3"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rush",
+			"uuid": "2b42048f-9de0-456d-ba2c-fdb4d6e1d7d1",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sixty Nine",
+			"uuid": "5f357066-a73f-469c-be7c-b3450a3e1527",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Speedster",
+			"uuid": "012d9b92-fba5-4e9a-b31c-37d4a7a30ce7",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "33",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "175"
+					}
+				}
+			]
+		},
+		{
+			"name": "Swift 2",
+			"uuid": "248acca4-1fb9-4186-9fa9-1292696d9181",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Swift",
+			"uuid": "da69bfaf-0bc5-4cb1-b7c2-0a5c93734a66",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ultralite",
+			"uuid": "0074ecd0-b203-4d9f-945e-567a9e3e2364",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "57",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vibe",
+			"uuid": "d3b002df-8eec-448c-8dd5-64dbf949c4c2",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Ms",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "131"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Viper 2",
+			"uuid": "1378c557-e2a2-4f23-9766-d2d948d77865",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Viper",
+			"uuid": "5f5628da-60af-40e2-ba4a-5ecece8c10b8",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vulcan",
+			"uuid": "fda7fa41-d668-4264-b9f5-0c1acf24e65b",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Xt",
+			"uuid": "37b48249-0046-4b32-b2cf-a14ace105fb2",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		}
+	]
+}

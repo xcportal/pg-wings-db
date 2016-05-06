@@ -1,0 +1,867 @@
+{
+	"producer": {
+		"name": "Icaro",
+		"url": "./output/wings/logo/Icaro.png",
+		"uuid": "4b5e54d4-3cf1-4690-9bfe-b56960702240"
+	},
+	"wings": [
+		{
+			"name": "Cidan",
+			"uuid": "64544bdf-3f24-45f2-a031-41a2d8c232ae",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Clou",
+			"uuid": "80a15821-37f8-42b8-a4b9-14d11122d12d",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "139"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cyber 2",
+			"uuid": "89533b0d-498b-4d9b-ab3f-f7c8ad54a28b",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cyber 4",
+			"uuid": "ba6b738a-7e8f-4a7c-943e-7a255d56f797",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cyber TE",
+			"uuid": "70c64065-e7cf-4575-a781-25f57fc4c563",
+			"year": "2012",
+			"url": "http://www.icaro-paragliders.com/english/2_gleitschirm/cyber_te.html",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "72",
+						"weight": "4.4"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "21.89",
+						"spanFlat": "10.63",
+						"ratioFlat": "5.16",
+						"areaProj": "17.05",
+						"spanProj": "8.28",
+						"ratioProj": "4.02",
+						"upperSurface": "Skytex 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 13 cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "48",
+						"trimSpeed": "36"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90",
+						"weight": "5"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "24.45",
+						"spanFlat": "11.23",
+						"ratioFlat": "5.16",
+						"areaProj": "19.05",
+						"spanProj": "8.75",
+						"ratioProj": "4.02",
+						"upperSurface": "Skytex 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 13 cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "48",
+						"trimSpeed": "36"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "28.27",
+						"spanFlat": "12.08",
+						"ratioFlat": "5.16",
+						"areaProj": "22.02",
+						"spanProj": "9.41",
+						"ratioProj": "4.02",
+						"upperSurface": "Skytex 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 13 cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "48",
+						"trimSpeed": "36"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "39",
+						"areaFlat": "31.17",
+						"spanFlat": "12.68",
+						"ratioFlat": "5.16",
+						"areaProj": "24.28",
+						"spanProj": "9.88",
+						"ratioProj": "4.02",
+						"upperSurface": "Skytex 40 g/m² ",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 13 cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"maxSpeed": "48",
+						"trimSpeed": "36"
+					}
+				}
+			]
+		},
+		{
+			"name": "Gto",
+			"uuid": "c74897f1-86b7-4bc8-8b88-f7dffe7a3885",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icaro Nikita 2",
+			"uuid": "42b346dc-3438-4280-a3bf-941fa29bca67",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icaro Nikita",
+			"uuid": "45f14e27-95a3-4423-a408-a57c8d27d1df",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "97",
+						"weightMax": "97"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "92",
+						"weightMax": "92"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icaro Oxygen",
+			"uuid": "a6d0cef6-59e9-47bd-b2d9-e50e64bdad16",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icaro Twice",
+			"uuid": "e7ad3f3b-48f3-4895-83eb-a50fa3da5da6",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "225"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icaro Wildcat",
+			"uuid": "a4f64755-832b-4d44-92ae-1b266d105ed8",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ice 2 Xc",
+			"uuid": "0a42161d-a4d0-4352-b5a1-5985bf45e435",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ice",
+			"uuid": "d90fe743-41f4-467d-a6a2-54c1fcbb0881",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Incanto",
+			"uuid": "0ae6eaaa-a625-4a52-bf45-22cf80a21083",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Instinct 2",
+			"uuid": "b2d790a9-0ad2-4cec-9f9c-e34a9fca0e7b",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "Acro",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Instinct",
+			"uuid": "aa5a984b-9183-4630-8057-ef0c3b2fadfd",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Maverick 2",
+			"uuid": "6051e2c2-26c4-420a-b48d-d1f5e72a532a",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Maverick",
+			"uuid": "0fa2baba-ae66-4e3c-871d-9205cc9a0ea4",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "Bi",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "160",
+						"weightMax": "200"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "LTF 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "LTF 2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "LTF 2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Nikita 2",
+			"uuid": "e6d57c48-1f88-4e7f-a5fe-31a8fe42675e",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Icaro Wildcat TE",
+			"uuid": "34e4bdf2-41aa-4b1c-8b35-b001396e4460",
+			"year": "2012",
+			"url": "http://www.icaro-paragliders.com/english/2_gleitschirm/wildcat_te.html",
+			"subwing": [
+				{
+					"size": "XXS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "65",
+						"weight": "4.5"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "18.31",
+						"spanFlat": "10.04",
+						"ratioFlat": "5.51",
+						"areaProj": "14.98",
+						"spanProj": "8.22",
+						"ratioProj": "4.51",
+						"upperSurface": "DOKDO 33",
+						"underSurface": "Skytex 40"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"maxSpeed": "52",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "57",
+						"weightMax": "75",
+						"weight": "4.7"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "22.6",
+						"spanFlat": "11.16",
+						"ratioFlat": "5.51",
+						"areaProj": "18.5",
+						"spanProj": "9.14",
+						"ratioProj": "4.51",
+						"upperSurface": "DOKDO 33",
+						"underSurface": "Skytex 40"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"maxSpeed": "52",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90",
+						"weight": "5.1"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "25.71",
+						"spanFlat": "11.9",
+						"ratioFlat": "5.51",
+						"areaProj": "21.05",
+						"spanProj": "9.74",
+						"ratioProj": "4.51",
+						"upperSurface": "DOKDO 33",
+						"underSurface": "Skytex 40"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"maxSpeed": "52",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110",
+						"weight": "5.5"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "27.9",
+						"spanFlat": "12.4",
+						"ratioFlat": "5.51",
+						"areaProj": "22.84",
+						"spanProj": "10.15",
+						"ratioProj": "4.51",
+						"upperSurface": "DOKDO 33",
+						"underSurface": "Skytex 40"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"maxSpeed": "52",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125",
+						"weight": "5.9"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "30.76",
+						"spanFlat": "13.02",
+						"ratioFlat": "5.51",
+						"areaProj": "25.18",
+						"spanProj": "10.66",
+						"ratioProj": "4.51",
+						"upperSurface": "DOKDO 33",
+						"underSurface": "Skytex 40"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"maxSpeed": "52",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		}
+	]
+}

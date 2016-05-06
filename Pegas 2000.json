@@ -1,0 +1,303 @@
+{
+	"producer": {
+		"name": "Pegas 2000",
+		"uuid": "da4aefa2-1d9a-4efa-bca9-d348e05b1321"
+	},
+	"wings": [
+		{
+			"name": "Aile",
+			"uuid": "174c1772-a816-4fa5-9d92-8e8152462db3",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Avis 3",
+			"uuid": "db7c657f-4005-4c88-a631-8f620eca3926",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bain",
+			"uuid": "f5ac9b85-a639-487f-b7f7-3bb9bdf33685",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fenix 2",
+			"uuid": "84766561-84b1-4819-ac17-d4dc3adbad3b",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fenix Racer",
+			"uuid": "ae0d4518-362d-4ac4-9de2-a7008f3c7ab4",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kompact",
+			"uuid": "fb8c94ce-9424-4db1-ac61-240c44894d05",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "40",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "190"
+					}
+				},
+				{
+					"size": "45",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "One",
+			"uuid": "a8eb9fb1-95d7-4118-8726-cbce50d6ab23",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Power X",
+			"uuid": "847d1f25-3c32-4bcd-a47c-135dc70d1355",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Xc",
+			"uuid": "f95a0007-ce17-4594-9ae3-08165ba8cd11",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "26",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,2212 @@
+{
+	"producer": {
+		"name": "Swing",
+		"url": "./output/wings/logo/Swing.png",
+		"uuid": "ac5e4063-8ee5-432e-a135-c32efca00ef0"
+	},
+	"wings": [
+		{
+			"name": "Apus",
+			"uuid": "30afafbe-fe05-4f4e-ac00-84fe5b16cbba",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "19",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Arcus 3",
+			"uuid": "612563fd-ca02-413e-9414-6644e19995cb",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Arcus 4",
+			"uuid": "eb520785-3fbb-4195-a7cc-fe2db8d1badd",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Arcus 5",
+			"uuid": "a0acf8a3-1c62-4cd8-b487-da870a5370e9",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Arcus 6",
+			"uuid": "c1e3fdd2-76d3-4e98-8b10-6db1702e56f1",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "32",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "150"
+					}
+				}
+			]
+		},
+		{
+			"name": "Arcus 7",
+			"uuid": "0e18f892-4710-4aa5-bf89-d7ce463ad21f",
+			"year": "2012",
+			"url": "http://www.swing.de/arcus-7-en.html",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "5.75"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "25.5",
+						"spanFlat": "11.51",
+						"ratioFlat": "5.2",
+						"areaProj": "22.1",
+						"spanProj": "9.31",
+						"ratioProj": "3.95",
+						"upperSurface": "Techtex 3020 41 g/m²",
+						"underSurface": "Techtex 3020 41 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.05",
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "6.05"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "27.25",
+						"spanFlat": "11.9",
+						"ratioFlat": "5.2",
+						"areaProj": "23.6",
+						"spanProj": "9.62",
+						"ratioProj": "3.95",
+						"upperSurface": "Techtex 3020 41 g/m²",
+						"underSurface": "Techtex 3020 41 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.05",
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105",
+						"weight": "6.3"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "29",
+						"spanFlat": "12.28",
+						"ratioFlat": "5.2",
+						"areaProj": "25.1",
+						"spanProj": "9.93",
+						"ratioProj": "3.95",
+						"upperSurface": "Techtex 3020 41 g/m²",
+						"underSurface": "Techtex 3020 41 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.05",
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115",
+						"weight": "6.55"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "30.75",
+						"spanFlat": "12.64",
+						"ratioFlat": "5.2",
+						"areaProj": "26.7",
+						"spanProj": "10.22",
+						"ratioProj": "3.95",
+						"upperSurface": "Techtex 3020 41 g/m²",
+						"underSurface": "Techtex 3020 41 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.05",
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "6.75"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "32.5",
+						"spanFlat": "13",
+						"ratioFlat": "5.2",
+						"areaProj": "28.2",
+						"spanProj": "10.52",
+						"ratioProj": "3.95",
+						"upperSurface": "Techtex 3020 41 g/m²",
+						"underSurface": "Techtex 3020 41 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.05",
+						"maxSpeed": "50",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		},
+		{
+			"name": "Astral 3",
+			"uuid": "2e5e083b-2b6b-4017-8029-4e6c1bc06881",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Astral 4",
+			"uuid": "5c7a026d-6805-47f9-9e98-b945579a52a5",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Astral 5",
+			"uuid": "44124ea0-2845-4bf5-858b-28c47510938b",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Astral 6",
+			"uuid": "1af60142-8cf3-4365-92c8-347ea19dc9b2",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Astral 7",
+			"uuid": "75e0abe5-de68-472e-95be-2e7893f94846",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "102"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Axis 3",
+			"uuid": "3caf7318-8eec-41a2-9d0c-11298b1e6efb",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Bi",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "170"
+					}
+				}
+			]
+		},
+		{
+			"name": "Axis 4",
+			"uuid": "52b88013-7e28-479d-82ca-341a4090e799",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Axis 5",
+			"uuid": "caf770fc-0b49-4061-a6a5-06e8fe99b8bd",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cirrus 3",
+			"uuid": "c2e54d09-09ee-4ac1-99af-41031a021a8b",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cirrus 4",
+			"uuid": "2cac04f1-8c85-4e02-9c88-9b9b1979bf15",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				}
+			]
+		},
+		{
+			"name": "Core 3",
+			"uuid": "0740bcf7-ce1a-472d-8652-2139087b2b26",
+			"year": "2013",
+			"url": "http://www.swing.de/core3-en.html",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "102",
+						"weight": "6.9"
+					},
+					"area": {
+						"cells": "79",
+						"areaFlat": "25.37",
+						"spanFlat": "13.7",
+						"ratioFlat": "7.4",
+						"areaProj": "21.5",
+						"spanProj": "10.84",
+						"ratioProj": "5.47",
+						"upperSurface": "Techtex 3020 41 g/m²",
+						"underSurface": "Techtex 3020 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "112",
+						"weight": "7.3"
+					},
+					"area": {
+						"cells": "79",
+						"areaFlat": "26.39",
+						"spanFlat": "13.97",
+						"ratioFlat": "7.4",
+						"areaProj": "22.37",
+						"spanProj": "11.06",
+						"ratioProj": "5.47",
+						"upperSurface": "Techtex 3020 41 g/m²",
+						"underSurface": "Techtex 3020 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "108",
+						"weightMax": "125",
+						"weight": "7.7"
+					},
+					"area": {
+						"cells": "79",
+						"areaFlat": "27.62",
+						"spanFlat": "14.3",
+						"ratioFlat": "7.4",
+						"areaProj": "23.41",
+						"spanProj": "11.31",
+						"ratioProj": "5.47",
+						"upperSurface": "Techtex 3020 41 g/m²",
+						"underSurface": "Techtex 3020 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "2",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Discus",
+			"uuid": "a8e7626a-0ca7-4f8c-ba10-b7edbab8d0b8",
+			"year": "2014",
+			"url": "http://www.swing.de/discus-en.html",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80",
+						"weight": "4.9"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "24",
+						"spanFlat": "11.2",
+						"ratioFlat": "5.2",
+						"areaProj": "20.5",
+						"spanProj": "8.8",
+						"ratioProj": "3.7"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.1"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "26.5",
+						"spanFlat": "11.8",
+						"ratioFlat": "5.2",
+						"areaProj": "22.7",
+						"spanProj": "9.2",
+						"ratioProj": "3.7"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.5"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "29.8",
+						"spanFlat": "12.5",
+						"ratioFlat": "5.2",
+						"areaProj": "25.4",
+						"spanProj": "9.8",
+						"ratioProj": "3.7"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "32",
+						"spanFlat": "13",
+						"ratioFlat": "5.2",
+						"areaProj": "27.4",
+						"spanProj": "10.1",
+						"ratioProj": "3.7"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "6"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "33.5",
+						"spanFlat": "13.3",
+						"ratioFlat": "5.2",
+						"areaProj": "28.6",
+						"spanProj": "10.4",
+						"ratioProj": "3.7"
+					}
+				}
+			]
+		},
+		{
+			"name": "Everest",
+			"uuid": "153e699b-af64-457d-9e63-2407278410db",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Bi",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "165"
+					}
+				}
+			]
+		},
+		{
+			"name": "Hybrid Sport",
+			"uuid": "145d9a4b-ed8a-4fe8-a959-c82f900d4529",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mistral 3",
+			"uuid": "b058ebe2-7e68-4bfd-be72-e02e62f43fe1",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "35",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "195"
+					}
+				},
+				{
+					"size": "38",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "135",
+						"weightMax": "230"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mistral 4",
+			"uuid": "3169c08d-95bd-48d1-8a58-4c1a69dc3feb",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mistral 5",
+			"uuid": "0e83d868-56e7-438c-a867-cec7ec3f63f9",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "LTF 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "150"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mistral 6",
+			"uuid": "b8db4ca0-8b30-4399-9a8e-6782e60a5293",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mistral 7",
+			"uuid": "051c3cc2-2802-421b-9af6-53922ff2a522",
+			"year": "2013",
+			"url": "http://www.swing.de/mistral-7-en.html",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "5.1"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "21.4",
+						"spanFlat": "10.8",
+						"ratioFlat": "5.5",
+						"areaProj": "18.6",
+						"spanProj": "8.8",
+						"ratioProj": "4.2"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"maxSpeed": "53",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "23.2",
+						"spanFlat": "11.3",
+						"ratioFlat": "5.5",
+						"areaProj": "20.2",
+						"spanProj": "9.2",
+						"ratioProj": "4.2"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"maxSpeed": "53",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.6"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "25",
+						"spanFlat": "11.7",
+						"ratioFlat": "5.5",
+						"areaProj": "21.5",
+						"spanProj": "9.4",
+						"ratioProj": "4.2"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"maxSpeed": "53",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "5.9"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "27",
+						"spanFlat": "12.2",
+						"ratioFlat": "5.5",
+						"areaProj": "23.5",
+						"spanProj": "9.9",
+						"ratioProj": "4.2"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"maxSpeed": "53",
+						"trimSpeed": "39"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "6.2"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "29",
+						"spanFlat": "12.6",
+						"ratioFlat": "5.5",
+						"areaProj": "25.2",
+						"spanProj": "10.3",
+						"ratioProj": "4.2"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"maxSpeed": "53",
+						"trimSpeed": "39"
+					}
+				}
+			]
+		},
+		{
+			"name": "Naja",
+			"uuid": "3108427b-27f8-4f48-a37f-23ca90cead14",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "Paramotor",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Paramotor",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Paramotor",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "170"
+					}
+				}
+			]
+		},
+		{
+			"name": "Powerplay Sting",
+			"uuid": "051fb5ef-8129-4cf5-af91-dc22dcc0935e",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "120",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "140",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "160",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "180",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "250",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "170"
+					}
+				}
+			]
+		},
+		{
+			"name": "Salto",
+			"uuid": "696130e3-0237-4037-b9a8-518cfb0e4493",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Savage",
+			"uuid": "72287cb3-a2a1-4d45-836c-02e254299111",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "13",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Spitfire",
+			"uuid": "d7e3687f-f03e-411e-b2c3-23422dc89695",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "11",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "126",
+						"weightMax": "126"
+					}
+				},
+				{
+					"size": "13",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "126",
+						"weightMax": "126"
+					}
+				},
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "126",
+						"weightMax": "126"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "7",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "8",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "9",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "126",
+						"weightMax": "126"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sting",
+			"uuid": "a9589fda-48cd-4c6f-9b25-d84d46232fa8",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "120",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "140",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "160",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "180",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "250",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "170"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stratus 4",
+			"uuid": "90bdb620-c2ce-4137-aa34-c6545ba4391d",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stratus 5",
+			"uuid": "2d56dc8c-2091-4c8e-86f1-546c984d0f6f",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stratus 6",
+			"uuid": "8b89da5d-d47a-4e72-af86-a3e68a505082",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "92"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "92",
+						"weightMax": "98"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "98",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "111"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "111",
+						"weightMax": "118"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "118",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "135",
+						"weightMax": "145"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stratus 7",
+			"uuid": "23f856f1-de53-4674-afdd-afb6006824ae",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "135",
+						"weightMax": "145"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stratus 8",
+			"uuid": "647149c5-ca88-4a63-8767-f09a65b15ecb",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stratus Core 2",
+			"uuid": "13c513a0-ae5d-44d8-b931-2a04db74a4dd",
+			"year": "2012",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "112"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "108",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stratus Core",
+			"uuid": "717e5043-0c5c-4695-9879-744b1f1a4ca6",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "84",
+						"weightMax": "92"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "92",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "99",
+						"weightMax": "107"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "106",
+						"weightMax": "114"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stratus Core 3",
+			"uuid": "b5f3ec15-f637-4d96-8e20-72fb94c84272",
+			"year": "2013",
+			"url": "http://www.swing.de/core3-en.html",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "102",
+						"weight": "6.9"
+					},
+					"area": {
+						"cells": "79",
+						"areaFlat": "25.37",
+						"spanFlat": "13.7",
+						"ratioFlat": "7.4",
+						"areaProj": "21.5",
+						"spanProj": "10.84",
+						"ratioProj": "5.47"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"bestSinkRate": "0.95",
+						"trimSpeed": "41"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "112",
+						"weight": "7.3"
+					},
+					"area": {
+						"cells": "79",
+						"areaFlat": "26.39",
+						"spanFlat": "13.97",
+						"ratioFlat": "7.4",
+						"areaProj": "22.37",
+						"spanProj": "11.06",
+						"ratioProj": "5.47"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"bestSinkRate": "0.95",
+						"trimSpeed": "41"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "108",
+						"weightMax": "125",
+						"weight": "7.7"
+					},
+					"area": {
+						"cells": "79",
+						"areaFlat": "27.62",
+						"spanFlat": "14.3",
+						"ratioFlat": "7.4",
+						"areaProj": "23.41",
+						"spanProj": "11.31",
+						"ratioProj": "5.47"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"bestSinkRate": "0.95",
+						"trimSpeed": "41"
+					}
+				}
+			]
+		},
+		{
+			"name": "Stratus Wrc",
+			"uuid": "63dacec6-776b-4bf7-8956-ad3f6d089251",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "7.20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "7.21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "7.22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "102",
+						"weightMax": "102"
+					}
+				},
+				{
+					"size": "7.23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "107",
+						"weightMax": "107"
+					}
+				},
+				{
+					"size": "7.24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "7.25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "7.26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "7.27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tusker",
+			"uuid": "ee2ff33e-e35d-4669-beff-9e6585c735e5",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Paramotor",
+					"weight": {
+						"weightMin": "226",
+						"weightMax": "316"
+					}
+				}
+			]
+		},
+		{
+			"name": "Twin 4",
+			"uuid": "c1af2c7e-d0cd-49a0-9737-4f2b2704e8ab",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "220"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "190"
+					}
+				}
+			]
+		},
+		{
+			"name": "Twin 5",
+			"uuid": "75ca7c98-3427-43fe-aa33-31c4f81c0856",
+			"year": "2013",
+			"url": "http://www.swing.de/twin-5-en.html",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "190",
+						"weight": "8.3"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "220",
+						"weight": "8.6"
+					}
+				}
+			]
+		}
+	]
+}

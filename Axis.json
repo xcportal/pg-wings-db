@@ -1,0 +1,1205 @@
+{
+	"producer": {
+		"name": "Axis",
+		"url": "./output/wings/logo/Axis.png",
+		"uuid": "1154db4c-0b92-4bea-bf62-d926c3b2cdd6"
+	},
+	"wings": [
+		{
+			"name": "Comet",
+			"uuid": "dd6ea2ff-5de5-4c32-a986-3adfc330261c",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "118",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "52",
+						"weightMax": "72"
+					}
+				}
+			]
+		},
+		{
+			"name": "Compact 2",
+			"uuid": "ac7a03d0-c1a7-499c-92d6-b5673c261527",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "150"
+					}
+				}
+			]
+		},
+		{
+			"name": "Gigant",
+			"uuid": "b7e6710d-c34f-4b10-bd1f-1545ff3affd4",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "190"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mercury 2006",
+			"uuid": "2e12b81f-9b91-48d0-858a-19e9234d4212",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mercury 2008",
+			"uuid": "c0b57801-dad4-4344-964b-b57a0542a90d",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mercury 2009",
+			"uuid": "5000f226-bacf-43bb-adef-7005ee7bb113",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "155"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "78",
+						"weightMax": "97"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mercury 2011",
+			"uuid": "b479726e-b9e7-421a-b5e2-34f23954b6cb",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "103",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "112",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "96"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "93",
+						"weightMax": "104"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "76",
+						"weightMax": "87"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "67",
+						"weightMax": "78"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mercury 3",
+			"uuid": "c2bcdb72-20fe-407d-b3aa-482728756621",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mercury",
+			"uuid": "ce924808-f654-4e70-9f7a-08ff8c8155be",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Mercury Sport",
+			"uuid": "21915d82-14d5-44f5-bd50-944336022341",
+			"year": "2012",
+			"url": "http://www.axispara.cz/en/products/167-axis-mercury-sport.html",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "88",
+						"weightMax": "102",
+						"weight": "6.5"
+					},
+					"area": {
+						"cells": "84",
+						"areaFlat": "23.6",
+						"spanFlat": "13.5",
+						"ratioFlat": "7.7",
+						"areaProj": "19.6",
+						"spanProj": "10.5",
+						"ratioProj": "5.7"
+					},
+					"properties": {
+						"acceleration": "Yes, 9cm",
+						"risers": "2",
+						"earsBLines": true,
+						"bestSinkRate": "0.85",
+						"bestGlideRatio": "12",
+						"maxChord": "2.17",
+						"minSpeed": "25",
+						"maxSpeed": "60",
+						"trimSpeed": "40"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "102",
+						"weightMax": "118",
+						"weight": "6.7"
+					},
+					"area": {
+						"cells": "84",
+						"areaFlat": "25.4",
+						"spanFlat": "14",
+						"ratioFlat": "7.7",
+						"areaProj": "21.3",
+						"spanProj": "11",
+						"ratioProj": "5.7"
+					},
+					"properties": {
+						"acceleration": "Yes, 8cm",
+						"risers": "2",
+						"earsBLines": true,
+						"bestSinkRate": "0.85",
+						"bestGlideRatio": "12",
+						"maxChord": "2.17",
+						"minSpeed": "25",
+						"maxSpeed": "60",
+						"trimSpeed": "40"
+					}
+				}
+			]
+		},
+		{
+			"name": "Meteor",
+			"uuid": "342d6a35-547b-41dd-a5d6-4c772d0709df",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Neptun",
+			"uuid": "bedfeb0c-a489-4d2b-bd48-3ccc85af5dd0",
+			"year": "2012",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pluto 2",
+			"uuid": "53160004-5fc4-48c3-bad3-ce2d98e8e322",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "155"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pluto",
+			"uuid": "0e609e4a-bc70-4eb7-a369-779c70966ca1",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "155"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "Xxl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "145",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "Polaris",
+			"uuid": "aab88207-e239-404a-b502-4e043a19fbdd",
+			"year": "2012",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "267",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "288",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					},
+					"area": {
+						"cells": "65",
+						"areaFlat": "21.24",
+						"spanFlat": "11.7",
+						"ratioFlat": "6.45",
+						"areaProj": "17.85",
+						"spanProj": "9.07",
+						"ratioProj": "4.61"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"earsBLines": true,
+						"bestGlideRatio": "10.4",
+						"minSpeed": "23",
+						"maxSpeed": "38",
+						"trimSpeed": "59"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "67",
+						"weightMax": "90"
+					},
+					"area": {
+						"cells": "65",
+						"areaFlat": "23.13",
+						"spanFlat": "12.21",
+						"ratioFlat": "6.45",
+						"areaProj": "19.44",
+						"spanProj": "9.46",
+						"ratioProj": "4.61"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"earsBLines": true,
+						"bestGlideRatio": "10.4",
+						"minSpeed": "23",
+						"maxSpeed": "38",
+						"trimSpeed": "59"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					},
+					"area": {
+						"cells": "65",
+						"areaFlat": "25.09",
+						"spanFlat": "12.72",
+						"ratioFlat": "6.45",
+						"areaProj": "21.1",
+						"spanProj": "9.86",
+						"ratioProj": "4.61"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"earsBLines": true,
+						"bestGlideRatio": "10.4",
+						"minSpeed": "23",
+						"maxSpeed": "38",
+						"trimSpeed": "59"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "121"
+					},
+					"area": {
+						"cells": "65",
+						"areaFlat": "26.8",
+						"spanFlat": "13.15",
+						"ratioFlat": "6.45",
+						"areaProj": "22.53",
+						"spanProj": "10.19",
+						"ratioProj": "4.61"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"earsBLines": true,
+						"bestGlideRatio": "10.4",
+						"minSpeed": "23",
+						"maxSpeed": "38",
+						"trimSpeed": "59"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "113",
+						"weightMax": "143"
+					},
+					"area": {
+						"cells": "65",
+						"areaFlat": "29.05",
+						"spanFlat": "13.69",
+						"ratioFlat": "6.45",
+						"areaProj": "24.42",
+						"spanProj": "10.61",
+						"ratioProj": "4.61"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"earsBLines": true,
+						"bestGlideRatio": "10.4",
+						"minSpeed": "23",
+						"maxSpeed": "38",
+						"trimSpeed": "59"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sirius",
+			"uuid": "1799c9f8-cae4-4a5f-a73e-2c84d81b339e",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vega 2",
+			"uuid": "3d59a68f-f7e2-40cc-95aa-d683deeb41e6",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "170"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vega 3",
+			"uuid": "7b2a1db7-0fa1-47fa-8466-39992a052aad",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "88"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "118",
+						"weightMax": "150"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "52",
+						"weightMax": "72"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vega 4",
+			"uuid": "a225ad13-73c1-4035-b982-f30aa817a779",
+			"year": "2013",
+			"url": "http://www.axispara.cz/en/products/paragliders/axis-vega-4.html",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "5.4"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.7"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.9"
+					}
+				},
+				{
+					"size": "ML",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115",
+						"weight": "6.1"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "6.4"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vega",
+			"uuid": "7a379026-938e-43d5-b61e-67762db71c0d",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "92"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "170"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "78"
+					}
+				},
+				{
+					"size": "Xxl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Venus 2",
+			"uuid": "26474ccc-fee0-49ed-9e46-88e0ef6aade6",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "145"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Venus 3",
+			"uuid": "ab6abbd5-baa6-4016-8491-1cdd06e47da5",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "145"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Venus",
+			"uuid": "a39aa56d-aee7-405a-a5c8-d94d09580059",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		}
+	]
+}

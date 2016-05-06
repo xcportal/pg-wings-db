@@ -1,0 +1,817 @@
+{
+	"producer": {
+		"name": "Advance",
+		"url": "./output/wings/logo/Advance.png",
+		"uuid": "9086fdbc-bfa3-4b25-8995-e4f0937a43ec"
+	},
+	"wings": [
+		{
+			"name": "Alpha 3",
+			"uuid": "7fd646ce-68b3-49b3-b5bb-72e3647a76fe",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "58",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "108"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "103",
+						"weightMax": "127"
+					}
+				}
+			]
+		},
+		{
+			"name": "Alpha 4",
+			"uuid": "48a4a7bc-840a-4ced-87eb-a3e41a080044",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "88"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "78",
+						"weightMax": "106"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "96",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Alpha 4 Hike",
+			"uuid": "f1b6be5d-c082-4139-b464-9c92379c2606",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "78",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Alpha 5",
+			"uuid": "da3d92bc-6994-491d-8eba-f120295cac49",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Beta 3",
+			"uuid": "2dee9ab5-2952-416b-9480-ffc8044a453f",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "195"
+					}
+				},
+				{
+					"size": "41",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "135",
+						"weightMax": "225"
+					}
+				}
+			]
+		},
+		{
+			"name": "Beta 4",
+			"uuid": "46b69c85-742a-459a-8fd4-92216a1d1976",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "195"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "135",
+						"weightMax": "225"
+					}
+				}
+			]
+		},
+		{
+			"name": "BiBeta 5",
+			"uuid": "4cd16dfb-c392-4d0f-b884-d753d9365b02",
+			"year": "2012",
+			"url": "http://www.advance.ch/BIBETA.1056.0.html?&L=1",
+			"subwing": [
+				{
+					"size": "42",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "225",
+						"weight": "8.15"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "40.81",
+						"spanFlat": "14.42",
+						"ratioFlat": "5.2",
+						"areaProj": "34.47",
+						"spanProj": "11.43",
+						"ratioProj": "3.79",
+						"upperSurface": "S9017-E32 40 g/m2",
+						"underSurface": "Dokdo N20 DMF 36 g/m2"
+					},
+					"properties": {
+						"acceleration": "No",
+						"trims": "11cm",
+						"risers": "5",
+						"bestSinkRate": "1.2",
+						"bestGlideRatio": "8.5",
+						"minSpeed": "24",
+						"maxSpeed": "47",
+						"trimSpeed": "41"
+					}
+				}
+			]
+		},
+		{
+			"name": "Epsilon 4",
+			"uuid": "c377b98f-8eda-4983-810f-9b246b9ce503",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "58",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "108"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "103",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Epsilon 5",
+			"uuid": "f8b943e4-2cfa-45cd-bbb3-cf8a760299f8",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "88"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "78",
+						"weightMax": "106"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "96",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Epsilon 6",
+			"uuid": "021f4426-2b90-481d-898b-3016a9a9c8c3",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Epsilon 7",
+			"uuid": "f1a6ab84-4dfc-4452-9917-db4c96fc391a",
+			"year": "2013",
+			"url": "http://www.advance.ch/EPSILON.1201.0.html?&L=1",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "23",
+						"spanFlat": "10.88",
+						"ratioFlat": "5.15",
+						"areaProj": "19.3",
+						"spanProj": "9.1",
+						"ratioProj": "4.31"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"maxSpeed": "51",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "26",
+						"spanFlat": "11.57",
+						"ratioFlat": "5.15",
+						"areaProj": "21.8",
+						"spanProj": "9.7",
+						"ratioProj": "4.31"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"maxSpeed": "51",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "28",
+						"spanFlat": "12.01",
+						"ratioFlat": "5.15",
+						"areaProj": "23.5",
+						"spanProj": "10.1",
+						"ratioProj": "4.31"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"maxSpeed": "51",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					},
+					"area": {
+						"cells": "45",
+						"areaFlat": "30",
+						"spanFlat": "12.43",
+						"ratioFlat": "5.15",
+						"areaProj": "25.2",
+						"spanProj": "10.4",
+						"ratioProj": "4.31"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"maxSpeed": "51",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		},
+		{
+			"name": "Iota",
+			"uuid": "0cd4b6e0-da86-4799-acf2-a68f9a979989",
+			"year": "2014",
+			"url": "http://www.advance.ch/en/products/paragliders/iota/",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85",
+						"weight": "4.45"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100",
+						"weight": "4.85"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115",
+						"weight": "5.15"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "5.45"
+					}
+				}
+			]
+		},
+		{
+			"name": "Omega 6",
+			"uuid": "835c2a40-f4dc-4cd4-a20f-bc8ec2869117",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Omega 7",
+			"uuid": "93f16a94-5ffd-444c-a6e7-53ebead4a18d",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "103"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "116"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "DHV 2-3",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Omega 8",
+			"uuid": "c19022b4-4d50-4b4d-a225-c969cff2ea71",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sigma 6",
+			"uuid": "2defe58b-7523-46d8-9b2f-e8398ac58051",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sigma 7",
+			"uuid": "26af0739-32d0-4578-8f65-3dd39768df2b",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sigma 8",
+			"uuid": "4cf0d4e2-6d42-44ff-b8e4-54ba7ba27126",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sigma 9",
+			"uuid": "175b309b-0bea-4e21-9df6-65de77675642",
+			"year": "2014",
+			"url": "http://www.advance.ch/en/products/paragliders/sigma-9/",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85",
+						"weight": "4.6"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "100",
+						"weight": "4.9"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115",
+						"weight": "5.3"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "5.6"
+					}
+				}
+			]
+		},
+		{
+			"name": "Zeta",
+			"uuid": "36d58efa-ad06-4ff4-8c41-ff892ef2b4f4",
+			"year": "2013",
+			"subwing": [
+				{
+					"size": "21",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "110",
+						"weight": "4.4"
+					},
+					"area": {
+						"areaFlat": "21",
+						"spanFlat": "10.4",
+						"ratioFlat": "5.15",
+						"areaProj": "17.6",
+						"spanProj": "7.99",
+						"ratioProj": "3.62",
+						"upperSurface": "S9017-E25 38 g/m?",
+						"underSurface": "Dokdo 20 DMF 35 g/m?"
+					},
+					"properties": {
+						"acceleration": "Yes, 13cm",
+						"trims": "No",
+						"risers": "3",
+						"bestGlideRatio": " ",
+						"maxSpeed": "52"
+					}
+				}
+			]
+		}
+	]
+}

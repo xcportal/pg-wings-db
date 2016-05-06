@@ -1,0 +1,320 @@
+{
+	"producer": {
+		"name": "Air-sport",
+		"url": "./output/wings/logo/Air-sport.png",
+		"uuid": "9331ab0e-4fc5-4227-9fba-d8d66708a813"
+	},
+	"wings": [
+		{
+			"name": "Ajos 2",
+			"uuid": "137181bf-baa3-4114-adc9-d23ff0804fa9",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ajos",
+			"uuid": "a1fc9b8a-7fc1-4e7d-9b67-0ecb2447dc64",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "35",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "150"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bise",
+			"uuid": "cbf0f04b-06b6-432f-bee6-fc8f9d5b754b",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Buran",
+			"uuid": "1f22875c-3b99-46f1-b8e0-79531d01f9f9",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Buran Reflex",
+			"uuid": "049424f5-6712-4a7e-9647-f3749af74330",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Chinook 2",
+			"uuid": "6718b4cd-df9f-4c2f-880a-7593cb35b45f",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "Bi",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "Chinook",
+			"uuid": "a6575523-7334-45f0-b20f-23deb474e17c",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "26",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "97"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Lhotse",
+			"uuid": "3dd0d631-bd0d-4080-884c-149eae055433",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Notos 6",
+			"uuid": "4b8e9a1e-74bc-449f-8ce6-3fc0e26a8e2a",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "NOTOS CARBON",
+			"uuid": "81c890b9-a173-4391-a84e-b2f1e69a3766",
+			"year": "2010",
+			"url": "http://www.air-sport.pl/oferta/paralotnie/notos_carbon_d4475_pol.html",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Compétition",
+					"weight": {
+						"weightMin": "104",
+						"weightMax": "114",
+						"weight": "6.6"
+					},
+					"area": {
+						"cells": "79",
+						"areaFlat": "25",
+						"spanFlat": "14.14",
+						"ratioFlat": "8",
+						"areaProj": "21.19",
+						"spanProj": "11.13",
+						"ratioProj": "5.85",
+						"upperSurface": "Skytex Water repellent E77A 40g/m2",
+						"underSurface": "Skytex Classic E38A 40g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"risers": "2",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Pasat 2",
+			"uuid": "77d5a1a2-b35d-432b-8d7e-5c0e2bb153f1",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				}
+			]
+		}
+	]
+}

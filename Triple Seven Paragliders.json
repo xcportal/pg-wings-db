@@ -1,0 +1,379 @@
+{
+	"producer": {
+		"name": "Triple Seven Paragliders",
+		"url": "./output/wings/logo/Triple Seven Paragliders.png",
+		"uuid": "656215ff-a5f3-4093-ba53-233462dac71e"
+	},
+	"wings": [
+		{
+			"name": "King",
+			"uuid": "bf23de9f-5931-4159-b365-97e73f97cc1c",
+			"year": "2014",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pawn",
+			"uuid": "b8051857-4712-45e4-85ab-c1660187d52d",
+			"year": "2013",
+			"url": "http://777gliders.com/tripleseven/pawn",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					},
+					"area": {
+						"cells": "40",
+						"areaFlat": "23.8",
+						"spanFlat": "10.9",
+						"ratioFlat": "5",
+						"areaProj": "20.1",
+						"spanProj": "8.6",
+						"ratioProj": "3.7",
+						"upperSurface": "NCV Skytex 38 Universal",
+						"underSurface": "NCV Skytex 38 Universal"
+					},
+					"properties": {
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					},
+					"area": {
+						"cells": "40",
+						"areaFlat": "27.1",
+						"spanFlat": "11.6",
+						"ratioFlat": "5",
+						"areaProj": "22.9",
+						"spanProj": "9.2",
+						"ratioProj": "3.7",
+						"upperSurface": "NCV Skytex 38 Universal",
+						"underSurface": "NCV Skytex 38 Universal"
+					},
+					"properties": {
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					},
+					"area": {
+						"cells": "40",
+						"areaFlat": "30.2",
+						"spanFlat": "12.3",
+						"ratioFlat": "5",
+						"areaProj": "25.6",
+						"spanProj": "9.7",
+						"ratioProj": "3.7",
+						"upperSurface": "NCV Skytex 38 Universal",
+						"underSurface": "NCV Skytex 38 Universal"
+					},
+					"properties": {
+						"risers": "3",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Queen",
+			"uuid": "7cc22861-84f9-44f1-903a-47b9b93bbb70",
+			"year": "2013",
+			"url": "http://777gliders.com/tripleseven/queen",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "23.5",
+						"spanFlat": "12",
+						"ratioFlat": "6.11",
+						"areaProj": "19.9",
+						"spanProj": "9.6",
+						"ratioProj": "4.64",
+						"upperSurface": "Skytex 38 g/m² ",
+						"underSurface": "Skytex 38 g/m² "
+					},
+					"properties": {
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "25.5",
+						"spanFlat": "12.57",
+						"ratioFlat": "6.11",
+						"areaProj": "21.6",
+						"spanProj": "10",
+						"ratioProj": "4.64",
+						"upperSurface": "Skytex 38 g/m² ",
+						"underSurface": "Skytex 38 g/m² "
+					},
+					"properties": {
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "27.5",
+						"spanFlat": "13",
+						"ratioFlat": "6.11",
+						"areaProj": "23.4",
+						"spanProj": "10.4",
+						"ratioProj": "4.64",
+						"upperSurface": "Skytex 38 g/m² ",
+						"underSurface": "Skytex 38 g/m² "
+					},
+					"properties": {
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Rook",
+			"uuid": "6d97189a-fe05-4827-8268-3d3d14b003f1",
+			"year": "2013",
+			"url": "http://777gliders.com/tripleseven/rook",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70",
+						"weight": "4.4"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "22.5",
+						"spanFlat": "11.124",
+						"ratioFlat": "5.5",
+						"areaProj": "19.1",
+						"spanProj": "8.794",
+						"ratioProj": "4.095",
+						"upperSurface": "NCV 9092-E85A",
+						"underSurface": "NCV 9017-E68A"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "52",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85",
+						"weight": "4.8"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "24.5",
+						"spanFlat": "11.61",
+						"ratioFlat": "5.5",
+						"areaProj": "20.7",
+						"spanProj": "9.2",
+						"ratioProj": "4.095",
+						"upperSurface": "NCV 9092-E85A",
+						"underSurface": "NCV 9017-E68A"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "52",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105",
+						"weight": "5.5"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "26.5",
+						"spanFlat": "12.07",
+						"ratioFlat": "5.5",
+						"areaProj": "22.4",
+						"spanProj": "9.5",
+						"ratioProj": "4.095",
+						"upperSurface": "NCV 9092-E85A",
+						"underSurface": "NCV 9017-E68A"
+					},
+					"properties": {
+						"acceleration": "Yes, 20cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "52",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120",
+						"weight": "6"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "28.5",
+						"spanFlat": "12.52",
+						"ratioFlat": "5.5",
+						"areaProj": "24.1",
+						"spanProj": "9.9",
+						"ratioProj": "4.095",
+						"upperSurface": "NCV 9092-E85A",
+						"underSurface": "NCV 9017-E68A"
+					},
+					"properties": {
+						"acceleration": "Yes, 22cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "52",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "145",
+						"weight": "6.4"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "30",
+						"spanFlat": "12.84",
+						"ratioFlat": "5.5",
+						"areaProj": "25.4",
+						"spanProj": "10.2",
+						"ratioProj": "4.095",
+						"upperSurface": "NCV 9092-E85A",
+						"underSurface": "NCV 9017-E68A"
+					},
+					"properties": {
+						"acceleration": "Yes, 22cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "24",
+						"maxSpeed": "52",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rook 2",
+			"uuid": "cbe15d7d-95cf-43af-b67b-b56f360e1b36",
+			"year": "2015",
+			"url": "http://777gliders.com/content/rook2",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN B"
+				},
+				{
+					"size": "MS",
+					"certificate": "EN B"
+				},
+				{
+					"size": "ML",
+					"certificate": "EN B"
+				},
+				{
+					"size": "L",
+					"certificate": "EN B"
+				}
+			]
+		}
+	]
+}

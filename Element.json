@@ -1,0 +1,304 @@
+{
+	"producer": {
+		"name": "Element",
+		"url": "./output/wings/logo/Element.png",
+		"uuid": "abfd80c4-c87e-4f59-820a-a5ca56212f3f"
+	},
+	"wings": [
+		{
+			"name": "Air 2",
+			"uuid": "7b876c9c-090a-4216-bbb2-917761a1d02f",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Air",
+			"uuid": "cb271fad-04f2-4628-9060-d088476e0e0d",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "78",
+						"weightMax": "98"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "35",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "160"
+					}
+				}
+			]
+		},
+		{
+			"name": "Air 3",
+			"uuid": "6ec4b719-961a-4f85-b55d-5feed09b8630",
+			"year": "2012",
+			"url": "http://www.element.bg/en/element_paraglider_specification.html?submenu=1&subbut=1&type=air3",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "25.45",
+						"spanFlat": "12.6",
+						"ratioFlat": "6.2",
+						"areaProj": "21.55",
+						"spanProj": "9.96",
+						"ratioProj": "4.6",
+						"upperSurface": "S9092/9017-E85A/E77A(45/40g/m2)",
+						"underSurface": "S9017-E29A(40g/m2)"
+					},
+					"properties": {
+						"risers": "3",
+						"minSpeed": "23",
+						"maxSpeed": "55",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "6.2"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "27.2",
+						"spanFlat": "13.02",
+						"ratioFlat": "6.2",
+						"areaProj": "23.03",
+						"spanProj": "10.3",
+						"ratioProj": "4.6",
+						"upperSurface": "S9092/9017-E85A/E77A(45/40g/m2)",
+						"underSurface": "S9017-E29A(40g/m2)"
+					},
+					"properties": {
+						"risers": "3",
+						"minSpeed": "23",
+						"maxSpeed": "55",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "6.6"
+					},
+					"area": {
+						"cells": "62",
+						"areaFlat": "29.4",
+						"spanFlat": "13.53",
+						"ratioFlat": "6.2",
+						"areaProj": "24.89",
+						"spanProj": "10.71",
+						"ratioProj": "4.6",
+						"upperSurface": "S9092/9017-E85A/E77A(45/40g/m2)",
+						"underSurface": "S9017-E29A(40g/m2)"
+					},
+					"properties": {
+						"risers": "3",
+						"minSpeed": "23",
+						"maxSpeed": "55",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		},
+		{
+			"name": "Earth",
+			"uuid": "825434b5-ebdd-4c99-a964-f769bbab14b1",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fire 2",
+			"uuid": "0f7d2cf2-6a48-456b-8e9d-a980200704ec",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "23.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "25.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "29.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fire",
+			"uuid": "14da9f06-7149-4f68-a4ac-5d06c44c0017",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "23.7",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fire 3",
+			"uuid": "70a45ad5-003e-4bb2-a984-43839b30cd0e",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "135"
+					}
+				}
+			]
+		},
+		{
+			"name": "Water",
+			"uuid": "844c0d1e-e5df-4a4d-b8a5-fe62ff2271bd",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "90"
+					}
+				}
+			]
+		}
+	]
+}

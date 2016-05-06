@@ -1,0 +1,40 @@
+{
+	"producer": {
+		"name": "Axesse Eurl",
+		"url": "./output/wings/logo/Axesse Eurl.png",
+		"uuid": "42d88322-097f-4019-b4f5-9c0e8903b382"
+	},
+	"wings": [
+		{
+			"name": "Zunzun",
+			"uuid": "601b3158-4494-4556-b8c6-00f8d1c28b4a",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "19",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "140"
+					}
+				}
+			]
+		}
+	]
+}

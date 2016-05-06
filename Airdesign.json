@@ -1,0 +1,413 @@
+{
+	"producer": {
+		"name": "Airdesign",
+		"url": "./output/wings/logo/Airdesign.png",
+		"uuid": "a405ace9-8b45-4e61-9d06-c8b6dbd335bf"
+	},
+	"wings": [
+		{
+			"name": "VOLT",
+			"uuid": "d2420a34-e2aa-47bd-a2eb-b94aa580f589",
+			"year": "2012",
+			"url": "http://ad-gliders.com/en/product/paragliders/volt",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "59",
+						"areaFlat": "23.07",
+						"spanFlat": "11.96",
+						"ratioFlat": "6.2",
+						"areaProj": "19.59",
+						"spanProj": "9.36",
+						"ratioProj": "4.47",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Dokdo 30DMF 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105",
+						"weight": "6.3"
+					},
+					"area": {
+						"cells": "59",
+						"areaFlat": "26.39",
+						"spanFlat": "12.79",
+						"ratioFlat": "6.2",
+						"areaProj": "22.41",
+						"spanProj": "10.01",
+						"ratioProj": "4.47",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Dokdo 30DMF 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125",
+						"weight": "6.6"
+					},
+					"area": {
+						"cells": "59",
+						"areaFlat": "28.57",
+						"spanFlat": "13.31",
+						"ratioFlat": "6.2",
+						"areaProj": "24.26",
+						"spanProj": "10.42",
+						"ratioProj": "4.47",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Dokdo 30DMF 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "37"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fox",
+			"uuid": "6654729d-448e-40eb-be20-1d5800e9dab7",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "11",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "13",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pure",
+			"uuid": "625d9955-9132-4c39-8366-befa4d21d3c4",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pure Race",
+			"uuid": "ad7f2a77-e50e-475d-b0ca-74ea807038bb",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ride",
+			"uuid": "166f43e0-8f40-4582-8b87-ae6fa1affd14",
+			"year": "2013",
+			"url": "http://ad-gliders.com/en/product/paragliders/ride/ride-tech-en",
+			"subwing": [
+				{
+					"size": "41",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220",
+						"weight": "8.6"
+					},
+					"area": {
+						"cells": "48",
+						"areaFlat": "41.55",
+						"spanFlat": "14.7",
+						"ratioFlat": "5.21",
+						"areaProj": "35.19",
+						"spanProj": "11.55",
+						"ratioProj": "3.79",
+						"upperSurface": "Dominico 30D (40g) ",
+						"underSurface": "Dominico 30D "
+					},
+					"properties": {
+						"risers": "5",
+						"maxSpeed": "45",
+						"trimSpeed": "39"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rise 2",
+			"uuid": "29fcf6c2-7f7a-4b1b-974b-d58315fe5f3d",
+			"year": "2014",
+			"url": "http://ad-gliders.com/en/products/gliders/rise-2-ltf-en-b#57987",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75",
+						"weight": "4.8"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "5.2"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "5.6"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125",
+						"weight": "5.9"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "145",
+						"weight": "6.3"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rise",
+			"uuid": "9493e887-78c7-4e71-a603-a39cbc8183dd",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "145"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Susi",
+			"uuid": "a335f371-8845-4162-8cbc-edd4e20626ec",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vita",
+			"uuid": "38e4397c-cd65-4467-bb00-20759d341a57",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "",
+			"uuid": "b2d4090f-e9a7-4d5b-a074-f54c3eac04f0",
+			"year": "2012",
+			"url": "http://ad-gliders.com/en/product/paragliders/volt",
+			"subwing": [
+				{
+					"size": "S/M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95",
+						"weight": "6"
+					},
+					"area": {
+						"cells": "59",
+						"areaFlat": "24.79",
+						"spanFlat": "12.4",
+						"ratioFlat": "6.2",
+						"areaProj": "21.05",
+						"spanProj": "9.71",
+						"ratioProj": "4.47",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Dokdo 30DMF 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "37"
+					}
+				}
+			]
+		}
+	]
+}

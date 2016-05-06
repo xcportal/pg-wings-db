@@ -1,0 +1,1425 @@
+{
+	"producer": {
+		"name": "Sky Paragliders",
+		"url": "./output/wings/logo/Sky Paragliders.png",
+		"uuid": "96de71fb-8e10-40f4-9927-8aad3fea5905"
+	},
+	"wings": [
+		{
+			"name": "Anakis 2",
+			"uuid": "cd25ee69-26c5-42f7-94b7-e6e42b7a9962",
+			"year": "2012",
+			"url": "http://en.sky-cz.com/products/gliders/anakis-2",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "58",
+						"weightMax": "80",
+						"weight": "4.2"
+					},
+					"area": {
+						"cells": "46",
+						"areaFlat": "23.2",
+						"spanFlat": "10.72",
+						"ratioFlat": "4.95",
+						"areaProj": "20.57",
+						"spanProj": "8.86",
+						"ratioProj": "3.82",
+						"upperSurface": "Dokdo N20DMF 35 g/m²",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"bestGlideRatio": "8.5",
+						"minSpeed": "23",
+						"maxSpeed": "50",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "73",
+						"weightMax": "95",
+						"weight": "4.45"
+					},
+					"area": {
+						"cells": "46",
+						"areaFlat": "25.1",
+						"spanFlat": "11.15",
+						"ratioFlat": "4.95",
+						"areaProj": "22.25",
+						"spanProj": "9.22",
+						"ratioProj": "3.82",
+						"upperSurface": "Dokdo N20DMF 35 g/m²",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"bestGlideRatio": "8.5",
+						"minSpeed": "23",
+						"maxSpeed": "50",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "88",
+						"weightMax": "110",
+						"weight": "4.7"
+					},
+					"area": {
+						"cells": "46",
+						"areaFlat": "26.8",
+						"spanFlat": "11.52",
+						"ratioFlat": "4.95",
+						"areaProj": "23.77",
+						"spanProj": "9.52",
+						"ratioProj": "3.82",
+						"upperSurface": "Dokdo N20DMF 35 g/m²",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"bestGlideRatio": "8.5",
+						"minSpeed": "23",
+						"maxSpeed": "50",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "103",
+						"weightMax": "130",
+						"weight": "4.95"
+					},
+					"area": {
+						"cells": "46",
+						"areaFlat": "29",
+						"spanFlat": "11.98",
+						"ratioFlat": "4.95",
+						"areaProj": "25.71",
+						"spanProj": "9.9",
+						"ratioProj": "3.82",
+						"upperSurface": "Dokdo N20DMF 35 g/m²",
+						"underSurface": "Dokdo N20DMF 35 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "Yes",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"bestGlideRatio": "8.5",
+						"minSpeed": "23",
+						"maxSpeed": "50",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "XXS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "48",
+						"weightMax": "70",
+						"weight": "3.8"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "20.71",
+						"spanFlat": "10.47",
+						"ratioFlat": "5.3",
+						"areaProj": "17.4",
+						"spanProj": "8.08",
+						"ratioProj": "3.75",
+						"upperSurface": "Aerofabríx 32 g/m² ",
+						"underSurface": "Dokdo 10DMF 28 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "no",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "4.1"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "23.3",
+						"spanFlat": "11.11",
+						"ratioFlat": "5.3",
+						"areaProj": "19.6",
+						"spanProj": "8.57",
+						"ratioProj": "3.75",
+						"upperSurface": "Aerofabríx 32 g/m² ",
+						"underSurface": "Dokdo 10DMF 28 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "no",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "4.5"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "26.2",
+						"spanFlat": "11.77",
+						"ratioFlat": "5.3",
+						"areaProj": "22",
+						"spanProj": "9.09",
+						"ratioProj": "3.75",
+						"upperSurface": "Aerofabríx 32 g/m² ",
+						"underSurface": "Dokdo 10DMF 28 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "no",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "4.9"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "28.8",
+						"spanFlat": "12.35",
+						"ratioFlat": "5.3",
+						"areaProj": "24.2",
+						"spanProj": "9.53",
+						"ratioProj": "3.75",
+						"upperSurface": "Aerofabríx 32 g/m² ",
+						"underSurface": "Dokdo 10DMF 28 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "no",
+						"risers": "3",
+						"earsBLines": true
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "31",
+						"spanFlat": "12.8",
+						"ratioFlat": "5.3",
+						"areaProj": "26",
+						"spanProj": "9.88",
+						"ratioProj": "3.75",
+						"upperSurface": "Aerofabríx 32 g/m² ",
+						"underSurface": "Dokdo 10DMF 28 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "no",
+						"risers": "3",
+						"earsBLines": true
+					}
+				}
+			]
+		},
+		{
+			"name": "Anakis",
+			"uuid": "e2e89094-967f-42e3-b509-16c025af2f9e",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Antea 2",
+			"uuid": "ec06a9a1-5d5a-46db-9b9e-5939efade5ea",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Antea",
+			"uuid": "79cf0798-f6ce-4d7f-9277-71b37a212ee1",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ares 2",
+			"uuid": "4092a60f-9ff5-4d00-bf47-e8bc9c618944",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ares",
+			"uuid": "392723e2-4960-494a-bbcf-52830322f8f9",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Atis 2",
+			"uuid": "1c22c747-543b-4064-b1c1-6b6f52708dde",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "Fs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Atis 3",
+			"uuid": "2c47fe4b-9803-452d-8525-119cba85649d",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "112"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "73",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "102",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Atis 4",
+			"uuid": "219cd079-0e67-4f87-aff5-b7c0f8b3c282",
+			"year": "2013",
+			"url": "http://en.sky-cz.com/products/gliders/atis-4",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "4.6"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "23.02",
+						"spanFlat": "10.94",
+						"ratioFlat": "5.2",
+						"areaProj": "20.43",
+						"spanProj": "9.07",
+						"ratioProj": "4.03",
+						"upperSurface": "Dokdo N30DFM 38 g/m²",
+						"underSurface": "Dokdo N20DFM 36 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"bestGlideRatio": "9",
+						"minSpeed": "23",
+						"maxSpeed": "53",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "73",
+						"weightMax": "95",
+						"weight": "4.8"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "24.86",
+						"spanFlat": "11.37",
+						"ratioFlat": "5.2",
+						"areaProj": "22.07",
+						"spanProj": "9.43",
+						"ratioProj": "4.03",
+						"upperSurface": "Dokdo N30DFM 38 g/m²",
+						"underSurface": "Dokdo N20DFM 36 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"bestGlideRatio": "9",
+						"minSpeed": "23",
+						"maxSpeed": "53",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "112",
+						"weight": "5.1"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "26.6",
+						"spanFlat": "11.76",
+						"ratioFlat": "5.2",
+						"areaProj": "23.61",
+						"spanProj": "9.75",
+						"ratioProj": "4.03",
+						"upperSurface": "Dokdo N30DFM 38 g/m²",
+						"underSurface": "Dokdo N20DFM 36 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"bestGlideRatio": "9",
+						"minSpeed": "23",
+						"maxSpeed": "53",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "102",
+						"weightMax": "130",
+						"weight": "5.4"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "28.73",
+						"spanFlat": "12.22",
+						"ratioFlat": "5.2",
+						"areaProj": "25.5",
+						"spanProj": "10.14",
+						"ratioProj": "4.03",
+						"upperSurface": "Dokdo N30DFM 38 g/m²",
+						"underSurface": "Dokdo N20DFM 36 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 17cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"bestGlideRatio": "9",
+						"minSpeed": "23",
+						"maxSpeed": "53",
+						"trimSpeed": "37"
+					}
+				}
+			]
+		},
+		{
+			"name": "Atis",
+			"uuid": "0df2cacf-6cf0-44ab-a502-a7d80069e3d8",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "Acro",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Brontes 2",
+			"uuid": "639f6840-148f-4f76-8284-2c67d281e401",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "117"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "74",
+						"weightMax": "96"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "78"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Brontes",
+			"uuid": "cd8f6017-9be4-4e63-b329-1bde42b04c99",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cima",
+			"uuid": "9e9fa6c9-8c53-4469-b630-615542a2cf47",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "91",
+						"weightMax": "118"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "77",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "73"
+					}
+				}
+			]
+		},
+		{
+			"name": "Eos",
+			"uuid": "7bb2c0f6-6e80-4180-9eff-b699f22f0a52",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "68",
+						"weightMax": "83"
+					}
+				},
+				{
+					"size": "XS-S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "73",
+						"weightMax": "88"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "78",
+						"weightMax": "93"
+					}
+				},
+				{
+					"size": "S-M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "83",
+						"weightMax": "98"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "88",
+						"weightMax": "103"
+					}
+				},
+				{
+					"size": "M-L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "93",
+						"weightMax": "108"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "98",
+						"weightMax": "113"
+					}
+				},
+				{
+					"size": "L-XL",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "103",
+						"weightMax": "118"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "108",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Eris 2",
+			"uuid": "883045dd-feb1-43b7-8a7b-291fa70ba522",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Eris 3",
+			"uuid": "f4af449e-e99b-4a01-afb7-fecbc8746795",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Eris 4",
+			"uuid": "747bc1b2-4311-4b9a-9834-3564c70c9c5d",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "L-xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "M-l",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "S-m",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Eris",
+			"uuid": "ba634311-d6c9-4901-8ff4-927c3338c496",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fides 2 Evo",
+			"uuid": "6894292d-e488-4769-a4b2-683d0a1f3288",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "69",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "56",
+						"weightMax": "74"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "48",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fides 2",
+			"uuid": "aa12d312-f6e0-4a93-8360-0310de085ce9",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "69",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "56",
+						"weightMax": "74"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "48",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fides 3",
+			"uuid": "522da156-fd41-4206-bd8e-1c6363406eab",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "88",
+						"weightMax": "112"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "73",
+						"weightMax": "97"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "58",
+						"weightMax": "82"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "102",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fides 4",
+			"uuid": "4cb6a853-0415-4d3a-a671-e1107b4c291d",
+			"year": "2012",
+			"url": "http://en.sky-cz.com/products/gliders/fides-4",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "58",
+						"weightMax": "82",
+						"weight": "4.2"
+					},
+					"area": {
+						"cells": "38",
+						"areaFlat": "23.11",
+						"spanFlat": "10.42",
+						"ratioFlat": "4.7",
+						"areaProj": "20.51",
+						"spanProj": "8.27",
+						"ratioProj": "3.33",
+						"upperSurface": "S9017-E25 38 g/m² ",
+						"underSurface": "S9017-E25 38 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"minSpeed": "22",
+						"maxSpeed": "47",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "73",
+						"weightMax": "97",
+						"weight": "4.4"
+					},
+					"area": {
+						"cells": "38",
+						"areaFlat": "25",
+						"spanFlat": "10.84",
+						"ratioFlat": "4.7",
+						"areaProj": "22.19",
+						"spanProj": "8.6",
+						"ratioProj": "3.33",
+						"upperSurface": "S9017-E25 38 g/m² ",
+						"underSurface": "S9017-E25 38 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"minSpeed": "22",
+						"maxSpeed": "47",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "88",
+						"weightMax": "112",
+						"weight": "4.7"
+					},
+					"area": {
+						"cells": "38",
+						"areaFlat": "26.91",
+						"spanFlat": "11.25",
+						"ratioFlat": "4.7",
+						"areaProj": "23.89",
+						"spanProj": "8.92",
+						"ratioProj": "3.33",
+						"upperSurface": "S9017-E25 38 g/m² ",
+						"underSurface": "S9017-E25 38 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"minSpeed": "22",
+						"maxSpeed": "47",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "102",
+						"weightMax": "130",
+						"weight": "5"
+					},
+					"area": {
+						"cells": "38",
+						"areaFlat": "29.11",
+						"spanFlat": "11.7",
+						"ratioFlat": "4.7",
+						"areaProj": "25.84",
+						"spanProj": "9.28",
+						"ratioProj": "3.33",
+						"upperSurface": "S9017-E25 38 g/m² ",
+						"underSurface": "S9017-E25 38 g/m² "
+					},
+					"properties": {
+						"acceleration": "Yes, 16cm",
+						"trims": "No",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"minSpeed": "22",
+						"maxSpeed": "47",
+						"trimSpeed": "37"
+					}
+				}
+			]
+		},
+		{
+			"name": "Gaia",
+			"uuid": "a45053f7-f855-4f50-b442-6488c6bfaea3",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "107"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "68",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "58",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "98",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Metis",
+			"uuid": "fc97eac3-2325-4af1-bbdf-5cc5552bd4e9",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "Metis 2",
+			"uuid": "d2d70924-6eb0-4243-aa48-b9e226acc59c",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "40",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "220"
+					}
+				},
+				{
+					"size": "43",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "220"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"producer": {
+		"name": "Air'g Products",
+		"url": "./output/wings/logo/Air'g Products.png",
+		"uuid": "d1ff16af-3751-4482-b8d4-59ae2fa501ef"
+	},
+	"wings": [
+		{
+			"name": "Emilie",
+			"uuid": "9a29df08-be24-41dc-a983-7fb3cda96f27",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Speedfire",
+			"uuid": "6b22b54b-d150-4b16-a2dd-69cf5ecbe1e6",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "14",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "8",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		}
+	]
+}

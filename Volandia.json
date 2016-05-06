@@ -1,0 +1,31 @@
+{
+	"producer": {
+		"name": "Volandia",
+		"uuid": "851c0ee4-e4af-494d-88c8-e64b114192eb"
+	},
+	"wings": [
+		{
+			"name": "Imperator",
+			"uuid": "bf929bcd-c017-4254-9e12-7bdf4a594552",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "180"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "170",
+						"weightMax": "230"
+					}
+				}
+			]
+		}
+	]
+}

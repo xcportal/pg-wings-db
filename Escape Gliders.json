@@ -1,0 +1,430 @@
+{
+	"producer": {
+		"name": "Escape Gliders",
+		"url": "./output/wings/logo/Escape Gliders.png",
+		"uuid": "039c5243-7cbb-4db8-9db0-db63678b59d1"
+	},
+	"wings": [
+		{
+			"name": "S'cool",
+			"uuid": "719e6c40-2a59-4c5f-9668-bb943ab2985c",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "S'lide",
+			"uuid": "dc27f2d8-7e7f-42cc-a7b4-96a79bebaf96",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "14",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "S'max",
+			"uuid": "4c2abd16-cc31-4bfc-b6e1-dc3934b5dbe8",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "92",
+						"weightMax": "107"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "S'max R",
+			"uuid": "45f4ca82-3eb1-4f18-a011-ab41960bf0d7",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "96",
+						"weightMax": "106"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "102",
+						"weightMax": "112"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "107",
+						"weightMax": "117"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "112",
+						"weightMax": "122"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "117",
+						"weightMax": "127"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "122",
+						"weightMax": "132"
+					}
+				}
+			]
+		},
+		{
+			"name": "S'mile",
+			"uuid": "95791ee2-9203-44b8-bda6-8124cdfd7f82",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "42",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "S'pace",
+			"uuid": "97dc6b5b-aab9-4b21-8e44-17e1facd9817",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "65"
+					}
+				}
+			]
+		},
+		{
+			"name": "S'tream",
+			"uuid": "6b1c3419-ae13-42af-ad52-698897bea5cb",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "S'witch",
+			"uuid": "9e7c5ef3-10f9-412e-a1d6-cca58de0708e",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "S21",
+			"uuid": "b63361a0-8169-4d71-bd7a-f289bb9b74ca",
+			"year": "2013",
+			"url": "http://www.escape-gliders.com/index.php?option=com_content&view=article&id=2&Itemid=584&lang=en",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "65",
+						"weight": "5.5"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "21.2",
+						"spanFlat": "10.65",
+						"ratioFlat": "5.3",
+						"areaProj": "18.23",
+						"spanProj": "8.5",
+						"ratioProj": "3.97"
+					},
+					"properties": {
+						"risers": "4",
+						"bestSinkRate": "1",
+						"bestGlideRatio": "8.9",
+						"maxSpeed": "50",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "23.85",
+						"spanFlat": "11.3",
+						"ratioFlat": "5.3",
+						"areaProj": "20.51",
+						"spanProj": "9",
+						"ratioProj": "3.97"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1",
+						"bestGlideRatio": "8.9",
+						"maxSpeed": "50",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "26.5",
+						"spanFlat": "11.91",
+						"ratioFlat": "5.3",
+						"areaProj": "22.79",
+						"spanProj": "9.5",
+						"ratioProj": "3.97"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1",
+						"bestGlideRatio": "8.9",
+						"maxSpeed": "50",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125",
+						"weight": "6.4"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "29.2",
+						"spanFlat": "12.5",
+						"ratioFlat": "5.3",
+						"areaProj": "25.07",
+						"spanProj": "9.98",
+						"ratioProj": "3.97"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1",
+						"bestGlideRatio": "8.9",
+						"maxSpeed": "50",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "140",
+						"weight": "6.7"
+					},
+					"area": {
+						"cells": "52",
+						"areaFlat": "31.8",
+						"spanFlat": "13.04",
+						"ratioFlat": "5.3",
+						"areaProj": "27.34",
+						"spanProj": "10.42",
+						"ratioProj": "3.97"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1",
+						"bestGlideRatio": "8.9",
+						"maxSpeed": "50",
+						"trimSpeed": "37"
+					}
+				}
+			]
+		}
+	]
+}

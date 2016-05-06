@@ -1,0 +1,39 @@
+{
+	"producer": {
+		"name": "Jld-cage",
+		"uuid": "97a66072-7f6f-462a-82cf-3170717bf6d5"
+	},
+	"wings": [
+		{
+			"name": "Paradigme 3",
+			"uuid": "2f4512c1-379c-42a3-955e-d844bb18a884",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "30",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "33",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				}
+			]
+		}
+	]
+}

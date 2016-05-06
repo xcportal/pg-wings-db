@@ -1,0 +1,601 @@
+{
+	"producer": {
+		"name": "Pro-design",
+		"url": "./output/wings/logo/Pro-design.png",
+		"uuid": "f2ef6faf-d60c-4feb-9101-1006cd1b2e40"
+	},
+	"wings": [
+		{
+			"name": "Accura",
+			"uuid": "744731f9-fabd-4b3e-b3e1-dc16549be77e",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "100",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "55",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "70",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "85",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Accura 2",
+			"uuid": "c509d69e-e522-4d77-b05c-98336d347311",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "105",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "60",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "75",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "90",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Amiga",
+			"uuid": "0d21603e-b151-4678-a935-cce18a7ae6cc",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Aquila",
+			"uuid": "ef9c291d-f409-480c-8880-668eddc835a6",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "58",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "58",
+						"weightMax": "72"
+					}
+				},
+				{
+					"size": "68",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "68",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "81",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "81",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "96",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "96",
+						"weightMax": "118"
+					}
+				}
+			]
+		},
+		{
+			"name": "Burst",
+			"uuid": "059c6548-501e-4048-9cc3-bcae59bf0042",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "80",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Cuga",
+			"uuid": "e6b82e88-23a2-470d-a53b-767ed2cc01c2",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "105",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "60",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "75",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "90",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Effect 2",
+			"uuid": "3cf6426c-75bb-45fa-aaab-6bd709f8a613",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Jalpa",
+			"uuid": "bbfe50fc-759d-48d1-8b6a-798a6d834c47",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "105",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "60",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "75",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "90",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Jalpa 2",
+			"uuid": "b6fc8293-fd60-4071-abc9-8dcb6971c9c8",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "100",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "65",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "80",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Lamna",
+			"uuid": "ad6d4071-130d-4697-8ca7-1c0b25e49e3e",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "17",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pro-design Thesis",
+			"uuid": "4d01f814-f96c-4843-92c0-91c010807f35",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "100",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "60",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "80",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pro-design Titan",
+			"uuid": "c3287609-224b-497a-a296-8233ce890935",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pro-ject C",
+			"uuid": "0c2cccfd-3bcd-4333-bccb-5bf8b61580f7",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Red Joe",
+			"uuid": "5f05e684-33d3-40d0-b359-c16f36712a7e",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "115"
+					}
+				}
+			]
+		},
+		{
+			"name": "Thema",
+			"uuid": "57721e87-6b5f-42a4-a21e-2ca250c3ac34",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "105",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "60",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "75",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "90",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				}
+			]
+		},
+		{
+			"name": "Thema 2",
+			"uuid": "c69d6f5e-380c-4582-b9b2-07b6da026f56",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "65",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "80",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "95",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Thema 3",
+			"uuid": "4785309c-22de-4d2a-87bd-a95b1968f22d",
+			"year": "2012",
+			"url": "http://www.pro-design.at/index.php?option=com_content&view=article&id=31%3Athema-3-performance-intermediate&catid=8%3Athema-3&Itemid=19&lang=en",
+			"subwing": [
+				{
+					"size": "60",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "5"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "22.93",
+						"spanFlat": "11.02",
+						"ratioFlat": "5.3",
+						"areaProj": "20.36",
+						"spanProj": "9.14",
+						"ratioProj": "4.1"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"minSpeed": "23",
+						"maxSpeed": "52"
+					}
+				},
+				{
+					"size": "75",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.2"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "24.75",
+						"spanFlat": "11.45",
+						"ratioFlat": "5.3",
+						"areaProj": "21.98",
+						"spanProj": "9.49",
+						"ratioProj": "4.1"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"minSpeed": "23",
+						"maxSpeed": "52"
+					}
+				},
+				{
+					"size": "90",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "5.5"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "26.39",
+						"spanFlat": "11.82",
+						"ratioFlat": "5.3",
+						"areaProj": "23.44",
+						"spanProj": "9.8",
+						"ratioProj": "4.1"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"minSpeed": "23",
+						"maxSpeed": "52"
+					}
+				},
+				{
+					"size": "105",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "28.48",
+						"spanFlat": "12.29",
+						"ratioFlat": "5.3",
+						"areaProj": "25.3",
+						"spanProj": "10.19",
+						"ratioProj": "4.1"
+					},
+					"properties": {
+						"acceleration": "Yes, 15cm",
+						"trims": "No",
+						"minSpeed": "23",
+						"maxSpeed": "52"
+					}
+				}
+			]
+		}
+	]
+}

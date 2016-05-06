@@ -1,0 +1,126 @@
+{
+	"producer": {
+		"name": "Raul Rodriguez Acro Wings",
+		"url": "./output/wings/logo/Raul Rodriguez Acro Wings.png",
+		"uuid": "3bfde86c-4371-489f-be7e-d5b919c81d38"
+	},
+	"wings": [
+		{
+			"name": "Matrix",
+			"uuid": "ea23f0ad-fd4e-4a8a-9279-a6cca20c752b",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "14",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Radix",
+			"uuid": "4f5343de-0dc9-4524-a713-cf8ff677092c",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "19.5",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "21",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rolling",
+			"uuid": "1dd9ea51-3ed4-451b-8c24-08f14835cf87",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "120"
+					}
+				}
+			]
+		}
+	]
+}

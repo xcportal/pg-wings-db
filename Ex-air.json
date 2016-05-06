@@ -1,0 +1,109 @@
+{
+	"producer": {
+		"name": "Ex-air",
+		"uuid": "55496efa-f76b-41fd-a797-845c35ec377b"
+	},
+	"wings": [
+		{
+			"name": "Aries",
+			"uuid": "c142797d-7df5-4753-a5f6-f031c1cd84c3",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "23",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "89"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "78",
+						"weightMax": "106"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "96",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ex-v",
+			"uuid": "ce25ea05-7d23-4ebf-b994-f9c8c4f5177a",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "29",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Leo Gt",
+			"uuid": "ea6381d3-a073-4ca8-a515-4facb4bfb8f4",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		}
+	]
+}

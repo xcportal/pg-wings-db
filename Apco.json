@@ -1,0 +1,853 @@
+{
+	"producer": {
+		"name": "Apco",
+		"url": "./output/wings/logo/Apco.png",
+		"uuid": "b4742e9b-2ddb-4d41-be48-a29681ae3c77"
+	},
+	"wings": [
+		{
+			"name": "Apco Lift",
+			"uuid": "a19b925d-5183-4547-bb85-64eb478e1571",
+			"year": "2012",
+			"url": "http://www.apcoaviation.com/products.asp?section=paragliders&product=lift",
+			"subwing": [
+				{
+					"size": "40",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "100",
+						"weight": "5.9"
+					},
+					"area": {
+						"cells": "40",
+						"areaFlat": "26.17",
+						"spanFlat": "11.28",
+						"ratioFlat": "4.86",
+						"areaProj": "23.18",
+						"spanProj": "9.43",
+						"ratioProj": "3.83",
+						"upperSurface": "Gelvenor 42 g/m² ",
+						"underSurface": "Gelvenor 42 g/m² "
+					},
+					"properties": {
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "21",
+						"maxSpeed": "62",
+						"trimSpeed": "50"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "120",
+						"weight": "6.5"
+					},
+					"area": {
+						"cells": "40",
+						"areaFlat": "28",
+						"spanFlat": "11.93",
+						"ratioFlat": "4.86",
+						"areaProj": "24.8",
+						"spanProj": "9.97",
+						"ratioProj": "3.83",
+						"upperSurface": "Gelvenor 42 g/m² ",
+						"underSurface": "Gelvenor 42 g/m² "
+					},
+					"properties": {
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "21",
+						"maxSpeed": "62",
+						"trimSpeed": "50"
+					}
+				},
+				{
+					"size": "44",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140",
+						"weight": "7.1"
+					},
+					"area": {
+						"cells": "40",
+						"areaFlat": "29.82",
+						"spanFlat": "12.58",
+						"ratioFlat": "4.86",
+						"areaProj": "26.41",
+						"spanProj": "10.51",
+						"ratioProj": "3.83",
+						"upperSurface": "Gelvenor 42 g/m² ",
+						"underSurface": "Gelvenor 42 g/m² "
+					},
+					"properties": {
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"minSpeed": "21",
+						"maxSpeed": "62",
+						"trimSpeed": "50"
+					}
+				}
+			]
+		},
+		{
+			"name": "Enigma",
+			"uuid": "1780d55c-6b2e-4611-93b1-7e6635bf4ace",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "27",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Force",
+			"uuid": "e6b77abc-b8fd-43bd-9f85-b38b7493b824",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fun  2",
+			"uuid": "9f5e0a53-374f-4e69-8882-efc6972b8281",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "42",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "230"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "230"
+					}
+				}
+			]
+		},
+		{
+			"name": "Fun For 2",
+			"uuid": "dad0e280-de7f-4c44-82de-f252526baeea",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "42",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "230"
+					}
+				}
+			]
+		},
+		{
+			"name": "Karma",
+			"uuid": "39bef7fa-61f4-410e-ac94-b1b688ae1479",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Karma Sport",
+			"uuid": "f83a2200-1326-4f8e-8f45-b5fc88992022",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Keara",
+			"uuid": "fc804728-ea06-4f0a-8dc1-5e0551236711",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "79",
+						"weightMax": "99"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "64",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Lambada",
+			"uuid": "44bc6e10-195e-4890-9c74-e72d69d5e0e2",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Libra",
+			"uuid": "9bc4ee70-1cf8-4c05-8081-925726df516b",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Apvo Aviation NRG",
+			"uuid": "35716baf-7cec-4a94-b3aa-741f34b0efb7",
+			"year": "2013",
+			"url": "http://www.apcoaviation.com/products.asp?section=paragliders&product=nrg",
+			"subwing": [
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "40",
+						"weightMax": "85",
+						"weight": "4"
+					},
+					"area": {
+						"upperSurface": "Nylon 42 g/m?",
+						"underSurface": "Nylon 42 g/m?"
+					}
+				},
+				{
+					"size": "20",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "105",
+						"weight": "4.3"
+					},
+					"area": {
+						"upperSurface": "Nylon 42 g/m?",
+						"underSurface": "Nylon 42 g/m?"
+					}
+				},
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "82",
+						"weightMax": "130",
+						"weight": "4.6"
+					},
+					"area": {
+						"upperSurface": "Nylon 42 g/m?",
+						"underSurface": "Nylon 42 g/m?"
+					}
+				}
+			]
+		},
+		{
+			"name": "Play",
+			"uuid": "6f7e45fc-c640-4b3a-aab0-c062e0e64d07",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "42",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "240"
+					}
+				}
+			]
+		},
+		{
+			"name": "Salsa",
+			"uuid": "dd3ac536-c5f8-4e0d-ac8c-f891333e282e",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tetra",
+			"uuid": "b8ee5f9e-d499-4e55-ad3a-8e0d910cbcde",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Thrust Hp",
+			"uuid": "1ee290bf-0283-4920-9b2f-d411b7f08766",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "165"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "140"
+					}
+				}
+			]
+		},
+		{
+			"name": "Thrust",
+			"uuid": "dc9ccce8-0432-4db2-b7ca-dfa122d8ab11",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "155"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "135"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "180"
+					}
+				}
+			]
+		},
+		{
+			"name": "Twister",
+			"uuid": "07a5984b-abc6-4daa-a8c3-69bfc11563d5",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "16",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "18",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vista 2",
+			"uuid": "0016ea64-82c4-4d64-b3f5-6b88ad02cde6",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vista 3",
+			"uuid": "fc1e049a-6750-4b51-b761-ae199daaa05f",
+			"year": "2014",
+			"url": "http://www.apcoaviation.com/products.asp?section=paragliders&product=vista%20III",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80",
+						"weight": "5.2"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.4"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "5.7"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "6"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vista Hp",
+			"uuid": "f0a36d3f-bdbd-45f1-aed7-948df29e56f5",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Vista",
+			"uuid": "54b22376-ccf6-4ae9-b91f-64ec925927c4",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "200"
+					}
+				}
+			]
+		},
+		{
+			"name": "Zefira",
+			"uuid": "a17bef7a-2d44-4c17-a3bd-5d240daa4924",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95"
+					}
+				}
+			]
+		}
+	]
+}

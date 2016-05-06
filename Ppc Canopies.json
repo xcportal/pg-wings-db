@@ -1,0 +1,39 @@
+{
+	"producer": {
+		"name": "Ppc Canopies",
+		"uuid": "c2c37e39-aaaa-4538-8192-25e5deb01f88"
+	},
+	"wings": [
+		{
+			"name": "Thunderbolt",
+			"uuid": "8d969a30-8ccb-41c7-839a-16fd9cad7420",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "E280",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "E310",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "E340",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		}
+	]
+}

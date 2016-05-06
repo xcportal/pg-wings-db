@@ -1,0 +1,1726 @@
+{
+	"producer": {
+		"name": "Sol Sports",
+		"url": "./output/wings/logo/Sol Sports.png",
+		"uuid": "c7dc9a68-53d8-48f3-9120-2389914760a0"
+	},
+	"wings": [
+		{
+			"name": "Atmus One",
+			"uuid": "bd60fe9b-a0b8-44a5-a938-30daabbe9d0e",
+			"year": "2013",
+			"url": "http://www.solparagliders.com.br/en/index.php?option=com_content&task=view&id=1052&Itemid=76",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "47",
+						"areaFlat": "24.45",
+						"spanFlat": "11.29",
+						"ratioFlat": "5.21",
+						"areaProj": "21.42",
+						"spanProj": "9.24",
+						"ratioProj": "3.99",
+						"upperSurface": "WTX 40 - 40 g/m2 ",
+						"underSurface": "WTX 40 - 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "8.6",
+						"minSpeed": "22",
+						"maxSpeed": "51",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "6.4"
+					},
+					"area": {
+						"cells": "47",
+						"areaFlat": "26",
+						"spanFlat": "11.64",
+						"ratioFlat": "5.21",
+						"areaProj": "22.77",
+						"spanProj": "9.53",
+						"ratioProj": "3.99",
+						"upperSurface": "WTX 40 - 40 g/m2 ",
+						"underSurface": "WTX 40 - 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "8.6",
+						"minSpeed": "22",
+						"maxSpeed": "51",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "6.8"
+					},
+					"area": {
+						"cells": "47",
+						"areaFlat": "27.89",
+						"spanFlat": "12.05",
+						"ratioFlat": "5.21",
+						"areaProj": "24.4",
+						"spanProj": "9.87",
+						"ratioProj": "3.99",
+						"upperSurface": "WTX 40 - 40 g/m2 ",
+						"underSurface": "WTX 40 - 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "8.6",
+						"minSpeed": "22",
+						"maxSpeed": "51",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125",
+						"weight": "7.1"
+					},
+					"area": {
+						"cells": "47",
+						"areaFlat": "30.18",
+						"spanFlat": "12.54",
+						"ratioFlat": "5.21",
+						"areaProj": "26.43",
+						"spanProj": "10.27",
+						"ratioProj": "3.99",
+						"upperSurface": "WTX 40 - 40 g/m2 ",
+						"underSurface": "WTX 40 - 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "8.6",
+						"minSpeed": "22",
+						"maxSpeed": "51",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "XXL",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "140",
+						"weight": "7.6"
+					},
+					"area": {
+						"cells": "47",
+						"areaFlat": "32.35",
+						"spanFlat": "12.99",
+						"ratioFlat": "5.21",
+						"areaProj": "28.34",
+						"spanProj": "10.63",
+						"ratioProj": "3.99",
+						"upperSurface": "WTX 40 - 40 g/m2 ",
+						"underSurface": "WTX 40 - 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 11cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.1",
+						"bestGlideRatio": "8.6",
+						"minSpeed": "22",
+						"maxSpeed": "51",
+						"trimSpeed": "37"
+					}
+				}
+			]
+		},
+		{
+			"name": "Big Boy",
+			"uuid": "403f62fb-8427-45fc-9c75-66f54794a3b5",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "135",
+						"weightMax": "175"
+					}
+				}
+			]
+		},
+		{
+			"name": "Dynamic Ar",
+			"uuid": "0bf626b4-dd6c-47a8-a2b6-c0153cdea5c2",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				}
+			]
+		},
+		{
+			"name": "Dynamic Arf",
+			"uuid": "7e083c20-1e7f-4c39-b0d2-65a121ba56c4",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "107",
+						"weightMax": "122"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "102"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "97",
+						"weightMax": "112"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "67",
+						"weightMax": "82"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "77",
+						"weightMax": "92"
+					}
+				}
+			]
+		},
+		{
+			"name": "Dynamic",
+			"uuid": "529eaed7-b510-4178-be49-633275d6fdb4",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Eclipse 2",
+			"uuid": "fa97e18f-63d3-451d-9346-3c00a03090f0",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Eclipse",
+			"uuid": "aa1dabec-ced9-4aa0-a8dc-a94fdcbbce8b",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ellus 2",
+			"uuid": "a927da48-fc25-4c8d-ad33-52f8a48def3f",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ellus 3",
+			"uuid": "058944a4-c2ac-48ba-9840-5017220093a7",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ellus 4",
+			"uuid": "7f86f12e-64cd-496c-b732-088410f9d2b5",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ellus 5",
+			"uuid": "711b013f-669c-431a-9910-3427f794c1cc",
+			"year": "2014",
+			"url": "http://www.solparagliders.com.br/my-sol-id-ellus-5",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "6.1"
+					},
+					"area": {
+						"areaFlat": "22.65",
+						"spanFlat": "10.98",
+						"ratioFlat": "5.33",
+						"areaProj": "19.67",
+						"spanProj": "8.88",
+						"ratioProj": "4.01",
+						"upperSurface": "WTX 40 - 40 g/m2",
+						"underSurface": "WTX 40 - 40 g/m2"
+					},
+					"properties": {
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "6.3"
+					},
+					"area": {
+						"areaFlat": "24.64",
+						"spanFlat": "11.46",
+						"ratioFlat": "5.33",
+						"areaProj": "21.4",
+						"spanProj": "9.26",
+						"ratioProj": "4.01",
+						"upperSurface": "WTX 40 - 40 g/m2",
+						"underSurface": "WTX 40 - 40 g/m2"
+					},
+					"properties": {
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105",
+						"weight": "6.5"
+					},
+					"area": {
+						"areaFlat": "26.19",
+						"spanFlat": "11.81",
+						"ratioFlat": "5.33",
+						"areaProj": "22.74",
+						"spanProj": "9.55",
+						"ratioProj": "4.01",
+						"upperSurface": "WTX 40 - 40 g/m2",
+						"underSurface": "WTX 40 - 40 g/m2"
+					},
+					"properties": {
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110",
+						"weight": "7"
+					},
+					"area": {
+						"areaFlat": "27.78",
+						"spanFlat": "12.16",
+						"ratioFlat": "5.33",
+						"areaProj": "24.12",
+						"spanProj": "9.84",
+						"ratioProj": "4.01",
+						"upperSurface": "WTX 40 - 40 g/m2",
+						"underSurface": "WTX 40 - 40 g/m2"
+					},
+					"properties": {
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125",
+						"weight": "7.4"
+					},
+					"area": {
+						"areaFlat": "29.98",
+						"spanFlat": "12.64",
+						"ratioFlat": "5.33",
+						"areaProj": "26.04",
+						"spanProj": "10.22",
+						"ratioProj": "4.01",
+						"upperSurface": "WTX 40 - 40 g/m2",
+						"underSurface": "WTX 40 - 40 g/m2"
+					},
+					"properties": {
+						"minSpeed": "24",
+						"maxSpeed": "54",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ellus",
+			"uuid": "5059d1ec-d872-4ea4-b92a-747ded1aa239",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Hoops",
+			"uuid": "2960cd5d-e8fc-46f1-8033-7d954226a8f1",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kangaroo 2",
+			"uuid": "acf38d29-0d1f-47dd-a7e5-1966aab85a27",
+			"year": "2004",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kangaroo 3",
+			"uuid": "924bb653-594d-4af7-bc3f-8225898d4ecf",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kangaroo",
+			"uuid": "21c0a64a-e31d-4ac4-82f1-8205aebb73fa",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "42",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "200"
+					}
+				}
+			]
+		},
+		{
+			"name": "Koala",
+			"uuid": "329c8017-5577-4028-ad8c-8caab7c86760",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "Bi",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kuat",
+			"uuid": "4f48210a-f722-4cf7-a51c-ff97d55b3aff",
+			"year": "2013",
+			"url": "http://www.solparagliders.com.br/en/index.php?option=com_content&task=view&id=1058&Itemid=38",
+			"subwing": [
+				{
+					"size": "38",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "180",
+						"weight": "9.2"
+					},
+					"area": {
+						"areaFlat": "36.62",
+						"spanFlat": "13.91",
+						"ratioFlat": "5.29",
+						"areaProj": "31.9",
+						"spanProj": "11.31",
+						"ratioProj": "4.01",
+						"upperSurface": "Gelv. WTX 40 g/m²",
+						"underSurface": "Gelv. WTX 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "No",
+						"trims": "Yes",
+						"risers": "4",
+						"minSpeed": "23",
+						"maxSpeed": "49"
+					}
+				},
+				{
+					"size": "41",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210",
+						"weight": "9.7"
+					},
+					"area": {
+						"areaFlat": "39.14",
+						"spanFlat": "14.38",
+						"ratioFlat": "5.29",
+						"areaProj": "34.1",
+						"spanProj": "11.69",
+						"ratioProj": "4.01",
+						"upperSurface": "Gelv. WTX 40 g/m²",
+						"underSurface": "Gelv. WTX 40 g/m²"
+					},
+					"properties": {
+						"acceleration": "No",
+						"trims": "Yes",
+						"risers": "4",
+						"minSpeed": "23",
+						"maxSpeed": "49"
+					}
+				}
+			]
+		},
+		{
+			"name": "Lotus",
+			"uuid": "ff0fe9ba-5906-4596-a05a-82ab1e5fa8ad",
+			"year": "2014",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "5.9"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100",
+						"weight": "6.2"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110",
+						"weight": "6.4"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125",
+						"weight": "6.7"
+					}
+				}
+			]
+		},
+		{
+			"name": "Prymus 2",
+			"uuid": "8d4af83b-c716-4823-9714-aa1c0b1dec53",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 1",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Prymus 3",
+			"uuid": "204e20d7-9a38-4ff3-801b-afb8386c8542",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "LTF 1",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "65"
+					}
+				}
+			]
+		},
+		{
+			"name": "Prymus 4",
+			"uuid": "b34cd7c8-0707-4501-b397-c62add29042d",
+			"year": "2013",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90",
+						"weight": "5"
+					},
+					"area": {
+						"areaFlat": "23.41",
+						"spanFlat": "10.99",
+						"ratioFlat": "5.16",
+						"areaProj": "18.41",
+						"spanProj": "8.65",
+						"ratioProj": "4.06"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100",
+						"weight": "5.3"
+					},
+					"area": {
+						"areaFlat": "26.05",
+						"spanFlat": "11.59",
+						"ratioFlat": "5.16",
+						"areaProj": "20.49",
+						"spanProj": "9.12",
+						"ratioProj": "4.06"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110",
+						"weight": "5.7"
+					},
+					"area": {
+						"areaFlat": "28.27",
+						"spanFlat": "12.08",
+						"ratioFlat": "5.16",
+						"areaProj": "22.23",
+						"spanProj": "9.5",
+						"ratioProj": "4.06"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "125",
+						"weight": "6"
+					},
+					"area": {
+						"areaFlat": "30.58",
+						"spanFlat": "12.56",
+						"ratioFlat": "5.16",
+						"areaProj": "24.05",
+						"spanProj": "9.88",
+						"ratioProj": "4.06"
+					}
+				}
+			]
+		},
+		{
+			"name": "Sonic",
+			"uuid": "5170d8cb-f2ad-463a-b912-cba0fd8a2a3b",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "15",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "16",
+					"certificate": "SpeedFlying",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Start",
+			"uuid": "00211fd5-25c5-4505-b1aa-42db333bb89d",
+			"year": "2012",
+			"url": "http://www.solparagliders.com.br/br/content/view/1482/76/",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "95",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "34",
+						"areaFlat": "25.49",
+						"spanFlat": "11.01",
+						"ratioFlat": "4.75",
+						"areaProj": "20.18",
+						"spanProj": "8.7",
+						"ratioProj": "3.76",
+						"upperSurface": "Techtex WTX 40 - 40 g/m2 ",
+						"underSurface": "Techtex WTX 40 - 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.2",
+						"bestGlideRatio": "7.7",
+						"minSpeed": "22",
+						"maxSpeed": "46",
+						"trimSpeed": "36"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "110",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "34",
+						"areaFlat": "28.85",
+						"spanFlat": "11.71",
+						"ratioFlat": "4.75",
+						"areaProj": "22.84",
+						"spanProj": "9.27",
+						"ratioProj": "3.76",
+						"upperSurface": "Techtex WTX 40 - 40 g/m2 ",
+						"underSurface": "Techtex WTX 40 - 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.2",
+						"bestGlideRatio": "7.7",
+						"minSpeed": "22",
+						"maxSpeed": "46",
+						"trimSpeed": "36"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "34",
+						"areaFlat": "31.87",
+						"spanFlat": "12.3",
+						"ratioFlat": "4.75",
+						"areaProj": "25.18",
+						"spanProj": "9.73",
+						"ratioProj": "3.76",
+						"upperSurface": "Techtex WTX 40 - 40 g/m2 ",
+						"underSurface": "Techtex WTX 40 - 40 g/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.2",
+						"bestGlideRatio": "7.7",
+						"minSpeed": "22",
+						"maxSpeed": "46",
+						"trimSpeed": "36"
+					}
+				}
+			]
+		},
+		{
+			"name": "Super Sonic",
+			"uuid": "a4f79126-c39b-48f6-8ce6-711755ffec98",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "101",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "97",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "99",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Supersonic 2011",
+			"uuid": "55cb0e07-7871-4274-a56d-24769f3815d2",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "101",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "107",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "112",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "120",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "130",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "150",
+						"weightMax": "180"
+					}
+				},
+				{
+					"size": "97",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "99",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Synergy 2",
+			"uuid": "13f532f9-ae6c-4cff-bfa8-acc117b80ace",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Synergy 3",
+			"uuid": "654f5092-72b4-4a84-8988-d90fa5369c6f",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Synergy 4",
+			"uuid": "175b4371-423d-4998-a126-c7c8e5319e90",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Synergy 5",
+			"uuid": "0243d082-860b-450b-9f6d-490e5b8507f2",
+			"year": "2012",
+			"url": "http://www.solparagliders.com.br/en/index.php?option=com_content&task=view&id=1034&Itemid=38",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "61",
+						"areaFlat": "23.79",
+						"spanFlat": "11.89",
+						"ratioFlat": "5.95",
+						"areaProj": "20.51",
+						"spanProj": "9.49",
+						"ratioProj": "4.4",
+						"upperSurface": "WTX 40 gr/m2 ",
+						"underSurface": "WTX 40 gr/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10.2",
+						"maxChord": "2.52",
+						"minSpeed": "23",
+						"maxSpeed": "58",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "61",
+						"areaFlat": "25.28",
+						"spanFlat": "12.26",
+						"ratioFlat": "5.95",
+						"areaProj": "21.8",
+						"spanProj": "9.78",
+						"ratioProj": "4.4",
+						"upperSurface": "WTX 40 gr/m2 ",
+						"underSurface": "WTX 40 gr/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10.2",
+						"maxChord": "2.52",
+						"minSpeed": "23",
+						"maxSpeed": "58",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110",
+						"weight": "6.4"
+					},
+					"area": {
+						"cells": "61",
+						"areaFlat": "26.82",
+						"spanFlat": "12.63",
+						"ratioFlat": "5.95",
+						"areaProj": "23.13",
+						"spanProj": "10.07",
+						"ratioProj": "4.4",
+						"upperSurface": "WTX 40 gr/m2 ",
+						"underSurface": "WTX 40 gr/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10.2",
+						"maxChord": "2.52",
+						"minSpeed": "23",
+						"maxSpeed": "58",
+						"trimSpeed": "38"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125",
+						"weight": "6.7"
+					},
+					"area": {
+						"cells": "61",
+						"areaFlat": "29.05",
+						"spanFlat": "13.14",
+						"ratioFlat": "5.95",
+						"areaProj": "25.05",
+						"spanProj": "10.48",
+						"ratioProj": "4.4",
+						"upperSurface": "WTX 40 gr/m2 ",
+						"underSurface": "WTX 40 gr/m2 "
+					},
+					"properties": {
+						"acceleration": "Yes, 12cm",
+						"trims": "Yes",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"bestGlideRatio": "10.2",
+						"maxChord": "2.52",
+						"minSpeed": "23",
+						"maxSpeed": "58",
+						"trimSpeed": "38"
+					}
+				}
+			]
+		},
+		{
+			"name": "Synergy",
+			"uuid": "b96c3911-6f93-4c5c-8b9a-2239655b9b1f",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Torck 2",
+			"uuid": "b26ae846-0410-4027-89e2-22e2fe930c16",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Torck",
+			"uuid": "897b2321-d52d-47a7-a35f-176e294de78d",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "LTF 2-3",
+					"weight": {
+						"weightMin": "92",
+						"weightMax": "112"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "LTF 2-3",
+					"weight": {
+						"weightMin": "78",
+						"weightMax": "98"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "LTF 2-3",
+					"weight": {
+						"weightMin": "66",
+						"weightMax": "86"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "LTF 2-3",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tracer 2008",
+			"uuid": "56db854a-5789-47ce-a0ec-84fe2678668d",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "113",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "106"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "106",
+						"weightMax": "113"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "93",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tracer",
+			"uuid": "385a593d-a2f2-494b-91b8-2c7a1b04500e",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "114",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "96",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Ml",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "78",
+						"weightMax": "82"
+					}
+				},
+				{
+					"size": "Sm",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "86",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "122",
+						"weightMax": "128"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tracer Tr2",
+			"uuid": "8a36fb9d-16fe-4fa8-9d92-12c17d80e0e7",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "108",
+						"weightMax": "112"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "104"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "92",
+						"weightMax": "96"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "118",
+						"weightMax": "122"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,1103 @@
+{
+	"producer": {
+		"name": "Air Cross",
+		"url": "./output/wings/logo/Air Cross.png",
+		"uuid": "53b4cd6b-7e0b-45cc-b718-5d44731d6dc9"
+	},
+	"wings": [
+		{
+			"name": "Artica",
+			"uuid": "01eab3a5-4d04-4a02-b75d-ac035ef27822",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pelerin",
+			"uuid": "a197a111-6022-4f13-9cff-f27101fc8124",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Tamalou",
+			"uuid": "d8944228-d1ff-4df2-9f47-e219bbe92305",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "92",
+						"weightMax": "106"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "86",
+						"weightMax": "99"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "81",
+						"weightMax": "93"
+					}
+				}
+			]
+		},
+		{
+			"name": "Trialp",
+			"uuid": "962d9a7a-0189-4028-93bb-2f0d319e1ac2",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "U Cross",
+			"uuid": "ae7f222c-837a-4490-a635-1de2b46c823c",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "U Fly",
+			"uuid": "473c17ce-d2d9-4e0c-aaf1-5599384c106d",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "U Fly 2",
+			"uuid": "370db597-299d-4fbe-b14c-3faf6cb75e3e",
+			"year": "2013",
+			"url": "http://www.aircross.eu/net/u-fly-2-enltf-b/?lang=en",
+			"subwing": [
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "5.2"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "22.8",
+						"spanFlat": "10.9",
+						"ratioFlat": "5.2",
+						"areaProj": "20.43",
+						"spanProj": "9.23",
+						"ratioProj": "4.16"
+					},
+					"properties": {
+						"maxSpeed": "52",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "5.4"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "24.7",
+						"spanFlat": "11.4",
+						"ratioFlat": "5.2",
+						"areaProj": "22.12",
+						"spanProj": "9.58",
+						"ratioProj": "4.16"
+					},
+					"properties": {
+						"maxSpeed": "52",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "110",
+						"weight": "5.6"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "26.3",
+						"spanFlat": "11.7",
+						"ratioFlat": "5.2",
+						"areaProj": "23.58",
+						"spanProj": "9.89",
+						"ratioProj": "4.16"
+					},
+					"properties": {
+						"maxSpeed": "52",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "5.8"
+					},
+					"area": {
+						"cells": "53",
+						"areaFlat": "28.4",
+						"spanFlat": "12.2",
+						"ratioFlat": "5.2",
+						"areaProj": "25.58",
+						"spanProj": "10.29",
+						"ratioProj": "4.16"
+					},
+					"properties": {
+						"maxSpeed": "52",
+						"trimSpeed": "37"
+					}
+				}
+			]
+		},
+		{
+			"name": "U Fun",
+			"uuid": "0bd03d07-2a6c-4894-800f-b6593c280b3e",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "U Prime",
+			"uuid": "61025279-c047-4f83-9fb0-55630d797818",
+			"year": "2013",
+			"url": "http://www.aircross.eu/web/?page_id=2355&lang=en",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "45",
+						"weightMax": "60",
+						"weight": "4.1"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "21.51",
+						"spanFlat": "10.6",
+						"ratioFlat": "5.22",
+						"areaProj": "18.51",
+						"spanProj": "8.21",
+						"ratioProj": "3.6",
+						"upperSurface": "Dominico 20D 38 g/m²",
+						"underSurface": "Dominico 20D 38 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 10cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"maxSpeed": "48",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80",
+						"weight": "4.5"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "24.36",
+						"spanFlat": "11.28",
+						"ratioFlat": "5.22",
+						"areaProj": "20.93",
+						"spanProj": "8.67",
+						"ratioProj": "3.6",
+						"upperSurface": "Dominico 20D 38 g/m²",
+						"underSurface": "Dominico 20D 38 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 10cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"maxSpeed": "48",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95",
+						"weight": "4.9"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "27",
+						"spanFlat": "11.87",
+						"ratioFlat": "5.22",
+						"areaProj": "23.17",
+						"spanProj": "9.13",
+						"ratioProj": "3.6",
+						"upperSurface": "Dominico 20D 38 g/m²",
+						"underSurface": "Dominico 20D 38 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 10cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"maxSpeed": "48",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110",
+						"weight": "5.3"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "29.76",
+						"spanFlat": "12.46",
+						"ratioFlat": "5.22",
+						"areaProj": "25.57",
+						"spanProj": "9.59",
+						"ratioProj": "3.6",
+						"upperSurface": "Dominico 20D 38 g/m²",
+						"underSurface": "Dominico 20D 38 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 10cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"maxSpeed": "48",
+						"trimSpeed": "37"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130",
+						"weight": "5.7"
+					},
+					"area": {
+						"cells": "44",
+						"areaFlat": "32.08",
+						"spanFlat": "12.94",
+						"ratioFlat": "5.22",
+						"areaProj": "27.56",
+						"spanProj": "9.95",
+						"ratioProj": "3.6",
+						"upperSurface": "Dominico 20D 38 g/m²",
+						"underSurface": "Dominico 20D 38 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 10cm",
+						"trims": "No",
+						"risers": "4",
+						"earsBLines": true,
+						"bestSinkRate": "1.15",
+						"maxSpeed": "48",
+						"trimSpeed": "37"
+					}
+				}
+			]
+		},
+		{
+			"name": "U sport",
+			"uuid": "6212a2bb-1969-476b-bd7e-25750159f5fd",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "U sport 2",
+			"uuid": "659bff91-0563-477f-ae92-87b09154b854",
+			"year": "2012",
+			"url": "http://www.aircross.eu/web/?page_id=1630&lang=en",
+			"subwing": [
+				{
+					"size": "xs",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85",
+						"weight": "6.1"
+					},
+					"area": {
+						"cells": "81",
+						"areaFlat": "21.5",
+						"spanFlat": "12.28",
+						"ratioFlat": "7",
+						"areaProj": "18.72",
+						"spanProj": "10.24",
+						"ratioProj": "5.59",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 32 32 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "25",
+						"maxSpeed": "60",
+						"trimSpeed": "41"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95",
+						"weight": "6.3"
+					},
+					"area": {
+						"cells": "81",
+						"areaFlat": "23",
+						"spanFlat": "12.69",
+						"ratioFlat": "7",
+						"areaProj": "20.03",
+						"spanProj": "10.58",
+						"ratioProj": "5.59",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 32 32 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "25",
+						"maxSpeed": "60",
+						"trimSpeed": "41"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105",
+						"weight": "6.5"
+					},
+					"area": {
+						"cells": "81",
+						"areaFlat": "24.5",
+						"spanFlat": "13.09",
+						"ratioFlat": "7",
+						"areaProj": "21.33",
+						"spanProj": "10.91",
+						"ratioProj": "5.59",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 32 32 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "25",
+						"maxSpeed": "60",
+						"trimSpeed": "41"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115",
+						"weight": "6.7"
+					},
+					"area": {
+						"cells": "81",
+						"areaFlat": "26",
+						"spanFlat": "13.49",
+						"ratioFlat": "7",
+						"areaProj": "22.64",
+						"spanProj": "11.24",
+						"ratioProj": "5.59",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 32 32 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "25",
+						"maxSpeed": "60",
+						"trimSpeed": "41"
+					}
+				},
+				{
+					"size": "XL",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "130",
+						"weight": "6.9"
+					},
+					"area": {
+						"cells": "81",
+						"areaFlat": "27.5",
+						"spanFlat": "13.87",
+						"ratioFlat": "7",
+						"areaProj": "23.95",
+						"spanProj": "11.56",
+						"ratioProj": "5.59",
+						"upperSurface": "Skytex 40 40 g/m² ",
+						"underSurface": "Skytex 32 32 g/m²"
+					},
+					"properties": {
+						"acceleration": "Yes, 13cm",
+						"trims": "No",
+						"risers": "3",
+						"earsBLines": true,
+						"bestSinkRate": "1.0",
+						"minSpeed": "25",
+						"maxSpeed": "60",
+						"trimSpeed": "41"
+					}
+				}
+			]
+		},
+		{
+			"name": "U sport Evo",
+			"uuid": "3d361344-67c3-42d2-9991-c0875c818110",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "EN D",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "125"
+					}
+				}
+			]
+		},
+		{
+			"name": "U sport Fr",
+			"uuid": "1a82fce6-6605-4001-b600-2b4e444739fc",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "110",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ultima 3",
+			"uuid": "ed46486e-75ac-43eb-88a2-8d37810ede37",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "97",
+						"weightMax": "117"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "93",
+						"weightMax": "112"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "84",
+						"weightMax": "102"
+					}
+				},
+				{
+					"size": "Xxl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "108",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ultima 3-2002",
+			"uuid": "8869e7de-70c1-47d0-b9b7-571c3d105c8c",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ultima 3-2003",
+			"uuid": "062ad29a-5c79-499d-afcf-ece15e548b89",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "97",
+						"weightMax": "117"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "93",
+						"weightMax": "112"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "84",
+						"weightMax": "102"
+					}
+				},
+				{
+					"size": "Xxl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "108",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ultima 3-2005",
+			"uuid": "6b50cd14-5f02-4a55-943f-f710052c9f99",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ultima 4",
+			"uuid": "32b37c66-1010-4894-b9ae-efd0199aae4a",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "90"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ultima 5",
+			"uuid": "80ad1206-a7b2-49bf-8ec8-7852f6bef71d",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ultima 6",
+			"uuid": "fb4199f6-9566-4748-935f-19940b400ad7",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "115"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "115",
+						"weightMax": "130"
+					}
+				}
+			]
+		}
+	]
+}

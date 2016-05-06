@@ -1,0 +1,205 @@
+{
+	"producer": {
+		"name": "Onika Paragliders",
+		"url": "./output/wings/logo/Onika Paragliders.png",
+		"uuid": "e0262899-0f6a-4ea3-aaef-b35261f8a25f"
+	},
+	"wings": [
+		{
+			"name": "Ires 1",
+			"uuid": "02ba6e30-6ea2-44a6-860d-279e524655cc",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ires 2",
+			"uuid": "e3e1b8bb-019a-4c9e-8054-000324227c1b",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Lancer Xc",
+			"uuid": "653404f3-1f4a-45e6-8405-951abf391f7d",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pegassus 1",
+			"uuid": "0857997a-7a12-4ade-9686-3ee0075a0cbe",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pegassus 2",
+			"uuid": "1a4193a6-a7eb-48c4-a9f8-b93b16696c84",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pegassus 3",
+			"uuid": "6e825fea-e132-4a1f-9007-6ec6a8eb1fe8",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Proteus 1",
+			"uuid": "8c052c69-a5ba-4b2d-87de-99a4adb99893",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Proteus 2",
+			"uuid": "199f0d33-82af-43a5-914c-5b55a07a697c",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Thor 1",
+			"uuid": "8de3d7ac-881d-466f-a25e-a1074fdc5891",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Thor 2",
+			"uuid": "ddbb0780-0391-4e5f-9b6c-efc8f397eef4",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Zeus 2",
+			"uuid": "89860330-607f-4f4c-8606-cf38ca70d70e",
+			"year": "2009",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Zeus",
+			"uuid": "55c935d3-f7a9-4531-9f8a-e38d79325988",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "24",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "120"
+					}
+				}
+			]
+		}
+	]
+}

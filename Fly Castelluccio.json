@@ -1,0 +1,188 @@
+{
+	"producer": {
+		"name": "Fly Castelluccio",
+		"uuid": "06f60c2b-8793-4051-a27d-e89a00ae6fa7"
+	},
+	"wings": [
+		{
+			"name": "Aria",
+			"uuid": "97785fde-f75b-4380-9413-6bc96d007300",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "24",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "70"
+					}
+				},
+				{
+					"size": "26",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "115"
+					}
+				}
+			]
+		},
+		{
+			"name": "Commander",
+			"uuid": "3833d4d0-2b67-4b68-a4a5-305556916b07",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "140",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "160",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ultima",
+			"uuid": "9a9b9b2d-db36-4090-891e-bce1e940286b",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "25",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Voyager",
+			"uuid": "323adb55-3d0b-45a0-864a-9893d37881d0",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "140",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "160",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "180",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "250",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "170"
+					}
+				},
+				{
+					"size": "140",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "160",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "125"
+					}
+				},
+				{
+					"size": "180",
+					"certificate": "DHV 1-2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "250",
+					"certificate": "Biplace",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "170"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "230"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "180"
+					}
+				}
+			]
+		}
+	]
+}

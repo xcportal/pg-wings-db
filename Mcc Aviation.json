@@ -1,0 +1,487 @@
+{
+	"producer": {
+		"name": "Mcc Aviation",
+		"url": "./output/wings/logo/Mcc Aviation.png",
+		"uuid": "26dae0ec-139f-40d5-a443-b2fc28d7e985"
+	},
+	"wings": [
+		{
+			"name": "Amaya",
+			"uuid": "15d81ecc-0892-4837-886c-5c1af336bedd",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "75"
+					}
+				},
+				{
+					"size": "Xxs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "48",
+						"weightMax": "70"
+					}
+				}
+			]
+		},
+		{
+			"name": "Arolla",
+			"uuid": "f8c49876-ebc2-489a-91c5-d017b820e632",
+			"year": "2012",
+			"url": "https://sites.google.com/site/mccaviationparapentes/arolla",
+			"subwing": [
+				{
+					"size": "XS",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "70",
+						"weight": "3"
+					},
+					"area": {
+						"cells": "38",
+						"areaFlat": "22.23",
+						"spanFlat": "10.22",
+						"ratioFlat": "4.7",
+						"areaProj": "19.73",
+						"spanProj": "8.11",
+						"ratioProj": "3.33",
+						"upperSurface": "Skytex 40 g/m2",
+						"underSurface": "Skytex 27 g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1.2",
+						"minSpeed": "22",
+						"maxSpeed": "46"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "63",
+						"weightMax": "87",
+						"weight": "3.2"
+					},
+					"area": {
+						"cells": "38",
+						"areaFlat": "24.05",
+						"spanFlat": "10.63",
+						"ratioFlat": "4.7",
+						"areaProj": "21.35",
+						"spanProj": "8.43",
+						"ratioProj": "3.33",
+						"upperSurface": "Skytex 40 g/m2",
+						"underSurface": "Skytex 27 g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1.2",
+						"minSpeed": "22",
+						"maxSpeed": "46"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "79",
+						"weightMax": "103",
+						"weight": "3.4"
+					},
+					"area": {
+						"cells": "38",
+						"areaFlat": "26.01",
+						"spanFlat": "11.06",
+						"ratioFlat": "4.7",
+						"areaProj": "23.09",
+						"spanProj": "8.77",
+						"ratioProj": "3.33",
+						"upperSurface": "Skytex 40 g/m2",
+						"underSurface": "Skytex 27 g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1.2",
+						"minSpeed": "22",
+						"maxSpeed": "46"
+					}
+				},
+				{
+					"size": "L",
+					"certificate": "EN A",
+					"weight": {
+						"weightMin": "92",
+						"weightMax": "120",
+						"weight": "3.6"
+					},
+					"area": {
+						"cells": "38",
+						"areaFlat": "28.13",
+						"spanFlat": "11.5",
+						"ratioFlat": "4.7",
+						"areaProj": "24.97",
+						"spanProj": "9.12",
+						"ratioProj": "3.33",
+						"upperSurface": "Skytex 40 g/m2",
+						"underSurface": "Skytex 27 g/m2"
+					},
+					"properties": {
+						"acceleration": "Yes, 14cm",
+						"trims": "No",
+						"risers": "4",
+						"bestSinkRate": "1.2",
+						"minSpeed": "22",
+						"maxSpeed": "46"
+					}
+				}
+			]
+		},
+		{
+			"name": "Beluga",
+			"uuid": "67b64351-0ee3-4a4a-b9f3-924527fcb297",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "-",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "130",
+						"weightMax": "220"
+					}
+				}
+			]
+		},
+		{
+			"name": "Boraa 2",
+			"uuid": "6e600854-0435-488f-af53-2e5d1a39b041",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "108",
+						"weightMax": "140"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "87",
+						"weightMax": "113"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "71",
+						"weightMax": "92"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "58",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Boraa H2",
+			"uuid": "4eff502b-01ea-4b88-97ca-8be8c85198f0",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "91",
+						"weightMax": "113"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "77",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "81"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "69"
+					}
+				}
+			]
+		},
+		{
+			"name": "Boraa",
+			"uuid": "c8d3010e-a2b5-49f9-89ae-7e0c54eada5b",
+			"year": "2002",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "AFNOR Standard",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Insinia",
+			"uuid": "60368ab5-3d0e-4546-8e01-ff451335ef51",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "95",
+						"weightMax": "120"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "80",
+						"weightMax": "100"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN C",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Malula",
+			"uuid": "decab75f-0092-4e5a-a374-567be0f22917",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "90",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "80"
+					}
+				},
+				{
+					"size": "Xl",
+					"certificate": "DHV 2",
+					"weight": {
+						"weightMin": "105",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Orbaa Evo",
+			"uuid": "b9bd2ae9-c52f-4965-88f6-a661eb352dd4",
+			"year": "2011",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "84",
+						"weightMax": "107"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "56",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Orbaa H2",
+			"uuid": "ceeb1d86-069c-4749-b4a5-5f6680b9c2fa",
+			"year": "2010",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "84",
+						"weightMax": "107"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "56",
+						"weightMax": "75"
+					}
+				}
+			]
+		},
+		{
+			"name": "Orbaa",
+			"uuid": "6ea978a7-b002-4c06-904a-6f28532d5891",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "100",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "84",
+						"weightMax": "107"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "70",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "Xs",
+					"certificate": "EN B",
+					"weight": {
+						"weightMin": "56",
+						"weightMax": "75"
+					}
+				}
+			]
+		}
+	]
+}

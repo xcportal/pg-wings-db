@@ -1,0 +1,209 @@
+{
+	"producer": {
+		"name": "Bio Air Technologies",
+		"uuid": "2b3ea216-18dd-43f4-82ad-e945f4716f43"
+	},
+	"wings": [
+		{
+			"name": "Bi-bio",
+			"uuid": "24ffdb6a-23d1-4266-885d-145b751a420b",
+			"year": "2005",
+			"subwing": [
+				{
+					"size": "37",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "125",
+						"weightMax": "160"
+					}
+				},
+				{
+					"size": "42",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "140",
+						"weightMax": "210"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bionic 2",
+			"uuid": "ecc9415e-7f3d-4a40-87b7-8a47176384f4",
+			"year": "2003",
+			"subwing": [
+				{
+					"size": "L",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "85",
+						"weightMax": "105"
+					}
+				},
+				{
+					"size": "M",
+					"certificate": "AFNOR Performance",
+					"weight": {
+						"weightMin": "75",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "S",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "65",
+						"weightMax": "85"
+					}
+				}
+			]
+		},
+		{
+			"name": "Boozz",
+			"uuid": "df42065e-1a1e-4c2d-bcd3-9905babd91c0",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "13",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "130"
+					}
+				}
+			]
+		},
+		{
+			"name": "Bulle",
+			"uuid": "46845d80-c784-4f8a-805f-4bf8e555cfe2",
+			"year": "2006",
+			"subwing": [
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "90"
+					}
+				},
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "100"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kenzen",
+			"uuid": "f0e79033-9e00-48ca-b9c3-b346c820ddf2",
+			"year": "2008",
+			"subwing": [
+				{
+					"size": "22",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "25",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "28",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "31",
+					"certificate": "NYC",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rocket",
+			"uuid": "95f1e9ea-e0ed-4496-9e52-13b34e635f10",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "50",
+						"weightMax": "110"
+					}
+				},
+				{
+					"size": "13",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "60",
+						"weightMax": "130"
+					}
+				},
+				{
+					"size": "8",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				}
+			]
+		},
+		{
+			"name": "Skim",
+			"uuid": "60f2c39d-499d-45c2-9969-bcb5aa2cdb64",
+			"year": "2007",
+			"subwing": [
+				{
+					"size": "10",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "0",
+						"weightMax": "0"
+					}
+				},
+				{
+					"size": "12",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "95"
+					}
+				},
+				{
+					"size": "15",
+					"certificate": "Nil",
+					"weight": {
+						"weightMin": "55",
+						"weightMax": "105"
+					}
+				}
+			]
+		}
+	]
+}
